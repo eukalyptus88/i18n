@@ -1,10 +1,11 @@
 {
   "name": "i18n",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "readmeFilename": "README.md",
   "description": "Translations dictionary for all VTEX applications",
   "main": "index.html",
   "deploy": "deploy/",
+  "backend": "https://io.vtex.com.br/",
   "devDependencies": {
     "coffeelint": "~1.6.1",
     "grunt": "~0.4.5",
