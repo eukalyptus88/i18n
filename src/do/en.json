@@ -1,0 +1,77 @@
+{  
+   "tasks":{  
+      "title":"All"
+   },
+   "myTasks":{  
+      "title":"Mine"
+   },
+   "task":{  
+      "title":"Task",
+      "created":"Created at",
+      "doAndClose":"Do and close task",
+      "close":"Close",
+      "open":"Reopen task",
+      "viewMore":"View more info",
+      "assigneeTo":"Assign to",
+      "loadingUsers":"Searching peers...",
+      "postpone":{  
+         "title":"Postpone",
+         "fewHours":"Few hours",
+         "endOfDay":"End of the day",
+         "tomorrow":"Tomorrow",
+         "nextWeek":"Next week",
+         "pickDate":"Pick a date"
+      },
+      "context":{  
+         "Catalog":"Catalog",
+         "Commercial":"Commercial",
+         "Financial":"Financial",
+         "Infra":"Infrastructure",
+         "Backoffice":"Backoffice & ERP",
+         "Frontend":"Frontend",
+         "Marketplace":"Marketplace"
+      },
+      "dismiss":"Dismiss"
+   },
+   "comments":{  
+      "saidAt":"said at",
+      "sendComment":"Comment",
+      "placeholder":"Your comment"
+   },
+   "search":{  
+      "title":"Search",
+      "placeholder":"Search by name, user, comment...",
+      "show":"View"
+   },
+   "filter":{  
+      "open":"Only open",
+      "context":{  
+         "Catalog":"Catalog",
+         "Commercial":"Commercial",
+         "Financial":"Financial",
+         "Infra":"Infrastructure",
+         "Backoffice":"Backoffice & ERP",
+         "Frontend":"Frontend",
+         "Marketplace":"Marketplace"
+      }
+   },
+   "assigneeSearch":{  
+      "placeholder":"Search by name or email",
+      "clearAssignee":"Nobody"
+   },
+   "common":{  
+      "you":"You",
+      "mine":"Remove from Mine",
+      "makeMine":"Set as my task",
+      "theirs":"Not mine"
+   },
+   "wow":{  
+      "introducing":"Introducing",
+      "vtexDo":"VTEX DO",
+      "description":"Actions you need to do on the VTEX plataform as <em>Smart Tasks</em>, all in one place.",
+      "item1":"See the <em>Smart Tasks</em> list",
+      "item2":"Get your tasks using the <i class=\"afd-fa afd-fa-star\"></i> or assign it to peers using the menu <i class=\"afd-fa afd-fa-ellipsis-v\"></i>",
+      "item3":"Did you solve it? Just close the <em>Smart Task</em>",
+      "item4":"Enjoy your free time :)"
+   }
+}

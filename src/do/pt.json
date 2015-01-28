@@ -1,0 +1,77 @@
+{  
+   "tasks":{  
+      "title":"Todas"
+   },
+   "myTasks":{  
+      "title":"Minhas"
+   },
+   "task":{  
+      "title":"Tarefa",
+      "created":"Criada em",
+      "doAndClose":"Fazer e fechar tarefa",
+      "close":"Fechar",
+      "open":"Reabrir tarefa",
+      "viewMore":"Ver mais detalhes",
+      "assigneeTo":"Atribuir a",
+      "loadingUsers":"Buscando colegas...",
+      "postpone":{  
+         "title":"Adiar",
+         "fewHours":"Algumas horas",
+         "endOfDay":"Fim do dia",
+         "tomorrow":"Amanhã",
+         "nextWeek":"Próxima semana",
+         "pickDate":"Escolha uma data"
+      },
+      "context":{  
+         "Catalog":"Catálogo",
+         "Commercial":"Comercial",
+         "Financial":"Financeiro",
+         "Infra":"Infraestrutura",
+         "Backoffice":"Backoffice & ERP",
+         "Frontend":"Frontend",
+         "Marketplace":"Marketplace"
+      },
+      "dismiss":"Ignorar"
+   },
+   "comments":{  
+      "saidAt":"disse em",
+      "sendComment":"Comentar",
+      "placeholder":"Seu comentário"
+   },
+   "search":{  
+      "title":"Busca",
+      "placeholder":"Buscar por nome, pessoa, comentário...",
+      "show":"Exibir"
+   },
+   "filter":{  
+      "open":"Apenas as abertas",
+      "context":{  
+         "Catalog":"Catálogo",
+         "Commercial":"Comercial",
+         "Financial":"Financeiro",
+         "Infra":"Infraestrutura",
+         "Backoffice":"Backoffice & ERP",
+         "Frontend":"Frontend",
+         "Marketplace":"Marketplace"
+      }
+   },
+   "assigneeSearch":{  
+      "placeholder":"Buscar nome ou e-mail",
+      "clearAssignee":"Ninguém"
+   },
+   "common":{  
+      "you":"Você",
+      "mine":"Remover das minhas",
+      "makeMine":"Marcar como minha",
+      "theirs":"Não é minha"
+   },
+   "wow":{  
+      "introducing":"Apresentamos o",
+      "vtexDo":"VTEX DO",
+      "description":"Ações que você precisa fazer na plataforma VTEX em forma de Smart Tasks, num só lugar.",
+      "item1":"Veja a lista de Smart Tasks",
+      "item2":"Marque com  aquelas que são suas ou atribua a colegas usando o menu ",
+      "item3":"Resolveu? É só fechar a Smart Task",
+      "item4":"Aproveite o tempo livre :)"
+   }
+}
