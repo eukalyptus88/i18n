@@ -1,77 +1,77 @@
-{  
-   "tasks":{  
-      "title":"Todas"
-   },
-   "myTasks":{  
-      "title":"Minhas"
-   },
-   "task":{  
-      "title":"Tarefa",
-      "created":"Criada em",
-      "doAndClose":"Fazer e fechar tarefa",
-      "close":"Fechar",
-      "open":"Reabrir tarefa",
-      "viewMore":"Ver mais detalhes",
-      "assigneeTo":"Atribuir a",
-      "loadingUsers":"Buscando colegas...",
-      "postpone":{  
-         "title":"Adiar",
-         "fewHours":"Algumas horas",
-         "endOfDay":"Fim do dia",
-         "tomorrow":"Amanhã",
-         "nextWeek":"Próxima semana",
-         "pickDate":"Escolha uma data"
-      },
-      "context":{  
-         "Catalog":"Catálogo",
-         "Commercial":"Comercial",
-         "Financial":"Financeiro",
-         "Infra":"Infraestrutura",
-         "Backoffice":"Backoffice & ERP",
-         "Frontend":"Frontend",
-         "Marketplace":"Marketplace"
-      },
-      "dismiss":"Ignorar"
-   },
-   "comments":{  
-      "saidAt":"disse em",
-      "sendComment":"Comentar",
-      "placeholder":"Seu comentário"
-   },
-   "search":{  
-      "title":"Busca",
-      "placeholder":"Buscar por nome, pessoa, comentário...",
-      "show":"Exibir"
-   },
-   "filter":{  
-      "open":"Apenas as abertas",
-      "context":{  
-         "Catalog":"Catálogo",
-         "Commercial":"Comercial",
-         "Financial":"Financeiro",
-         "Infra":"Infraestrutura",
-         "Backoffice":"Backoffice & ERP",
-         "Frontend":"Frontend",
-         "Marketplace":"Marketplace"
-      }
-   },
-   "assigneeSearch":{  
-      "placeholder":"Buscar nome ou e-mail",
-      "clearAssignee":"Ninguém"
-   },
-   "common":{  
-      "you":"Você",
-      "mine":"Remover das minhas",
-      "makeMine":"Marcar como minha",
-      "theirs":"Não é minha"
-   },
-   "wow":{  
-      "introducing":"Apresentamos o",
-      "vtexDo":"VTEX DO",
-      "description":"Ações que você precisa fazer na plataforma VTEX em forma de Smart Tasks, num só lugar.",
-      "item1":"Veja a lista de Smart Tasks",
-      "item2":"Marque com  aquelas que são suas ou atribua a colegas usando o menu ",
-      "item3":"Resolveu? É só fechar a Smart Task",
-      "item4":"Aproveite o tempo livre :)"
-   }
+{
+  "tasks": {
+    "title": "Todas"
+  },
+  "myTasks": {
+    "title": "Mis"
+  },
+  "task": {
+    "title": "Tareas",
+    "created": "Creada en",
+    "doAndClose": "Hacer y Cerrar tareas",
+    "close": "Cerrar",
+    "open": "Reabrir tarea",
+    "viewMore": "Ver más detalles",
+    "assigneeTo": Asignar a",
+    "loadingUsers": "Buscando colegas...",
+    "postpone": {
+      "title": "Posponer",
+      "fewHours": "Algunas horas",
+      "endOfDay": "Fin del día",
+      "tomorrow": "Mañana",
+      "nextWeek": "Próxima semana",
+      "pickDate": "Elige una fecha"
+    },
+    "context": {
+      "Catalog": "Catálogo",
+      "Commercial": "Comercial",
+      "Financial": "Financiero",
+      "Infra": "Infraestructura",
+      "Backoffice": "Backoffice & ERP",
+      "Frontend": "Frontend",
+      "Marketplace": "Marketplace"
+    },
+    "dismiss": "Ignorar"
+  },
+  "comments": {
+    "saidAt": "dicho en",
+    "sendComment": "Comentar",
+    "placeholder": "Su comentario"
+  },
+  "search": {
+    "title": "Búsqueda",
+    "placeholder": "Buscar por nombre, persona, comentario...",
+    "show": "Exhibir"
+  },
+  "filter": {
+    "open": "Solo las abiertas",
+    "context": {
+      "Catalog": "Catálogo",
+      "Commercial": "Comercial",
+      "Financial": "Financiero",
+      "Infra": "Infraestructura",
+      "Backoffice": "Backoffice & ERP",
+      "Frontend": "Frontend",
+      "Marketplace": "Marketplace"
+    }
+  },
+  "assigneeSearch": {
+    "placeholder": "Buscar nombre o e-mail",
+    "clearAssignee": "Nadie"
+  },
+  "common": {
+    "you": "Usted",
+    "mine": "Quitar de mis",
+    "makeMine": "Hacerla mía",
+    "theirs": "No es mía"
+  },
+  "wow": {
+    "introducing": "Presentamos el",
+    "vtexDo": "VTEX DO",
+    "description": "Acciones que tienen que hacer en la plataforma VTEX en forma de Smart Tasks, en un solo lugar.",
+    "item1": "Vea la lista de Smart Tasks",
+    "item2": "Elige con aquellas que son suyas o agregue a colegas utilizando el menú ",
+    "item3": "Resuelto? Es solo cerrar la Smart Task",
+    "item4": "Disfrute de tiempo libre :)"
+  }
 }
