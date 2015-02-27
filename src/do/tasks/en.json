@@ -1,5 +1,8 @@
 {
   "oms": {
     "orderCancellation": "Cancellation requested"
+  },
+  "message-center" : {
+    "template-with-error" : "Template with error"
   }
 }
