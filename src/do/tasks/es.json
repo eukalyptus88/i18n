@@ -2,6 +2,10 @@
   "oms": {
     "orderCancellation": "Cancelación solicitada"
   },
+  "gtw": {
+    "refundManualPayment": "Devolución manual de pago",
+    "refundManualPaymentDescription": "Es necesário devolver el dinero de pago al comprador"
+  },
   "message-center" : {
     "template-with-error" : "Plantilla con error"
   }

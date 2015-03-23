@@ -2,6 +2,10 @@
   "oms": {
     "orderCancellation": "Cancellation requested"
   },
+  "gtw": {
+    "refundManualPayment": "A payment should be refunded manually",
+    "refundManualPaymentDescription": "It is necessary to refund a payment to the buye"
+  },
   "message-center" : {
     "template-with-error" : "Template with error"
   }

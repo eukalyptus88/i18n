@@ -2,6 +2,10 @@
   "oms": {
     "orderCancellation": "Cancelamento requisitado"
   },
+  "gtw": {
+    "refundManualPayment": "Estorno manual necessário",
+    "refundManualPaymentDescription": "Precisa estornar o pagamento ao comprador"
+  },
   "message-center" : {
     "template-with-error" : "Template com erro"
   }
