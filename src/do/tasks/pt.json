@@ -4,7 +4,9 @@
   },
   "gtw": {
     "refundManualPayment": "Estorno manual necessário",
-    "refundManualPaymentDescription": "Precisa estornar o pagamento ao comprador"
+    "refundManualPaymentDescription": "Precisa estornar o pagamento ao comprador",
+    "cancelManualPayment": "Cancelamento manual necessário",
+    "cancelManualPaymentDescription": "Precisa cancelamento o pagamento ao comprador"
   },
   "message-center" : {
     "template-with-error" : "Template com erro"

@@ -4,7 +4,9 @@
   },
   "gtw": {
     "refundManualPayment": "A payment should be refunded manually",
-    "refundManualPaymentDescription": "It is necessary to refund a payment to the buye"
+    "refundManualPaymentDescription": "It is necessary to refund a payment to the buyer",
+    "cancelManualPayment": "A payment should be cancelled manually",
+    "cancelManualPaymentDescription": "It is necessary to cancel a payment to the buyer"
   },
   "message-center" : {
     "template-with-error" : "Template with error"

@@ -4,7 +4,9 @@
   },
   "gtw": {
     "refundManualPayment": "Devolución manual de pago",
-    "refundManualPaymentDescription": "Es necesário devolver el dinero de pago al comprador"
+    "refundManualPaymentDescription": "Es necesário devolver el dinero de pago al comprador",
+    "cancelManualPayment": "Devolución manual de pago por cancelamiento",
+    "cancelManualPaymentDescription": "Es necesário revisar el estado de cancelamiento el dinero de pago al comprador"
   },
   "message-center" : {
     "template-with-error" : "Plantilla con error"
