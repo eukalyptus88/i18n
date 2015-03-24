@@ -6,7 +6,9 @@
     "refundManualPayment": "Estorno manual necessário",
     "refundManualPaymentDescription": "Precisa estornar o pagamento ao comprador",
     "cancelManualPayment": "Cancelamento manual necessário",
-    "cancelManualPaymentDescription": "Precisa cancelamento o pagamento ao comprador"
+    "cancelManualPaymentDescription": "Precisa cancelar o pagamento ao comprador e verificar a devolução do dinheiro",
+    "checkPaymentSettlement": "Error em Captura de Pagamento",
+    "checkPaymentSettlementDescription": "Ocorreu um erro na captura do pagamento. Entre em contato com a adquirente que processou o pagamento e verifique a captura"
   },
   "message-center" : {
     "template-with-error" : "Template com erro"

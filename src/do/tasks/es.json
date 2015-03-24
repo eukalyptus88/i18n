@@ -6,7 +6,9 @@
     "refundManualPayment": "Devolución manual de pago",
     "refundManualPaymentDescription": "Es necesário devolver el dinero de pago al comprador",
     "cancelManualPayment": "Devolución manual de pago por cancelamiento",
-    "cancelManualPaymentDescription": "Es necesário revisar el estado de cancelamiento el dinero de pago al comprador"
+    "cancelManualPaymentDescription": "Es necesário revisar el estado del pago, y caso necesário devolver el dinero de pago al comprador",
+    "checkPaymentSettlement": "Error en Captura de pago en conector",
+    "checkPaymentSettlementDescription": "Ocurrió un problema al intentar capturar el pago, entre en contacto con el procesador de pago y verifique la captura"
   },
   "message-center" : {
     "template-with-error" : "Plantilla con error"
