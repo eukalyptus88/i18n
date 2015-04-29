@@ -1,0 +1,26 @@
+{
+  "selected": "Seleccionado",
+  "edit": "Editar",
+  "save": "Guardar",
+  "form": {
+    "postalCode": "Código Postal",
+    "street": "Calle",
+    "number": "Número",
+    "complement": "Complemento",
+    "neighborhood": "Barrio",
+    "city": "Ciudad",
+    "state": "Estado",
+    "country": "País",
+    "receiverName": "Quien va a recibir"
+  },
+  "countries": {
+    "BRA": "Brasil",
+    "ARG": "Argentina",
+    "USA": "Estados Unidos"
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "alphaNumericPunctuation": "Introduzca sólo letras y números",
+    "cep": "Introduzca un CEP válido"
+  }
+}
