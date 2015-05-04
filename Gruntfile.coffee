@@ -7,6 +7,8 @@ module.exports = (grunt) ->
     livereload: !grunt.option('no-lr')
     relativePath: 'i18n'
 
+  delete defaultConfig.watch
+
   # Add custom configuration here as needed
   customConfig =
     connect:
@@ -15,11 +17,14 @@ module.exports = (grunt) ->
           base: 'build'
           open: false
           hostname: "*"
-          port: process.env.PORT || 80
+          port: process.env.PORT || 8081
           middleware: [
             (req, res, next) ->
               res.setHeader('Access-Control-Allow-Origin', '*')
               res.setHeader('Access-Control-Allow-Methods', '*')
+              res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate')
+              res.setHeader('Pragma', 'no-cache')
+              res.setHeader('Expires', '0')
               next()
           ]
 
