@@ -12,5 +12,8 @@
   },
   "message-center" : {
     "template-with-error" : "Plantilla con error"
+  },
+  "order-auth-pipe" : {
+    "authorize-order" : "Autorizacion de pedido alterado manualmente"
   }
 }

@@ -12,5 +12,8 @@
   },
   "message-center" : {
     "template-with-error" : "Template with error"
+  },
+  "order-auth-pipe" : {
+    "authorize-order" : "Authorize order with custom discount"
   }
 }

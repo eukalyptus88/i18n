@@ -12,5 +12,8 @@
   },
   "message-center" : {
     "template-with-error" : "Template com erro"
+  },
+  "order-auth-pipe" : {
+    "authorize-order" : "Autorizar pedido com alçada"
   }
 }
