@@ -2,6 +2,7 @@
   "selected": "Selecionado",
   "edit": "Editar",
   "save": "Salvar",
+  "newAddress": "Novo endereço",
   "cancel": "Cancelar",
   "form": {
     "postalCode": "Código Postal",
