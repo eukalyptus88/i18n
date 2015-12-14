@@ -15,5 +15,8 @@
   },
   "order-auth-pipe" : {
     "authorize-order" : "Authorize order with custom discount"
+  },
+  "pricing" : {
+    "Markup" : "Price is lower than minimum markup"
   }
 }

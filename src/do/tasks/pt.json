@@ -15,5 +15,8 @@
   },
   "order-auth-pipe" : {
     "authorize-order" : "Autorizar pedido com alçada"
+  },
+  "pricing" : {
+    "Markup" : "Preço menor que markup mínimo"
   }
 }
