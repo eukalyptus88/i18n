@@ -45,6 +45,7 @@
   },
   "filter": {
     "open": "Solo las abiertas",
+    "unassigned": "Solo las no asignadas",
     "context": {
       "Catalog": "Catálogo",
       "Commercial": "Comercial",

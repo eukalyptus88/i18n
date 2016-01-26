@@ -1,11 +1,11 @@
-{  
-   "tasks":{  
+{
+   "tasks":{
       "title":"All"
    },
-   "myTasks":{  
+   "myTasks":{
       "title":"Mine"
    },
-   "task":{  
+   "task":{
       "title":"Task",
       "created":"Created at",
       "doAndClose":"Do and close task",
@@ -14,7 +14,7 @@
       "viewMore":"View more info",
       "assigneeTo":"Assign to",
       "loadingUsers":"Searching peers...",
-      "postpone":{  
+      "postpone":{
          "title":"Postpone",
          "fewHours":"Few hours",
          "endOfDay":"End of the day",
@@ -22,7 +22,7 @@
          "nextWeek":"Next week",
          "pickDate":"Pick a date"
       },
-      "context":{  
+      "context":{
          "Catalog":"Catalog",
          "Commercial":"Commercial",
          "Financial":"Financial",
@@ -33,19 +33,20 @@
       },
       "dismiss":"Dismiss"
    },
-   "comments":{  
+   "comments":{
       "saidAt":"said at",
       "sendComment":"Comment",
       "placeholder":"Your comment"
    },
-   "search":{  
+   "search":{
       "title":"Search",
       "placeholder":"Search by name, user, comment...",
       "show":"View"
    },
-   "filter":{  
+   "filter":{
       "open":"Only open",
-      "context":{  
+      "unassigned": "Only unassigned",
+      "context":{
          "Catalog":"Catalog",
          "Commercial":"Commercial",
          "Financial":"Financial",
@@ -55,17 +56,17 @@
          "Marketplace":"Marketplace"
       }
    },
-   "assigneeSearch":{  
+   "assigneeSearch":{
       "placeholder":"Search by name or email",
       "clearAssignee":"Nobody"
    },
-   "common":{  
+   "common":{
       "you":"You",
       "mine":"Remove from Mine",
       "makeMine":"Set as my task",
       "theirs":"Not mine"
    },
-   "wow":{  
+   "wow":{
       "introducing":"Introducing",
       "vtexDo":"VTEX DO",
       "description":"Actions you need to do on the VTEX plataform as <em>Smart Tasks</em>, all in one place.",

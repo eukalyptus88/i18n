@@ -1,11 +1,11 @@
-{  
-   "tasks":{  
+{
+   "tasks":{
       "title":"Todas"
    },
-   "myTasks":{  
+   "myTasks":{
       "title":"Minhas"
    },
-   "task":{  
+   "task":{
       "title":"Tarefa",
       "created":"Criada em",
       "doAndClose":"Fazer e fechar tarefa",
@@ -14,7 +14,7 @@
       "viewMore":"Ver mais detalhes",
       "assigneeTo":"Atribuir a",
       "loadingUsers":"Buscando colegas...",
-      "postpone":{  
+      "postpone":{
          "title":"Adiar",
          "fewHours":"Algumas horas",
          "endOfDay":"Fim do dia",
@@ -22,7 +22,7 @@
          "nextWeek":"Próxima semana",
          "pickDate":"Escolha uma data"
       },
-      "context":{  
+      "context":{
          "Catalog":"Catálogo",
          "Commercial":"Comercial",
          "Financial":"Financeiro",
@@ -33,19 +33,20 @@
       },
       "dismiss":"Ignorar"
    },
-   "comments":{  
+   "comments":{
       "saidAt":"disse em",
       "sendComment":"Comentar",
       "placeholder":"Seu comentário"
    },
-   "search":{  
+   "search":{
       "title":"Busca",
       "placeholder":"Buscar por nome, pessoa, comentário...",
       "show":"Exibir"
    },
-   "filter":{  
+   "filter":{
       "open":"Apenas as abertas",
-      "context":{  
+      "unassigned": "Apenas as não atribuídas",
+      "context":{
          "Catalog":"Catálogo",
          "Commercial":"Comercial",
          "Financial":"Financeiro",
@@ -55,17 +56,17 @@
          "Marketplace":"Marketplace"
       }
    },
-   "assigneeSearch":{  
+   "assigneeSearch":{
       "placeholder":"Buscar nome ou e-mail",
       "clearAssignee":"Ninguém"
    },
-   "common":{  
+   "common":{
       "you":"Você",
       "mine":"Remover das minhas",
       "makeMine":"Marcar como minha",
       "theirs":"Não é minha"
    },
-   "wow":{  
+   "wow":{
       "introducing":"Apresentamos o",
       "vtexDo":"VTEX DO",
       "description":"Ações que você precisa fazer na plataforma VTEX em forma de Smart Tasks, num só lugar.",
