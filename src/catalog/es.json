@@ -1,0 +1,25 @@
+{"mainMenu": 
+	{
+		"products":
+			{
+				"label": "Registro del Producto"
+			},
+		"campaigns":"Campañas",
+		"settings": 
+		{
+			"label": "Configuraciones"
+		},
+		"reports": 
+		{
+			"label": "Informes"
+		},
+		"add-on": 
+		{
+			"label": "Add On"
+		},
+		"marketplace": 
+		{
+			"label": "MarketPlace"
+		} 
+	}
+}

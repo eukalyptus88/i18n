@@ -1,0 +1,182 @@
+{
+	"mainMenu": 
+	{
+		"products": 
+			{
+				"label": "Cadastro de Produtos",
+				"category": "Categoria",
+				"provider": "Fornecedor",
+				"brand": "Marca",
+				"products-and-skus": 
+					{
+						"label": "Produtos e Skus",
+						"insert-update-product-and-sku": "Cadastro de Produtos e Skus",
+						"link-services-to-sku": "Vincular Valor(es) de Serviço(s) a SKU(s)",
+						"import-export-products-and-skus": "Importar/Exportar Produtos e SKUs",
+						"import-export-product-specifications": "Importar/Exportar Especificação de Produto",
+						"import-export-sku-specifications": "Importar/Exportar Especificação de SKUs",
+						"import-export-sku-table-values": "Importar/Exportar Valores de Tabela de SKUs",
+						"export-sku-images": "Exportar Imagens de SKUs",
+						"import-images": "Importar Imagens",
+						"export-product-evaluations": "Exportar Avaliações de Produtos",
+						"sku-comercial-conditional": "Condição Comercial de SKU"
+					},
+				"service-types": "Tipos de Serviço",
+				"service-values": "Valores de Serviço",
+				"sku-and-service-attachments": "Anexos de Serviço e Sku"
+		},
+		"campaigns": "Controle de Campanhas",
+		"settings": 
+			{
+				"label": "Configurações",
+				"system": "Sistema",
+				"seo": "SEO",
+				"texts": "Textos",
+				"list-types": "Tipos de Lista",
+				"scripts": "Scripts",
+				"xml": "XML",
+				"file-types": "Tipos de Arquivos",
+				"portal": "Portal",
+				"integration-vtex-kpl": "Integração VTEX X KPL",
+				"geographical-regions": "Regiões Geográficas"
+			},
+		"reports": 
+		{
+			"label": "Relatórios",
+			"search": "Busca",
+			"ab-test": "Teste AB",
+			"security": "Segurança",
+			"download-reports": "Download de Relatórios",
+			"monitoring": "Monitoramento",
+			"lists": 
+				{
+					"label": "Listas",
+					"all-lists": "Todas as Listas"
+				},
+			"indexer-report": "Relatório de Indexação",
+			"skus-report": "Relatório de SKUs",
+			"sku-supply-report": "Relatório de Abastecimento de SKUs",
+			"let-me-know-report": "Relatório de Avise-Me",
+			"news-report": "Relatório de News",
+			"integration-errors-report": "Erros de Integração VTEX X KPL"
+		},
+		"add-on": 
+			{
+				"label": "Add On",
+				"digest": "Resenha",
+				"tags": "Tags",
+				"postal-codes": "Faixas de CEP",
+				"physical-store": "Lojas Fisicas",
+				"physical-store-types": "Tipos de Lojas Fisica",
+				"specialists": "Especialistas"
+			},
+		"marketplace": 
+			{
+				"label": "MarketPlace",
+				"comercial-policy": "Política Comercial",
+				"category-and-brand-maps": "Mapeamento de Categorias e Marcas",
+				"sellers": "Sellers",
+				"sku-suggestion": "Sugestões de SKUs",
+				"seller-sku": "SKUs dos Sellers"
+			}
+	},
+
+"skuForm": 
+	{
+		"sku": 
+			{
+				"label": "SKU",
+				"info": "Preencha as informações referentes ao SKU",
+				"required-field": "Campo Obrigatório",
+				"product-name": "Nome do Produto (Id)",
+				"stock": "Estoque",
+				"stock-visualize": "Visualizar Estoque (logistics)",
+				"administrator": "Administrador que aprovou o SKU (Id)",
+				"date": "Data do Cadastro",
+				"name": "Nome",
+				"fidelity": "Valor para Fidelidade",
+				"ean": "EAN13",
+				"reference-code": "Codigo de Referência",
+				"weight": "Peso para Frete (Gramas)",
+				"height": "Altura para Frete (Centimetros)",
+				"width": "Largura para Frete (Centimetros)",
+				"length": "Comprimento para Frete (Centimetros)",
+				"cubic-weight": "Peso Cúbico",
+				"real-weight": "Peso Real (Gramas)",
+				"real-height": "Altura Real (Centimetros)",
+				"real-width": "Largura Real (Centimetros)",
+				"real-length": "Comprimento Real (Centimetros)",
+				"pre-sale-date": "Data Previsão Chegada (pré-venda)",
+				"accessories": "Acessórios",
+				"suggestion": "Sugestão",
+				"similar": "Similar (Produtos Suplentes)",
+				"show-together": "Mostrar junto",
+				"comercial-condition-code": "Código condição comercial",
+				"unit-measurement": "Unidade de Medida",
+				"unit-multiplier": "Multiplicador de Unidade",
+				"gift-card-colection-restriction": "Vale Presente - Restrição de Coleção:",
+				"skuForm.sku.gift-card-brand-restriction": "Vale Presente - Restrição de Marca:",
+				"activate-if-possible": "Ativar o SKU se possível",
+				"activated": "SKU Ativo?",
+				"manufacturer-code": "Código do Fabricante"
+			},
+		"images": 
+			{
+				"label": "Imagens"
+			},
+		"specifications": 
+			{
+				"label": "Especificações"
+			},
+		"advanced-settings": 
+			{
+				"label": "Configurações Avançadas"
+			}
+	},
+
+"breadcrumb": 
+	{
+		"product-and-sku": "cadastro de produtos e skus",
+		"product": "produtos"
+	},
+
+"contol":
+	  {
+		"generic-table": 
+			{
+				"actual-selection": "Seleção atual",
+				"advanced-search": "Busca Avançada",
+				"add": "Adicionar",
+				"remove": "Retirar"
+			}
+	  },
+
+"product": 
+	{
+		"title": "Cadastro de Produtos",
+		"add": "Adicionar Produto",
+		"message": 
+			{
+				"part-1": "Melhoramos a importação e exportação do Relatório de Skus!",
+				"part-2": "Clique aqui",
+				"part-3": "para ser direcionado para uma opção de Relatório de Skus mais completo e organizado."
+			},
+		"found": "produtos encontrados",
+		"image": "Imagem",
+		"name": "Nome",
+		"sku": "Sku",
+		"status": "Status",
+		"indexed-date": "Data de Indexação",
+		"edit": "Editar",
+		"similar-category": "Categoria Similar",
+		"opinion": "Opinião",
+		"delete": "Excluir",
+		"copy-with-skus": "Copiar Com Skus",
+		"indexed-info": "Indexed Info",
+		"no-results": "Nenhum produto encontrado",
+		"active": "Ativo",
+		"inactive": "Inativo",
+		"open-page": "ver no site",
+		"update": "Alterar"
+	}
+}

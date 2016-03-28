@@ -1,0 +1,458 @@
+{
+    "mainMenu": {
+        "products": {
+            "label": "Cadastro de Produtos",
+            "category": "Categoria",
+            "provider": "Fornecedor",
+            "brand": "Marca",
+            "products-and-skus": {
+                "label": "Produtos e Skus",
+                "insert-update-product-and-sku": "Cadastro de Produtos e Skus",
+                "link-services-to-sku": "Vincular Valor(es) de Serviço(s) a SKU(s)",
+                "import-export-products-and-skus": "Importar/Exportar Produtos e SKUs",
+                "import-export-product-specifications": "Importar/Exportar Especificação de Produto",
+                "import-export-sku-specifications": "Importar/Exportar Especificação de SKUs",
+                "import-export-sku-table-values": "Importar/Exportar Valores de Tabela de SKUs",
+                "export-sku-images": "Exportar Imagens de SKUs",
+                "import-images": "Importar Imagens",
+                "export-product-evaluations": "Exportar Avaliações de Produtos",
+                "sku-comercial-conditional": "Condição Comercial de SKU"
+            },
+            "service-types": "Tipos de Serviço",
+            "service-values": "Valores de Serviço",
+            "sku-and-service-attachments": "Anexos de Serviço e Sku"
+        },
+        "campaigns": "Controle de Campanhas",
+        "settings": {
+            "label": "Configurações",
+            "system": "Sistema",
+            "seo": "SEO",
+            "texts": "Textos",
+            "list-types": "Tipos de Lista",
+            "scripts": "Scripts",
+            "xml": "XML",
+            "file-types": "Tipos de Arquivos",
+            "portal": "Portal",
+            "integration-vtex-kpl": "Integração VTEX X KPL",
+            "geographical-regions": "Regiões Geográficas"
+        },
+        "reports": {
+            "label": "Relatórios",
+            "search": "Busca",
+            "ab-test": "Teste AB",
+            "security": "Segurança",
+            "download-reports": "Download de Relatórios",
+            "monitoring": "Monitoramento",
+            "lists": {
+                "label": "Listas",
+                "all-lists": "Todas as Listas"
+            },
+            "indexer-report": "Relatório de Indexação",
+            "skus-report": "Relatório de SKUs",
+            "sku-supply-report": "Relatório de Abastecimento de SKUs",
+            "let-me-know-report": "Relatório de Avise-Me",
+            "news-report": "Relatório de News",
+            "integration-errors-report": "Erros de Integração VTEX X KPL"
+        },
+        "add-on": {
+            "label": "Add On",
+            "digest": "Resenha",
+            "tags": "Tags",
+            "postal-codes": "Faixas de CEP",
+            "physical-store": "Lojas Fisicas",
+            "physical-store-types": "Tipos de Lojas Fisica",
+            "specialists": "Especialistas"
+        },
+        "marketplace": {
+            "label": "MarketPlace",
+            "comercial-policy": "Política Comercial",
+            "category-and-brand-maps": "Mapeamento de Categorias e Marcas",
+            "sellers": "Sellers",
+            "sku-suggestion": "Sugestões de SKUs",
+            "seller-sku": "SKUs dos Sellers"
+        }
+    },
+
+    "skuForm": {
+        "yes": "Sim",
+        "no": "No",
+        "message-2": "É necessário clicar no botão salvar para que as alterações tenham efeito",
+        "message-3": "O SKU não poderá ser ativado pois é necessário o cadastro de pelo menos uma imagem de cada tamanho",
+        "message-4": "O KIT não poderá ser ativado pois é necessário o cadastro de seus SKUs Componentes em Quantidade suficiente",
+        "message-5": "O KIT não poderá ser ativado, pois é necessário que seus SKUs Componentes estejam Ativos",
+        "message-6": "O KIT não poderá ser ativado até que seus SKUs Componentes sejam cadastrados",
+        "message-7": "Erro ao associar o(s) anexo(s) ao SKU",
+        "message-8": "Erro ao desassociar o(s) anexo(s) ao SKU",
+        "message-9": "Parâmetros inválidos",
+        "message-10": "Especificação inválida.",
+        "message-11": "Especificação não informada.",
+        "message-12": {
+            "part-1": "Verifique na aba",
+            "part-2": "Especificações",
+            "part-3": "o preenchimento dos campos"
+        },
+        "message-13": "Ean13 já existente.",
+        "message-14": "Código de Referência já existente.",
+        "message-15": "Pelo menos um dos seguintes campos devem ser preenchidos: EAN13 e Código de Referência.",
+        "message-16": "Especificação já existente.",
+        "message-17": "O campo Multiplicador de Unidade deve conter somente dígitos e se necessário, separá-los por vírgula.",
+        "message-18": {
+            "part-1": "Para verificar e alterar os valores acesse",
+            "part-2": "a tabela de valores"
+        },
+        "sku": {
+            "label": "SKU",
+            "info": "Preencha as informações referentes ao SKU",
+            "required-field": "Campo Obrigatório",
+            "product-name": "Nome do Produto (Id)",
+            "stock": "Estoque",
+            "stock-visualize": "Visualizar Estoque (logistics)",
+            "administrator": "Administrador que aprovou o SKU (Id)",
+            "date": "Data do Cadastro",
+            "name": "Nome",
+            "fidelity": "Valor para Fidelidade",
+            "ean": "EAN13",
+            "reference-code": "Codigo de Referência",
+            "weight": "Peso para Frete (Gramas)",
+            "height": "Altura para Frete (Centimetros)",
+            "width": "Largura para Frete (Centimetros)",
+            "length": "Comprimento para Frete (Centimetros)",
+            "cubic-weight": "Peso Cúbico",
+            "real-weight": "Peso Real (Gramas)",
+            "real-height": "Altura Real (Centimetros)",
+            "real-width": "Largura Real (Centimetros)",
+            "real-length": "Comprimento Real (Centimetros)",
+            "pre-sale-date": "Data Previsão Chegada (pré-venda)",
+            "accessories": "Acessórios",
+            "suggestion": "Sugestão",
+            "similar": "Similar (Produtos Suplentes)",
+            "show-together": "Mostrar junto",
+            "comercial-condition-code": "Código condição comercial",
+            "unit-measurement": "Unidade de Medida",
+            "unit-multiplier": "Multiplicador de Unidade",
+            "gift-card-colection-restriction": "Vale Presente - Restrição de Coleção:",
+            "skuForm.sku.gift-card-brand-restriction": "Vale Presente - Restrição de Marca:",
+            "activate-if-possible": "Ativar o SKU se possível",
+            "activated": "SKU Ativo?",
+            "manufacturer-code": "Código do Fabricante",
+            "warning-1": "Valor correspondente ao crédito no cartão fidelidade para uso em compras futuras."
+
+        },
+        "images": {
+            "label": "Imagens",
+            "info": "Imagens do SKU",
+            "info-small": "O campo <strong>\"Texto\"</strong> será usado nos atributos \"title\" e \"alt\" da imagem após a indexação do produto.",
+            "alert-sku": "Antes de cadastrar imagens, é necessário preencher os dados do <a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a> e clicar no botão \"Continuar\""
+        },
+        "specifications": {
+            "label": "Especificações",
+            "info": "Preencha as informações referentes ao SKU do Produto: ",
+            "required-field": "Campo Obrigatório",
+            "skuAttributeTitle": "Atributos não estruturados",
+            "noSkuFieldConfigured": "Não existem Campos configurados para cadastramento do SKU",
+            "sameSpecificationSku": "SKU's Existentes para este produto que possuem a mesma especificação selecionada"
+        },
+        "advanced-settings": {
+            "label": "Configurações Avançadas",
+            "info": "Preencha as informações referentes ao SKU",
+            "activate-kit": "Ativar Kit",
+            "activate-kit-alert": "Após selecionar esta opção e salvar o SKU, a mesma NÃO poderá ser desmarcada",
+            "separated-item-kit": "Kit com itens vendidos separadamente",
+            "dinamic-price-kit": "Kit com preço dinamico",
+            "dinamic-price-alert": "Selecionando essa opção, o valor de venda do kit será calculado somando o valor de venda de cada item do kit",
+            "generate-credit": "Gera crédito em Vale?",
+            "generate-credit-tooltip": "É utilizado na criação de um tipo de Lista de Evento, que gera um Vale Compra para o dono da lista, com o valor dos itens comprados. Ex: Lista de Casamento, Chá de Bebê.",
+            "generate-credit-info": "Selecionar SIM somente no caso deste sku ser destinado a utilização na lista de eventos do tipo que gera créditos em vale compra.<br/>Atenção: a utilização incorreta deste campo irá prejudicar o processo normal de venda desse item.",
+            "modal": "Modal",
+            "modal-tooltip": "É utilizado para diferenciar os skus na entrega. Itens com Modal definido só poderão ser entregues por transportadoras com o mesmo modal.",
+            "is-stock-availability": "Possui controle de estoque?",
+            "is-stock-availability-tooltip": "Este SKU possui disponibilidade limitada pelo estoque.",
+            "is-fisic-delivery-requires": "Requer entrega física?",
+            "is-fisic-delivery-requires-tooltip": "Este SKU requer entrega (Ex.: Correios, Transportadora) e pode sofrer cálculo de frete.",
+            "attachments": "Anexos",
+            "attachments-info": "Um anexo é utilizado para adicionar uma informação personalizada do comprador de um serviço ou do próprio item comprado.<br /><br />Exemplo:<br /><br />Item Comprado -> \"Camisa Oficial da Seleção Brasileira\"<br /><br />Nome do Anexo -> \"Personalizacao\"<br /><br />Chave 1 -> Nome da chave: \"Nome\", Máximo de caracteres permitido: 20<br />Chave 2 -> Nome da chave: \"Numero\", Valores permitidos: \"5,7,9,10,11\"<br /><br />Isso quer dizer que uma camisa oficial da seleção terá um anexo chamado \"Personalizacao\", obrigatório ou não, cujas chaves serão o \"Nome\" e o \"Numero\" a serem impressos na camisa comprada conforme a escolha do comprador. O comprador poderá digitar um nome de até 20 caracteres (poderá digitar um nome livre), mas terá que escolher entre os números 5, 7, 9, 10 e 11 (não poderá digitar os números que quiser).<br /><br />Caso queira cadastrar um novo anexo ainda não existente no sistema",
+            "attachments-info-link": "clique aqui",
+            "attachments-table-associated": "Associado",
+            "attachments-table-name": "Nome",
+            "attachments-table-active": "Ativo",
+            "attachments-table-required": "Obrigatório"
+        },
+        "sellers": {
+            "label": "Sellers",
+            "info": {
+                "0": "Este SKU é vendido por",
+                "1": "Esta guia possui a funcionalidade de <strong>reassociação</strong> deste SKU para o SKU de outro Seller cadastrado no sistema.</p><p>O cenário é quando o SKU é vendido por exemplo, pelos Sellers X e Y, porém ocorreu uma aprovação de sugestão que criou dois produtos, um para cada Seller, ao invés de associar o SKU e manter um produto apenas.<br />Este caso pode ocorrer quando os SKUs aprovados possuem EANs diferentes. O desejável é unir os SKUs duplicados dos Sellers X e Y em um único produto."
+            },
+            "findSKUtoAssociate": "Encontre o SKU para qual deseja reassociar",
+            "digitSkuId": "Digite o Id do SKU",
+            "search": "Buscar",
+            "searching": "<h4><strong>Buscando...</strong></h4>",
+            "message-sku-not-found": "Sku não encontrado. Verifique se esse é o ID de um SKU cadastrado.",
+            "message-insert-sku-id": "Preencha o campo com o Id do Sku",
+            "message-sku-format": "O Id do Sku deve ser um número. Tente novamente.",
+            "message-error-try-again": "Ocorreu um erro interno ao realizar a busca. Tente novamente em instantes.",
+            "association": {
+                "product-name": "Nome do produto: ",
+                "confirm": "Confirmar reassociação ",
+                "obs": {
+                    "0": "OBS: Ao confirmar a reassociação, o SKU ",
+                    "1": " será vendido por "
+                },
+                "inactivate": {
+                    "wouldYouLike": "Deseja inativar este produto e manter ativo somente o da associação",
+                    "yes": "Sim ",
+                    "no": "Não "
+                }
+            }
+        },
+        "return": "Voltar",
+        "save": "Salvar"
+    },
+
+    "breadcrumb": {
+        "product-and-sku": "cadastro de produtos e skus",
+        "product": "produtos",
+        "insert-sku": "adicionar SKU",
+        "edit-sku": "editar SKU"
+    },
+
+    "control": {
+        "category": {
+            "selectCategory": "Selecionar Categoria",
+            "clearSelection": "Limpar seleção",
+            "requiredField": "<li class=\"erro\">Campo Obrigatório</li>"
+        },
+        "conversor": {
+            "label-1": "convertendo ->",
+            "label-2": "Apenas números",
+            "label-3": "gramas",
+            "label-4": "centímetros",
+            "message-1": "Obrigatório",
+            "message-2": "Campo inválido. Favor preencher somente com números.",
+            "message-3": "Campo com valor inválido.",
+            "message-4": "O valor tem que ser maior ou igual a",
+            "message-5": "O valor tem que ser maior que",
+            "message-6": "O valor tem que ser menor ou igual a",
+            "message-7": "O valor tem que ser menor que"
+        },
+        "date": {
+            "message-required": "Obrigatório",
+            "message-incorrect-format": "Data Inválida (dd/mm/aaaa)"
+        },
+        "generic-table": {
+            "actual-selection": "Seleção atual",
+            "advanced-search": "Busca Avançada",
+            "add": "Adicionar",
+            "remove": "Retirar",
+            "text-just-one-selection": "(somente 1 seleção)",
+            "text-to": "até",
+            "text-selections": "seleções",
+            "text-filter": "Filtrando pela marca",
+            "message-1": "A coleção atual está muito grande.\nCaso clique no botão 'Busca Avançada' seus dados serão perdidos e eles terão que ser cadastrados novamente.\nÉ sugerido colocar todos os itens para a importação em um único arquivo de texto para todos serem importados ao mesmo tempo",
+            "message-2": {
+                "part-1": "Ao menos um",
+                "part-2": "deve ser selecionado."
+            },
+            "message-3": {
+                "part-1": "Só é permitido cadastrar",
+                "part-2": "valor(es)."
+            },
+            "message-4": "O nome digitado não foi encontrado",
+            "message-5": "O nome digitado obteve mais de um resultado",
+            "message-6": "O campo não pode estar vazio, preencha com o texto a ser procurado.",
+            "message-7": "Item Adicionado",
+            "message-8": "Falha ao acessar cookie do Tipo de Serviço do SKU"
+        },
+        "integerText": {
+            "formatInvalid": "Campo inválido. Favor preencher somente com números.",
+            "required": "Obrigatório",
+            "numberInvalid": "O número inserido é invalido ou ultrapassa o valor permitido."
+        },
+        "txtGeral": {
+            "message-requiered": "Obrigatório"
+        },
+        "productSpecification": {
+            "defaultValueTooltip": "Valor Padrão: Este valor será atribuido a este campo se o mesmo não for preenchido"
+        }
+    },
+
+    "product": {
+        "title": "Cadastro de Produtos",
+        "add": "Adicionar Produto",
+        "message": {
+            "part-1": "Melhoramos a importação e exportação do Relatório de Skus!",
+            "part-2": "Clique aqui",
+            "part-3": "para ser direcionado para uma opção de Relatório de Skus mais completo e organizado."
+        },
+        "found": "produtos encontrados",
+        "image": "Imagem",
+        "name": "Nome",
+        "sku": "Sku",
+        "status": "Status",
+        "indexed-date": "Data de Indexação",
+        "edit": "Editar",
+        "similar-category": "Categoria Similar",
+        "opinion": "Opinião",
+        "delete": "Excluir",
+        "copy-with-skus": "Copiar Com Skus",
+        "indexed-info": "Indexed Info",
+        "no-results": "Nenhum produto encontrado",
+        "active": "Ativo",
+        "inactive": "Inativo",
+        "open-page": "ver no site",
+        "update": "Alterar"
+    },
+    "productForm": {
+        "message": "É necessário clicar no botão salvar para que as alterações tenham efeito.",
+        "messageActive": " O seu perfil de acesso não permite a ativação do produto. Para que ele apareça no site, procure o administrador da sua loja.",
+        "product": {
+            "label": "Produto",
+            "info": "Preencha as informações referentes ao Produto.",
+            "wrongSpecification": "Atenção: Especificação inválida. Clique a aba acima ESPECIFICAÇÃO e verifique o preenchimento dos campos",
+            "required-field": "Campo Obrigatório",
+            "productId": "Id do Produto",
+            "administratorId": "Administrador que aprovou o produto (Id)",
+            "editDate": "Data da última alteração",
+            "name": "Nome",
+            "sameSemanticWords": "Palavras Substitutas <i><span style=\"color: #ff0000\">(utilizar palavras que tenham a mesma semântica)</span></i><br /><br />Exemplos:<br />Eletrônico -> Eletrônicos;<br />Geladeira -> Refrigerador;<br />Calvin Klein -> Calvin Klain;<br /><br /><i><span style=\"color: #ff0000\">Importante: Essas palavras serão utilizadas nas buscas internas e também em sites de busca</span></i>",
+            "sameSemanticWords-info": "Palavras relacionadas ao produto, serão utilizadas para a busca, separe as palavras com virgula \",\"",
+            "textLink": "Texto Link",
+            "textLink-info": "(Utilizado para montar a Url do produto)  <strong>Não utilizar acentuação e nem espaços !</strong>",
+            "textLink-error": "Já existe outro produto utilizando esse nome.",
+            "tagTitle": "Título da página (Tag Title)",
+            "productDescription": "Descrição do produto",
+            "metatagDescrioption": "Descrição (Meta Tag Description)",
+            "adwordsRemarketingCode": "AdWords Remarketing Code",
+            "lomadeeCampaignCode": "Lomadee Campaign Code",
+            "lomadeeInfo": {
+                "0": "Atenção! Sua loja esta cadastrada no lomadee com o código ",
+                "1": " e a campanha do lomadee está ativa na Vtex, mesmo que não seja preenchido o campo ao lado, o produto será vendido utilizando a campanha padrão."
+            },
+            "brand": "Marca",
+            "category": "Categoria",
+            "globalCategory": {
+                "lable": "Categoria Global VTEX",
+                "info": "Por que preencher Categoria Global VTEX?"
+            },
+            "stores": "Lojas:",
+            "provider": "Fornecedor",
+            "releaseDate": "Data de lançamento no mercado",
+            "showOnSite": "Exibir no site",
+            "active": "Produto ativo",
+            "showOutOfStock": "Mostrar produto esgotado",
+            "referenceCode": "Código de referência do produto",
+            "shortDescription": "Nome complemento",
+            "taxcode": "Código Fiscal",
+			"score": "Score (usado para ordenação de busca)",
+            "activateSKUs": "Ativar todos os SKUs do produto",
+            "save": "Salvar",
+            "saveAndCreateSKU": "Salvar e Cadastrar Sku",
+            "return": "Voltar"
+        },
+        "specifications": {
+            "label": "Especificações",
+            "info": "Preencha as informações referentes ao Produto: ",
+            "required-field": "Campo Obrigatório",
+            "emptylist": "Não existe especificação para este produto ou nenhuma categoria foi selecionada."
+        }
+    },
+    "commercialPolicy": {
+        "pageTitle": "Política Comercial",
+        "newLink": "Nova Política Comercial",
+        "newLinkInactiveTooltip": "Não é possível adicionar mais de 3 políticas comerciais",
+        "cntPrefix": "Políticas comerciais encontrados",
+        "sortSave": "Salvar Ordem",
+        "sortSaveInfo": "Para salvar a ordenação de posições das políticas comerciais, clique em \"Salvar Ordem\".",
+        "table": {
+            "position": "Posição",
+            "idName": "Id - Nome",
+            "collection": "Coleção",
+            "countryCode": "Country Code",
+            "currencyCode": "Currency Code",
+            "currencySymbol": "Currency Symbol",
+            "cultureInfo": "Culture Info",
+            "timeZone": "TimeZone",
+            "status": "Status",
+            "alter": "Alterar",
+            "info": "* Os valores passados no parametro affiliateid podem ser alterados por outros 3 digitos, esse valor será o prefixo do número do pedido da sua loja no marketplace que você for vender.",
+            "noRecortFound": "Nenhuma política comercial encontrada"
+        }
+    },
+    "commercialPolicyForm": {
+        "pageTitle": "Política Comercial",
+        "info": "Cadastro de Política Comercial",
+        "tooManyItems": "Não é possível cadastrar mais de 3 políticas comerciais.",
+        "name": "Nome",
+        "nameCondition": "Nome da Política Comercial não pode ser iniciado por: seq.",
+        "collection": "Coleção",
+        "collectionDefault": "-- Nenhuma coleção --",
+        "collectionInfo": "<strong>Observação: </strong>Será preciso indexar os produtos da coleção escolhida.",
+        "sellers": "Sellers",
+        "currencyCode": "Currency Code",
+        "currencySymbol": "Currency Symbol",
+        "currencySymbolInfo": "Se não informado será usado o símbolo padrão da moeda (currency code)",
+        "countryCode": "Country Code",
+        "cultureInfo": "Culture Info",
+        "timeZone": "TimeZone",
+        "active": "Ativo?",
+        "conditionRule": "Regra Condicional",
+        "conditionRuleTooltip": "A regra condicional será validada com base nos dados de perfil do usuário. Será concedido o acesso a primeira política cuja a regra seja satisfeita. As regras são validadas de acordo com a ordem definida no cadastro. Caso não exista nenhuma política comercial com regra atendida pelo perfil do usuário, ele será redirecionado para a primeira política comercial sem regra definida, seguindo a ordenação. Exemplo de regra: gender=\"m\"",
+        "conditionRuleInfo": "<strong>Atenção! O valor padrão deste campo é em branco. Preencha somente se necessário.</strong> A regra condicional redirecionará para a política comercial usuários cujos dados de perfil satisfaçam a regra condicional especificada.",
+        "return": "Voltar",
+        "save": "Salvar"
+    },
+    "configForm": {
+        "formTitle": "Configurações Gerais",
+        "info": "Preencha as informações referentes ao sistema",
+        "shopName": "Nome da Loja",
+        "tagTitle": "Título da página inicial (Tag Title)",
+        "tagTitleInfo": "Title da Home, #NOME_LOJA#",
+        "xmlText": "Texto Xml",
+        "xmlTextInfo": "#LINK_LOJA#, #NOME_LOJA#",
+        "buyTogeatherMaxQuantity": "Quantidade Maxima Compre Junto",
+        "showCartNote": "Exibe Observação na Compra",
+        "showCartNoteInfo": "Exibe campo observação no carrinho e na compra",
+        "sameSKUinCartQuantity": "Quantidade máxima de um mesmo SKU no Carrinho",
+        "sameSKUinCartQuantityInfo": "Entre 0 e 2147483647",
+        "showSuperZoom": "Exibe Super Zoom",
+        "showNotifyMe": "Exibe Avise-me quando produto esgotar",
+        "activateUtmiLinks": "Ativar links com Utmi - Monitoramento de navegacao interna.",
+        "rewardProgram": "Programa de Afiliados (Pontos Fidelidade)",
+        "rewardProgramPercentual": "Porcentagem máxima para utilização do Programa de Afiliado",
+        "save": "Salvar"
+    },
+    "configSEOForm": {
+        "formTitle": "Configurações de Conteudos SEO",
+        "info": "Preencha as informações referentes ao sistema",
+        "metaKeyword": "Palavras-chave (Meta Tag Keyword)",
+        "metaKeywordInfo": "Usado na Meta Tag. Palavras para mecanismo de busca, separe as palavras com <strong>vírgula</strong>",
+        "metaDescription": "MetaTag Description",
+        "metaCategoryDescription": "Descrição da Categoria (Meta Tag Description)",
+        "metaCategoryDescriptionInfo": "Usado na MetaTag",
+        "robots": "Robots.txt",
+        "robotsInfo": "<br />Se estiver rodando sobre o dominio vtexcommerce o robots será o padrão:<br />User-agent: * <br />Disallow: /",
+        "save": "Salvar"
+    },
+    "seller": {
+        "pageTitle": "Lista de Sellers",
+        "filter": {
+            "sellerId": "Id do Seller",
+            "name": "Nome"
+        },
+        "cntPrefix": "Sellers encontrados:",
+        "newButton": "Novo Seller",
+        "table": {
+            "id": "ID do Seller",
+            "name": "Nome",
+            "taxpayerIdNumber": "CNPJ",
+            "adminEmail": "Email do administrador",
+            "cscId": "Identificação no CSC",
+            "edit": "Editar",
+            "editButton": "Alterar / Visualizar",
+            "toggleStatusActivate": "Ativar Seller",
+            "toggleStatusDeactivate": "Desativar Seller",
+            "configCommissioning": "Configurar Comissionamento"
+        },
+        "noItems": "Não existem Sellers cadastrados"
+    }
+}

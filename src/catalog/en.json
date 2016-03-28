@@ -1,0 +1,82 @@
+{"mainMenu": 
+	{
+		"products": 
+			{
+				"label": "Products",
+				"category": "Category",
+				"provider": "Provider",
+				"brand": "Brand",
+				"products-and-skus": 
+					{
+						"label": "Products and Skus",
+						"insert-update-product-and-sku": "Insert/Update Products and Skus",
+						"link-services-to-sku": "Link Services to Skus",
+						"import-export-products-and-skus": "Import/Export Products and Skus",
+						"import-export-product-specifications": "Import/Export Product Specifications",
+						"import-export-sku-specifications": "Import/Export Sku Specifications",
+						"import-export-sku-table-values": "Import/Export Sku Table Values",
+						"export-sku-images": "Export Sku Images",
+						"import-images": "Import Images",
+						"export-product-evaluations": "Export Product Evaluations",
+						"sku-comercial-conditional": "Sku Comercial Condition"
+					},
+				"service-types": "Service Types",
+				"service-values": "Service Values",
+				"sku-and-service-attachments": "Sku and Service Attachements"
+			},
+		"campaigns": "Campaigns",
+		"settings": 
+			{
+				"label": "Settings",
+				"system": "System",
+				"seo": "SEO",
+				"texts": "Texts",
+				"list-types": "List Types",
+				"scripts": "Scripts",
+				"xml": "XML",
+				"file-types": "File Types",
+				"portal": "Portal",
+				"integration-vtex-kpl": "Integration VTEX X KPL",
+				"geographical-regions": "Geographical Regions"
+			},
+		"reports": 
+			{
+				"label": "Reports",
+				"search": "Search",
+				"ab-test": "A/B Test",
+				"security": "Security Logs",
+				"download-reports": "Download Reports",
+				"monitoring": "Monitoring",
+				"lists":
+					{
+						"label": "Lists",
+						"all-lists": "All Lists"
+					},
+				"indexer-report": "Indexer Report",
+				"skus-report": "Skus Report",
+				"sku-supply-report": "Sku Supply Report",
+				"let-me-know-report": "Let me know Report",
+				"news-report": "News Report",
+				"integration-errors-report": "Integration Errors Report (VTEX X KPL)"
+			},
+		"add-on": 
+			{
+				"label": "Add-On",
+				"digest": "Digest",
+				"tags": "Tags",
+				"postal-codes": "Postal Codes",
+				"physical-store": "Physical Store",
+				"physical-store-types": "Physical Store Types",
+				"specialists": "Specialists"
+			},
+		"marketplace": 
+			{
+				"label": "MarketPlace",
+				"comercial-policy": "Comercial Policy",
+				"category-and-brand-maps": "Category and Brand Maps",
+				"sellers": "Sellers",
+				"sku-suggestion": "Sku Sugestions",
+				"seller-sku": "Sellers' Skus"
+			} 
+		}
+}
