@@ -95,8 +95,7 @@
         "message-14": "Código de Referencia ya existente.",
         "message-15": "Por lo menos uno de los siguientes campos deben ser completados: EAN13 y Código de Referencia.",
         "message-16": "Especificacion ya existente.",
-        "message-17": "El campo Multiplicador de Unidad debe contener solamente dígitos y si fuera necesário, separarlos por 
-comas.",
+        "message-17": "El campo Multiplicador de Unidad debe contener solamente dígitos y si fuera necesário, separarlos por comas.",
         "message-18": {
             "part-1": "Para verificar y alterar los valores ingrese",
             "part-2": "a la tabla de valores"
@@ -142,10 +141,8 @@ comas.",
         "images": {
             "label": "Imagenes",
             "info": "Imagenes del SKU",
-            "info-small": "El campo <strong>\"Texto\"</strong> será usado en los atributos \"title\" y \"alt\" de la imagen luego 
-a la indexacion del producto.",
-            "alert-sku": "Antes de registrar las imagenes, es necesario completar los datos del
-<a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a> y cliquear en el boton \"Continuar\""
+            "info-small": "El campo <strong>\"Texto\"</strong> será usado en los atributos \"title\" y \"alt\" de la imagen luego a la indexacion del producto.",
+            "alert-sku": "Antes de registrar las imagenes, es necesario completar los datos del <a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a> y cliquear en el boton \"Continuar\""
         },
         "specifications": {
             "label": "Especificaciones",
@@ -162,31 +159,18 @@ a la indexacion del producto.",
             "activate-kit-alert": "Luego seleccionar esta opción y guardar el SKU, la misma NO podrá ser desmarcada",
             "separated-item-kit": "Kit con itens vendidos separadamente",
             "dinamic-price-kit": "Kit con precio dinámico",
-            "dinamic-price-alert": "Seleccionando esta opción, el valor de venta del kit será calculado sumando el valor de venta
- de cada item del kit",
+            "dinamic-price-alert": "Seleccionando esta opción, el valor de venta del kit será calculado sumando el valor de venta de cada item del kit",
             "generate-credit": "Generar crédito en Vale?",
-            "generate-credit-tooltip": "Es utilizado en la creación de un tipo de Lista, que genera un Vale Compra para el dueño de la lista,
-con el valor de los items comprados. Ej: Lista de Casamiento, Baby Shower.",
-            "generate-credit-info": "Seleccionar SI solamente en el caso de ser este SKU destinado a la utilización
-en la lista de eventos del tipo que genera créditos en vale compra.<br/>Atención: la utilización incorrecta de este campo
- prejudicará el pocesso normal de venta de este item.",
+            "generate-credit-tooltip": "Es utilizado en la creación de un tipo de Lista, que genera un Vale Compra para el dueño de la lista, con el valor de los items comprados. Ej: Lista de Casamiento, Baby Shower.", 
+            "generate-credit-info": "Seleccionar SI solamente en el caso de ser este SKU destinado a la utilización en la lista de eventos del tipo que genera créditos en vale compra.<br/>Atención: la utilización incorrecta de este campo prejudicará el pocesso normal de venta de este item.",
             "modal": "Modal",
-            "modal-tooltip": "Es utilizado para diferenciar los skus en la entrega. Items con Modal definido solo podran ser 
-entregados por transportadoras con el mismo modal.",
+            "modal-tooltip": "Es utilizado para diferenciar los skus en la entrega. Items con Modal definido solo podran ser entregados por transportadoras con el mismo modal.",
             "is-stock-availability": "Posee disponibilidad de Stock?",
             "is-stock-availability-tooltip": "Este SKU posee disponibilidad limitada por el stock.",
             "is-fisic-delivery-requires": "Requiere entrega física?",
-            "is-fisic-delivery-requires-tooltip": "Este SKU requiere entrega (Ej.: Correos, Transportadora) y puede sufrir
-cálculos de flete.",
+            "is-fisic-delivery-requires-tooltip": "Este SKU requiere entrega (Ej.: Correos, Transportadora) y puede sufrir cálculos de flete.",
             "attachments": "Anexos",
-            "attachments-info": "Un anexo es utilizado para agregar una información personalizada del comprador de un servicio o
-del propio item comprado.<br /><br />Exemplo:<br /><br />Item Comprado -> \"Remera Oficial de la Selección Brasileña
-\"<br /><br />Nombre del Anexo -> \"Personalizacion\"<br /><br />llave 1 -> Nombre de la llave: \"Nombre\", Máximo de caracteres
- permitido: 20<br />llave 2 -> Nombre de la llave: \"Numero\", Valores permitidos: \"5,7,9,10,11\"<br /><br />Eso quiere decir
- que una remera oficial de la seleccion tendrá un anexo llamado \"Personalizacion\", obligatório o no, cuyas llaves seran el\"Nombre\"
-y el \"Numero\" a ser impresos en la remera comprada según la eleccion del comprador.
-El comprador podrá digitar un nombre de hasta 20 caracteres (podrá digitar un nombre libre), pero tendrá que elegir entre los números 5, 7, 9, 10 e 11 (no podrá digitar los números que quisiera).<br /><br />
-Caso quiera registrar un nuevo anexo aun no existente en el sistema",
+            "attachments-info": "Un anexo es utilizado para agregar una información personalizada del comprador de un servicio o del propio item comprado.<br /><br />Exemplo:<br /><br />Item Comprado -> \"Remera Oficial de la Selección Brasileña\"<br /><br />Nombre del Anexo -> \"Personalizacion\"<br /><br />llave 1 -> Nombre de la llave: \"Nombre\", Máximo de caracteres permitido: 20<br />llave 2 -> Nombre de la llave: \"Numero\", Valores permitidos: \"5,7,9,10,11\"<br /><br />Eso quiere decir que una remera oficial de la seleccion tendrá un anexo llamado \"Personalizacion\", obligatório o no, cuyas llaves seran el\"Nombre\"y el \"Numero\" a ser impresos en la remera comprada según la eleccion del comprador.El comprador podrá digitar un nombre de hasta 20 caracteres (podrá digitar un nombre libre), pero tendrá que elegir entre los números 5, 7, 9, 10 e 11 (no podrá digitar los números que quisiera).<br /><br />Caso quiera registrar un nuevo anexo aun no existente en el sistema",
             "attachments-info-link": "cliquee aqui",
             "attachments-table-associated": "Asociado",
             "attachments-table-name": "Nombre",
@@ -197,10 +181,8 @@ Caso quiera registrar un nuevo anexo aun no existente en el sistema",
             "label": "Sellers",
             "info": {
                 "0": "Este SKU es vendido por",
-                "1": "Esta guia posee la funcionalidad de <strong>reassociação</strong> de este SKU para el SKU de otro Seller registrado en el sistema.</p><p>El 
-Escenário se dá cuando el SKU es vendido por ejemplo, por los Sellers X e Y, por los tanto ocurrió una aprovación de Sugestión que creó dos productos,
-uno para cada Seller, en vez de asociar el SKU y mantener un producto solamente.<br />Este caso puede ocurrir cuando los SKUs aprobados poseen EANs diferentes.
-Lo ideal es unir los SKUs duplicados de los Sellers X e Y en un único producto."
+                "1": "Esta guia posee la funcionalidad de <strong>reassociação</strong> de este SKU para el SKU de otro Seller registrado en el sistema.</p><p>El Escenário se dá cuando el SKU es vendido por ejemplo, por los Sellers X e Y, por los tanto ocurrió una aprovación de Sugestión que creó dos productos, uno para cada Seller, en vez de asociar el SKU y mantener un producto solamente.<br />Este caso puede ocurrir cuando los SKUs aprobados poseen EANs diferentes.Lo ideal es unir los SKUs duplicados de los Sellers X e Y en un único producto."
+
             },
             "findSKUtoAssociate": "Encuentre el SKU para cual desea reasociar",
             "digitSkuId": "Digite el Id del SKU",
@@ -267,8 +249,7 @@ Lo ideal es unir los SKUs duplicados de los Sellers X e Y en un único producto.
             "text-to": "hasta",
             "text-selections": "selecciones",
             "text-filter": "Filtro por marca",
-            "message-1": "La colección actual es muy grande.\En este caso cliquee en el boton "Busqueda Avanzada" sus datos seran perdidos y ellos tendrán
-que ser registrados nuevamente.\n Se sugiere colocar todos los items para la importaion en un único archivo de texto para que todos sean importados al mismo tiempo",
+            "message-1": "La colección actual es muy grande.En este caso cliquee en el boton \"Busqueda Avanzada\" sus datos seran perdidos y ellos tendrán que ser registrados nuevamente.\n Se sugiere colocar todos los items para la importaion en un único archivo de texto para que todos sean importados al mismo tiempo",
             "message-2": {
                 "part-1": "Al menos uno",
                 "part-2": "debe ser seleccionado."
@@ -334,8 +315,7 @@ que ser registrados nuevamente.\n Se sugiere colocar todos los items para la imp
             "administratorId": "Administrador que aprobó el producto (Id)",
             "editDate": "Fecha de la última alteracion",
             "name": "Nombre",
-            "sameSemanticWords": "Palabras Sustitutas <i><span style=\"color: #ff0000\">(utilizar palabras que tengan la misma semantica)</span></i><br /><br />
-Ejemplos:<br />Electronico -> Electronicos;<br />Heladera -> Refrigerador;<br />Calvin Klein -> Calvin Klain;<br /><br /><i><span style=\"color: #ff0000\">Importante: Essas palavras serão utilizadas nas buscas internas e também em sites de busca</span></i>",
+            "sameSemanticWords": "Palabras Sustitutas <i><span style=\"color: #ff0000\">(utilizar palabras que tengan la misma semantica)</span></i><br /><br />Ejemplos:<br />Electronico -> Electronicos;<br />Heladera -> Refrigerador;<br />Calvin Klein -> Calvin Klain;<br /><br /><i><span style=\"color: #ff0000\">Importante: Essas palavras serão utilizadas nas buscas internas e também em sites de busca</span></i>",
             "sameSemanticWords-info": "Palabras relacionadas al producto, seran utilizadas para la busqueda, separe las palabras con comas \",\"",
             "textLink": "Texto Link",
             "textLink-info": "(Utilizado para montar la Url del producto)  <strong>No utilizar acentuacion ni espacios !</strong>",
@@ -395,8 +375,7 @@ Ejemplos:<br />Electronico -> Electronicos;<br />Heladera -> Refrigerador;<br />
             "timeZone": "TimeZone",
             "status": "Status",
             "alter": "Cambiar",
-            "info": "* Los valores enviados en el parametro affiliateid puede ser alterados por otros 3 digitos, ese valor será el prefijo del número del pedido
-de su tienda en el marketplace que Usted quiere vender.",
+            "info": "* Los valores enviados en el parametro affiliateid puede ser alterados por otros 3 digitos, ese valor será el prefijo del número del pedido de su tienda en el marketplace que Usted quiere vender.",
             "noRecortFound": "Ninguna politica comercial encontrada"
         }
     },
@@ -418,11 +397,8 @@ de su tienda en el marketplace que Usted quiere vender.",
         "timeZone": "TimeZone",
         "active": "Activo?",
         "conditionRule": "Regla Condicional",
-        "conditionRuleTooltip": "La regla condicional será validada en base a los datos del perfil del usuário. Será concedido el acceso a la primera política cuya
-regla sea satisfecha. Las reglas son validadas de acuerdo con el orden defenido en el registro.En caso que no exista ninguna política comercial
-con regla de perfil de usuario, será redireccionado para la primeira política comercial sin regla definida, siguiendo el ordenamiento. Ejemplo de regla: gender=\"m\"",
-        "conditionRuleInfo": "<strong>Atencion! El valor padre de este campo es en Blanco.Complete solamente si fuera necesario.</strong> La regla condicional 
-redireccionará para la política comercial usuários cuyos datos de perfil satisfagan la regla condicional especificada.",
+        "conditionRuleTooltip": "La regla condicional será validada en base a los datos del perfil del usuário. Será concedido el acceso a la primera política cuya regla sea satisfecha. Las reglas son validadas de acuerdo con el orden defenido en el registro.En caso que no exista ninguna política comercial con regla de perfil de usuario, será redireccionado para la primeira política comercial sin regla definida, siguiendo el ordenamiento. Ejemplo de regla: gender=\"m\"",
+        "conditionRuleInfo": "<strong>Atencion! El valor padre de este campo es en Blanco.Complete solamente si fuera necesario.</strong> La regla condicional redireccionará para la política comercial usuários cuyos datos de perfil satisfagan la regla condicional especificada.",
         "return": "Volver",
         "save": "Guardar"
     },
