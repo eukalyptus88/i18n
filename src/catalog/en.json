@@ -1,82 +1,452 @@
-{"mainMenu": 
-	{
-		"products": 
-			{
-				"label": "Products",
-				"category": "Category",
-				"provider": "Provider",
-				"brand": "Brand",
-				"products-and-skus": 
-					{
-						"label": "Products and Skus",
-						"insert-update-product-and-sku": "Insert/Update Products and Skus",
-						"link-services-to-sku": "Link Services to Skus",
-						"import-export-products-and-skus": "Import/Export Products and Skus",
-						"import-export-product-specifications": "Import/Export Product Specifications",
-						"import-export-sku-specifications": "Import/Export Sku Specifications",
-						"import-export-sku-table-values": "Import/Export Sku Table Values",
-						"export-sku-images": "Export Sku Images",
-						"import-images": "Import Images",
-						"export-product-evaluations": "Export Product Evaluations",
-						"sku-comercial-conditional": "Sku Comercial Condition"
-					},
-				"service-types": "Service Types",
-				"service-values": "Service Values",
-				"sku-and-service-attachments": "Sku and Service Attachements"
-			},
-		"campaigns": "Campaigns",
-		"settings": 
-			{
-				"label": "Settings",
-				"system": "System",
-				"seo": "SEO",
-				"texts": "Texts",
-				"list-types": "List Types",
-				"scripts": "Scripts",
-				"xml": "XML",
-				"file-types": "File Types",
-				"portal": "Portal",
-				"integration-vtex-kpl": "Integration VTEX X KPL",
-				"geographical-regions": "Geographical Regions"
-			},
-		"reports": 
-			{
-				"label": "Reports",
-				"search": "Search",
-				"ab-test": "A/B Test",
-				"security": "Security Logs",
-				"download-reports": "Download Reports",
-				"monitoring": "Monitoring",
-				"lists":
-					{
-						"label": "Lists",
-						"all-lists": "All Lists"
-					},
-				"indexer-report": "Indexer Report",
-				"skus-report": "Skus Report",
-				"sku-supply-report": "Sku Supply Report",
-				"let-me-know-report": "Let me know Report",
-				"news-report": "News Report",
-				"integration-errors-report": "Integration Errors Report (VTEX X KPL)"
-			},
-		"add-on": 
-			{
-				"label": "Add-On",
-				"digest": "Digest",
-				"tags": "Tags",
-				"postal-codes": "Postal Codes",
-				"physical-store": "Physical Store",
-				"physical-store-types": "Physical Store Types",
-				"specialists": "Specialists"
-			},
-		"marketplace": 
-			{
-				"label": "MarketPlace",
-				"comercial-policy": "Comercial Policy",
-				"category-and-brand-maps": "Category and Brand Maps",
-				"sellers": "Sellers",
-				"sku-suggestion": "Sku Sugestions",
-				"seller-sku": "Sellers' Skus"
-			} 
-		}
+{
+    "mainMenu": {
+        "products": {
+            "label": "Products Management ",
+            "category": "Category",
+            "provider": "Provider",
+            "brand": "Brand",
+            "products-and-skus": {
+                "label": "Products and Skus",
+                "insert-update-product-and-sku": "Products and Skus Management ",
+                "link-services-to-sku": "Link Values and Services to SKUs",
+                "import-export-products-and-skus": "Import/Export Products and SKUs",
+                "import-export-product-specifications": "Import/Export Product Specifications ",
+                "import-export-sku-specifications": "Import/Export SKUs Specifications ",
+                "import-export-sku-table-values": "Import/Export SKUs Tabel Values ",
+                "export-sku-images": "Export SKUs Images ",
+                "import-images": "Import Images",
+                "export-product-evaluations": "Export Products Evaluation ",
+                "sku-Commercial-conditional": " SKU Commercial Condition"
+            },
+            "service-types": " Service Types",
+            "service-values": "Service Values ",
+            "sku-and-service-attachments": " Sku Attachments and Service "
+        },
+        "campaigns": " Campaign Control",
+        "settings": {
+            "label": "Settings",
+            "system": "System",
+            "seo": "SEO",
+            "texts": "Texts",
+            "list-types": " List Types",
+            "scripts": "Scripts",
+            "xml": "XML",
+            "file-types": " Files Types ",
+            "portal": "Portal",
+            "integration-vtex-kpl": " VTEX X KPL Integration ",
+            "geographical-regions": " Geographical Areas "
+        },
+        "reports": {
+            "label": "Reports",
+            "search": "Search",
+            "ab-test": "AB-Test",
+            "security": "Security",
+            "download-reports": " Reports Download ",
+            "monitoring": "Monitoring",
+            "lists": {
+                "label": "Lists",
+                "all-lists": "All Lists"
+            },
+            "indexer-report": " Index Report ",
+            "skus-report": " SKUs Report ",
+            "sku-supply-report": " SKUs Supply Report ",
+            "let-me-know-report": " Let Me Know Report",
+            "news-report": " News Report ",
+            "integration-errors-report": " VTEX X KPL Integration Errors "
+        },
+        "add-on": {
+            "label": "Add On",
+            "digest": "Review",
+            "tags": "Tags",
+            "postal-codes": " ZIP-CODES",
+            "physical-store": "Brick and Mortar Stores ",
+            "physical-store-types": "Types of Brick and Mortar Stores",
+            "specialists": "Specialists"
+        },
+        "marketplace": {
+            "label": "MarketPlace",
+            "Commercial-policy": " Commercial Policy ",
+            "category-and-brand-maps": " Categorys and Brands Map",
+            "sellers": "Sellers",
+            "sku-suggestion": " SKUs Suggestion ",
+            "seller-sku": " Sellers SKUs"
+        }
+    },
+    "skuForm": {
+        "yes": "Yes",
+        "no": "No",
+        "message-2": " Changes only will be considered after you click on save button ",
+        "message-3": " It's necessary to upload at least one image for each size to activate SKU ",
+        "message-4": " Bundles cannot be activated unless SKUs have enough inventory to be sold ",
+        "message-5": " Bundles cannot be activated unless SKUs are active ",
+        "message-6": " Bundles cannot be activated until SKUs are registered ",
+        "message-7": " Error synchronizing Attachment to SKU ",
+        "message-8": " Error unlinking Attachments to SKU ",
+        "message-9": " Invalid parameters ",
+        "message-10": "Invalid Specifications",
+        "message-11": "Specifications not informed",
+        "message-12": {
+            "part-1": "Check Tab",
+            "part-2": "Specifications",
+            "part-3": "Filling Fields "
+        },
+        "message-13": "Ean13 already registered",
+        "message-14": "Reference code already registered",
+        "message-15": " At least one of the following fields must be filled: EAN 13 and Reference Code.",
+        "message-16": "Specifications already registered",
+        "message-17": " The Multiplier field should contain only digits and if necessary, separate them by commas",
+        "message-18": {
+            "part-1": " To check and change the values, go to",
+            "part-2": "The value table"
+        },
+        "sku": {
+            "label": "SKU",
+            "info": "Fill with the information about SKU ",
+            "required-field": " Required flied",
+            "product-name": " Product Name (Id)",
+            "stock": "Inventory",
+            "stock-visualize": "View Inventory (logistics)",
+            "administrator": "Manager that approved SKU (id) ",
+            "date": "Date of Management",
+            "name": "Name",
+            "fidelity": "Loyalty value ",
+            "ean": "EAN13",
+            "reference-code": "Reference Code ",
+            "weight": "Freight Weight (Grams)",
+            "height": "Freight Height (Centimeters)",
+            "width": "Freight Width (Centimeters)",
+            "length": "Freight Length (Centimeters)",
+            "cubic-weight": "Cubic Weight ",
+            "real-weight": "Real Weight (Grams)",
+            "real-height": "Real Height (Centimeters)",
+            "real-width": " Real Width (Centimeters)",
+            "real-length": " Real Length (Centimeters)",
+            "pre-sale-date": "Coming soon expected on",
+            "accessories": "Accessories",
+            "suggestion": "Suggestion",
+            "Similar": "Similar (Alternate Products)",
+            "show-together": "Show Together ",
+            "Commercial-condition-code": "Commercial Condition Code",
+            "unit-measurement": "Measurement Unit ",
+            "unit-multiplier": "Unit Multiplier ",
+            "gift-card-colection-restriction": "Gift Card Collection Restriction:",
+            "skuForm.sku.gift-card-brand-restriction": "Gift Card – Brand Restriction:",
+            "activate-if-possible": "Activate SKU if Possible ",
+            "activated": "SKU Activated?",
+            "manufacturer-code": "Manufacture Code ",
+            "warning-1": " Corresponding Value to be credited on Loyalty card to be used in future purchases."
+        },
+        "images": {
+            "label": "Images",
+            "info": "SKU Images ",
+            "info-small": "The Field <strong>\"Texto\"</strong> Will be used on features \"title\" e \"alt\" Of Image after Product Index.",
+            "alert-sku": "Before Registering images, it is necessary to fill all data of  <a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a>  and click on continue button \"Continuar\""
+        },
+        "specifications": {
+            "label": "Specifications",
+            "info": "Fill with product references:",
+            "required-field": "Required Field ",
+            "skuAttributeTitle": "Unstructured Features ",
+            "noSkuFieldConfigured": "No configured fields to register SKU ",
+            "sameSpecificationSku": "Existing SKU's to this product has the same selected Specifications "
+        },
+        "advanced-settings": {
+            "label": " Advances Settings ",
+            "info": "Fill with SKU information ",
+            "activate-kit": "Activate Bundle ",
+            "activate-kit-alert": "After selecting this option and saving SKU, will not be possible to undo",
+            "separated-item-kit": "Bundles with separated SKUs selling ",
+            "dinamic-price-kit": "Dynamic Bundle Pricing ",
+            "dinamic-price-alert": "If Selected, bundle will charge the sum of each SKU selling value",
+            "generate-credit": "Credit with gift card? ",
+            "generate-credit-tooltip": " It is used to create a kind of Event List, which generates a purchase credit to the owner of the List, with the value of the items purchased. Ex: Wedding List, Baby Shower.",
+            "generate-credit-info": "Select YES only if this sku is intended for use in the List of events of the type that generates credits to gift cards <br/>. Caution: improper use of this field will undermine the normal process of selling this item.",
+            "modal": "Modal",
+            "modal-tooltip": " It is used to differentiate skus delivery. Items with Modal set can only be delivered by carriers with the same modal.",
+            "is-stock-availability": "Has inventory Control?",
+            "is-stock-availability-tooltip": " This SKU has limited availability due to low invetory",
+            "is-fisic-delivery-requires": "Requires physical delivery? ",
+            "is-fisic-delivery-requires-tooltip": " This SKU requires delivery (Eg .: Post, Carrier) and may suffer freight calculation.",
+            "attachments": "Attachments",
+            "attachments-info": "A Attach is used to add custom information from customer of a service or of the purchased item <br /> <br /> Example:. <br /> <br /> Item Purchased -> \"Official shirt of the Brazilian team \"<br /> <br /> Attach name -> \" Custom \"<br /> <br /> key 1 -> key Name: \" name \"Maximum characters allowed: 20 <br / > key 2 -> key Name: \"Number \" allowed values: \"5,7,9,10,11 \" <br /> <br /> This means that an official shirt of the Brazilian Team will have a Attach called \"Custom \", mandatory or not, whose keys are the \"name \" and \"Number \" to be printed on the shirt purchased as the customer's choice. The customer can enter a name up to 20 characters (you can enter a free name), but will have to choose between numbers 5, 7, 9, 10 and 11 (can not enter the numbers you want). <br /> <Br /> If you want to register a new Attach not yet existing in the System",
+            "attachments-info-link": "Click here ",
+            "attachments-table-associated": "Associate",
+            "attachments-table-name": "Name",
+            "attachments-table-active": "Active",
+            "attachments-table-required": "Requiered"
+        },
+        "sellers": {
+            "label": "Sellers",
+            "info": {
+                "0": "This SKU is sold by ",
+                "1": " This guide has the functionality of <strong> reassociating </ strong> this SKU to another SKU registered in the system by other seller. </ P> <p> The scenario, for example, is when the SKU is sold by Sellers X and Y, but there was a hint of approval created two Products, one for each Seller, instead of associating the SKU and maintain a Product only. <br /> This case may occur when the approved SKUs have different EANs. It’s desirable to unite the duplicated SKUs in a single Product."
+            },
+            "findSKUtoAssociate": "Find SKU you wish to reassociate",
+            "digitSkuId": " Type SKU ID ",
+            "search": "Search",
+            "searching": "<h4><strong>Searching...</strong></h4>",
+            "message-sku-not-found": "SKU not found. Verify if it is an registered SKU ID",
+            "message-insert-sku-id": "Fill the field with SKU ID ",
+            "message-sku-format": "SKU ID must be a number. Try again",
+            "message-error-try-again": "An error occur during the search. Try again later",
+            "association": {
+                "product-name": "Product name: ",
+                "confirm": "Confirm reassociating",
+                "obs": {
+                    "0": "OBS: confirming reassociating, the SKU ",
+                    "1": "Will be sold by "
+                },
+                "inactivate": {
+                    "wouldYouLike": "Do you wish to inactivate this product and keep activate only the associated one",
+                    "yes": "Yes ",
+                    "no": "No "
+                }
+            }
+        },
+        "return": "Return",
+        "save": "Save"
+    },
+    "breadcrumb": {
+        "product-and-sku": " Products e skus Management",
+        "product": "Products",
+        "insert-sku": "add SKU",
+        "edit-sku": "edit SKU"
+    },
+    "control": {
+        "category": {
+            "selectCategory": "Select Category",
+            "clearSelection": "Clear seleção",
+            "requiredField": "<li class=\"error\">Required Field </li>"
+        },
+        "coniversor": {
+            "label-1": "converting ->",
+            "label-2": "Only Numbers",
+            "label-3": "grams",
+            "label-4": "centimeters",
+            "message-1": "Required",
+            "message-2": "Invalid Field. Please fill only with numbers",
+            "message-3": "Invalid Value Field",
+            "message-4": "The Value must be higher than or equal to ",
+            "message-5": " The Value must be higher than ",
+            "message-6": " The Value must be lower than or equal to ",
+            "message-7": " The Value must be lower than "
+        },
+        "date": {
+            "message-required": "Required",
+            "message-incorrect-format": "Invalid Date (dd/mm/yyyy)"
+        },
+        "generic-table": {
+            "actual-selection": "Current Slectionl",
+            "advanced-search": "Advanced Search ",
+            "add": "Add",
+            "remove": "Remove",
+            "text-just-one-selection": "(Only 1 selection)",
+            "text-to": "untill",
+            "text-selections": "selections",
+            "text-filter": " Brand filter",
+            "message-1": "The current collection is too large. \n In case you click on the Advanced Search button your data will be lost and they will have to be registered again. \n It’s Suggested to put all the items to import in a single text file to all be imported same time",
+            "message-2": {
+                "part-1": "At least one ",
+                "part-2": "Must be selected"
+            },
+            "message-3": {
+                "part-1": "Only registered ",
+                "part-2": "values."
+            },
+            "message-4": "Typed name couldn’t be found ",
+            "message-5": "Typed name obtained more than one result ",
+            "message-6": " Field cannot be empty, fill with text to be searched ",
+            "message-7": "Item Added",
+            "message-8": "Fail to access SKU service cookie "
+        },
+        "integerText": {
+            "formatInvalid": "Invalid Field. Please fill only with numbers",
+            "required": "Required",
+            "numberInvalid": "Number invalid or reaches maximum allowed value"
+        },
+        "txtGeral": {
+            "message-requiered": "Required"
+        },
+        "productSpecification": {
+            "defaultValueTooltip": "Pattern Value: This value will be assigned to this field even if it’s not filled "
+        }
+    },
+    "product": {
+        "title": " Products Management ",
+        "add": "Add Product",
+        "message": {
+            "part-1": "Improved SKU import and export report!",
+            "part-2": "Click here ",
+            "part-3": " to be directed to most complete and organized SKUs Report option."
+        },
+        "found": "Product Found ",
+        "image": "Image",
+        "name": "Name",
+        "sku": "Sku",
+        "status": "Status",
+        "indexed-date": " Index date",
+        "edit": "Edit",
+        "similar-category": "Similar Category ",
+        "opinion": "Opinion",
+        "delete": "Delete",
+        "copy-with-skus": "Copy Skus",
+        "indexed-info": "Indexed Info",
+        "no-results": "No Product Found",
+        "active": "Active",
+        "inactive": "Inactive",
+        "open-page": "open on website",
+        "update": "Update"
+    },
+    "productForm": {
+        "message": " You must click the save button for the changes to take effect.",
+        "messageActive": " Your access profile does not allow the activation of the Product. For it to appear on the site, you must get authorization with the administrator of your store.",
+        "product": {
+            "label": "Product",
+            "info": "Fill with product information",
+            "wrongSpecification": "Attention: Invalid Specifications. Click on the specifications tab and verify field fulfillment ",
+            "required-field": "Required Field ",
+            "productId": " Product Id ",
+            "administratorId": "Adminitrador that approved Product (ID) ",
+            "editDate": "Last update ",
+            "name": "Name",
+            "sameSemanticWords": " Substitute words <i> <span style = \"color: # ff0000 \"> (use words that have the same semantics) </ span> </ i> <br /> <br /> Examples: <br /> Electronic -> Electronics; <br /> Refrigerator -> Fridge; <br /> Calvin Klein -> Calvin Klain; <br /> <br /> <i> <span style = \"color: # ff0000 \"> Important: these words will be used in internal searchs and also in Search sites </ span> </ i> ",
+            "sameSemanticWords-info": " Words related to the product, will be used for search, separate the words with commas \",\"",
+            "textLink": "Text Link",
+            "textLink-info": "(Used to build the Url Product) <strong> Do not use accents nor spaces! </ Strong>",
+            "textLink-error": "There is another Product with this name",
+            "tagTitle": "Page Title (Tag Title)",
+            "productDescription": " Product Description",
+            "metatagDescrioption": "Description (Meta Tag Description)",
+            "adwordsRemarketingCode": "AdWords Remarketing Code",
+            "lomadeeCampaignCode": "Lomadee Campaign Code",
+            "lomadeeInfo": {
+                "0": "Attention! Your store is registered in Lomadee with the code ",
+                "1": " And the campaign of Lomadee is active on VTEX, even is the field is not filled, the product will be sold using the regular campaign "
+            },
+            "brand": "Brand",
+            "category": "Category",
+            "globalCategory": {
+                "lable": " Global Category VTEX",
+                "info": "Why fill with Global Category VTEX?"
+            },
+            "stores": "resellers:",
+            "provider": "Provider",
+            "releaseDate": "Market Lunch date ",
+            "showOnSite": "Show on site",
+            "active": "Product active",
+            "showOutOfStock": "Show out of stock ",
+            "referenceCode": " Product Reference Code",
+            "shortDescription": "Additional Description",
+            "taxcode": "Fiscal Code",
+            "activateSKUs": "Activate all product SKUs ",
+            "save": "Save",
+            "saveAndCreateSKU": "Save and Register",
+            "return": "Return"
+        },
+        "specifications": {
+            "label": "Specifications",
+            "info": "Fill with information about the product: ",
+            "required-field": "Required Filed ",
+            "emptylist": "There is no Specifications for this product os no category was selected."
+        }
+    },
+    "commercialPolicy": {
+        "pageTitle": " Commercial Policy ",
+        "newLink": "New Commercial Policy ",
+        "newLinkInactiveTooltip": "Not possible to add more than 3 commercials Policies ",
+        "cntPrefix": " commercials Policies Found",
+        "sortSave": "Save Sort ",
+        "sortSaveInfo": "To save position sort of commercial policy, click on \"Save Sort\".",
+        "table": {
+            "position": "Position",
+            "idName": "Id - Nome",
+            "collection": "Collection",
+            "countryCode": "Country Code",
+            "currencyCode": "Currency Code",
+            "currencySymbol": "Currency Symbol",
+            "cultureInfo": "Culture Info",
+            "timeZone": "TimeZone",
+            "status": "Status",
+            "alter": "Alter",
+            "info": "* The values passed in parameter affiliateid can be changed by other 3 digits, that value will be the order number prefix of your store in the marketplace that you are selling.",
+            "noRecortFound": "No commercial policy found "
+        }
+    },
+    "commercialPolicyForm": {
+        "pageTitle": " Commercial Policy ",
+        "info": " Commercial Policy Management",
+        "tooManyItems": " Not possible to add more than 3 commercials Policies ",
+        "name": "Name",
+        "nameCondition": " Commercial Policy name cannot be initiated by: seq. ",
+        "collection": "Collection",
+        "collectionDefault": "—No Collection --",
+        "collectionInfo": "<strong>Obs: </strong> It’s required to index products on the chosen collection.",
+        "sellers": "Sellers",
+        "currencyCode": "Currency Code",
+        "currencySymbol": "Currency Symbol",
+        "currencySymbolInfo": " If not informed will use the default currency symbol (currency code)",
+        "countryCode": "Country Code",
+        "cultureInfo": "Culture Info",
+        "timeZone": "TimeZone",
+        "active": "Active?",
+        "conditionRule": "Condition Rule",
+        "conditionRuleTooltip": " The conditional rule is validated based on the user profile data. It will be granted access to the first Policy whose rule is attended. The rules are validated according to the order defined in the Management. If there is no Commercial Policy with rule met by the user's profile, it will be redirected to the first Commercial Policy with no defined rule, following the ordination. Example rule: gender = \"m \"",
+        "conditionRuleInfo": "<strong> Attention! The default value of this field is blank. Fill out only if necessary. </ Strong> The conditional rule will redirect to the Commercial Policy users whose profile data satisfy the conditional rule specified.",
+        "return": "Voltar",
+        "save": "Save"
+    },
+    "configForm": {
+        "formTitle": "General Settings ",
+        "info": "Fill with information about system ",
+        "shopName": "Store name",
+        "tagTitle": "Home Page title (Tag Title)",
+        "tagTitleInfo": " Home Title, #NAME_STORE#",
+        "xmlText": " Xml Text ",
+        "xmlTextInfo": "#LINK_STORE#, #NAME_STORE#",
+        "buyTogeatherMaxQuantity": "Buy together max quantity ",
+        "showCartNote": "Show buying notes ",
+        "showCartNoteInfo": "Show note of buying and cart ",
+        "sameSKUinCartQuantity": "Max quantity of SKUs at cart ",
+        "sameSKUinCartQuantityInfo": "between 0 e 2147483647",
+        "showSuperZoom": "Show Super Zoom",
+        "showNotifyMe": "Show “Let Me Know” when out of stock ",
+        "activateUtmiLinks": "Activate links with Utmi - Ativar links com Utmi – Inside navigation Monitoring.",
+        "rewardProgram": "Reward Program (Loyalty)",
+        "rewardProgramPercentual": " maximum percentage for use of the Affiliate Program ",
+        "save": "Save"
+    },
+    "configSEOForm": {
+        "formTitle": " SEO Settings ",
+        "info": "Fill with information about the System",
+        "metaKeyword": "Key Words (Meta Tag Keyword)",
+        "metaKeywordInfo": "Usage of Meta Tag. Words for search engine, separate the words with <strong>Comma</strong>",
+        "metaDescription": "MetaTag Description",
+        "metaCategoryDescription": " Category Description(Meta Tag Description)",
+        "metaCategoryDescriptionInfo": " MetaTag information",
+        "robots": "Robots.txt",
+        "robotsInfo": "<br /> If you are running on vtexcommerce the robots will be the default: <br /> User-agent: * <br /> Disallow: / ",
+        "save": "Save"
+    },
+    "seller": {
+        "pageTitle": " Sellers List ",
+        "filter": {
+            "sellerId": " Seller Id ",
+            "name": "Name"
+        },
+        "cntPrefix": "Sellers Foung:",
+        "newButton": "New Seller",
+        "table": {
+            "id": " Seller ID ",
+            "name": "Name",
+            "taxpayerIdNumber": "Tax Payer ID",
+            "adminEmail": " Administrator Email ",
+            "cscId": "Identification at CSC",
+            "edit": "Edit",
+            "editButton": "Edit / View",
+            "toggleStatusActivate": "Active Seller",
+            "toggleStatusDeactivate": "Deactivate Seller",
+            "configCommissioning": "Commissioning Set "
+        },
+        "noItems": "No Sellers registered"
+    }
 }
