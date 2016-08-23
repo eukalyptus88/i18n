@@ -18,5 +18,8 @@
   },
   "pricing" : {
     "Markup" : "El precio es más bajo que el markup mínimo"
+  },
+  "storedash" : {
+    "PriceAlert" : "Orden cerró con un valor más bajo de lo esperado."
   }
 }
