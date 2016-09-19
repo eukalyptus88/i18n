@@ -21,5 +21,8 @@
   },
   "storedash" : {
     "PriceAlert" : "Order closed with value lower than expected."
+  },
+  "rates-and-benefits" : {
+    "promotionArchived" : "Your promotion has been automatically deleted."
   }
 }

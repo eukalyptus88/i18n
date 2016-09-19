@@ -21,5 +21,8 @@
   },
   "storedash" : {
     "PriceAlert" : "Orden cerró con un valor más bajo de lo esperado."
+  },
+  "rates-and-benefits" : {
+    "promotionArchived" : "Su promoción se ha eliminado de forma automática."
   }
 }
