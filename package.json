@@ -21,6 +21,5 @@
     "type": "git",
     "url": "git://github.com/vtex/i18n.git"
   },
-  "private": true,
   "license": "MIT"
 }
