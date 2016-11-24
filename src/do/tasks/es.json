@@ -26,6 +26,6 @@
     "promotionArchived" : "Su promoción se ha eliminado de forma automática."
   },
   "catalog": {
-    "eanNotFound": "Revisar SKU EAN",
+    "eanNotFound": "Revisar SKU EAN"
   }
 }

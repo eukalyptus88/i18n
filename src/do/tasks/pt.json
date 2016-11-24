@@ -26,6 +26,6 @@
     "promotionArchived" : "Sua promoção foi arquivada automaticamente."
   },
   "catalog": {
-    "eanNotFound": "Corrigir EAN do SKU",
+    "eanNotFound": "Corrigir EAN do SKU"
   }
 }
