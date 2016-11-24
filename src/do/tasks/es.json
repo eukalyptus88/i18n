@@ -24,5 +24,8 @@
   },
   "rates-and-benefits" : {
     "promotionArchived" : "Su promoción se ha eliminado de forma automática."
+  },
+  "catalog": {
+    "eanNotFound": "Revisar SKU EAN",
   }
 }
