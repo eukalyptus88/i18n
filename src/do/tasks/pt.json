@@ -14,7 +14,8 @@
     "template-with-error" : "Template com erro"
   },
   "order-auth-pipe" : {
-    "authorize-order" : "Autorizar pedido com alçada"
+    "authorize-order" : "Autorizar pedido com alçada",
+	"notify-manualPrice" : "Item com preço alterado manualmente"
   },
   "pricing" : {
     "Markup" : "Preço menor que markup mínimo"

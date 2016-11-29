@@ -14,7 +14,8 @@
     "template-with-error" : "Template with error"
   },
   "order-auth-pipe" : {
-    "authorize-order" : "Authorize order with custom discount"
+    "authorize-order" : "Authorize order with custom discount",
+	"notify-manualPrice" : "Item with price changed manually"
   },
   "pricing" : {
     "Markup" : "Price is lower than minimum markup"
