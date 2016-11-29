@@ -15,7 +15,7 @@
   },
   "order-auth-pipe" : {
     "authorize-order" : "Autorizacion de pedido alterado manualmente",
-	"notify-manualPrice" : "Item con precio cambiado manualmente"
+	  "notify-manualPrice" : "Item con precio cambiado manualmente"
   },
   "pricing" : {
     "Markup" : "El precio es más bajo que el markup mínimo"
