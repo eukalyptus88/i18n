@@ -15,7 +15,7 @@
   },
   "order-auth-pipe" : {
     "authorize-order" : "Authorize order with custom discount",
-	  "notify-manualPrice" : "Item's price was changed manually"
+    "notify-manualPrice" : "Item's price was changed manually"
   },
   "pricing" : {
     "Markup" : "Price is lower than minimum markup"
