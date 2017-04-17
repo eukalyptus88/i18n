@@ -29,7 +29,8 @@
          "Infra":"Infraestrutura",
          "Backoffice":"Backoffice & ERP",
          "Frontend":"Frontend",
-         "Marketplace":"Marketplace"
+         "Marketplace":"Marketplace",
+         "Sherlockbot": "SherlockBOT"
       },
       "dismiss":"Ignorar"
    },

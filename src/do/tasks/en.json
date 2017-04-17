@@ -8,6 +8,7 @@
     "cancelManualPayment": "Review payment to cancel",
     "cancelManualPaymentDescription": "It is necessary to cancel a payment to the buyer",
     "checkPaymentSettlement": "Review payment to settle",
+    "sherlockbot": "SherlockBOT: Suspicious activity in your Vtex checkout.",
     "checkPaymentSettlementDescription": "The was an error when trying to settle the payment, please contact the payment gateway acquirer and verify the settlement"
   },
   "message-center" : {

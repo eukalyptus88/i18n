@@ -8,6 +8,7 @@
     "cancelManualPayment": "Revisar pago para cancelar",
     "cancelManualPaymentDescription": "Es necesário revisar el estado del pago, y caso necesário devolver el dinero de pago al comprador",
     "checkPaymentSettlement": "Revisar pago para capturar",
+    "sherlockbot": "SherlockBOT: Actividad sospechosa en las compras.",
     "checkPaymentSettlementDescription": "Ocurrió un problema al intentar capturar el pago, entre en contacto con el procesador de pago y verifique la captura"
   },
   "message-center" : {
