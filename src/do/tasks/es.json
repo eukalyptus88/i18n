@@ -28,6 +28,8 @@
     "promotionArchived" : "Su promoción se ha eliminado de forma automática."
   },
   "catalog": {
-    "eanNotFound": "Revisar SKU EAN"
+    "eanNotFound": "Corrigir EAN no registrado",
+    "withoutStock": "Corrigir SKU sin existencias",
+    "withoutPrice": "Corrigir SKU sin precio"
   }
 }
