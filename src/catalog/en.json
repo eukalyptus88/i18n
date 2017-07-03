@@ -449,5 +449,19 @@
             "configCommissioning": "Commissioning Set "
         },
         "noItems": "No Sellers registered"
+    },
+    "category-page": {
+        "title": "Category - Categories Management",
+        "breadcrumb": {
+            "inicial-page": "Inicial page",
+            "breadcrumb-product-management": "Product management",
+            "breadcrumb-categories": "Categories"
+        },
+        "button": {
+            "hide-all": "Hide all",
+            "show-all": "Show all"
+        },
+        "search-text": "Search category",
+        "category-id-zero": "Categories"
     }
 }

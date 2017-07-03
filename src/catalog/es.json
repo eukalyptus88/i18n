@@ -449,5 +449,19 @@
             "configCommissioning": "Configurar Comisionamiento"
         },
         "noItems": "No existen Sellers registrados"
+    },
+    "category-page": {
+        "title": "Categoría - Administración de Categorias",
+        "breadcrumb": {
+            "inicial-page": "Página Inicial",
+            "product-management": "Registro de productos",
+            "categories": "categorías"
+        },
+        "button":{
+            "hide-all": "Recoger Todos",
+            "show-all": "Expandir Todos"
+        },
+        "search-text": "Buscar categoría",
+        "category-id-zero": "Categorías"
     }
 }
