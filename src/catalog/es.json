@@ -72,7 +72,6 @@
             "seller-sku": "SKUs de los Sellers"
         }
     },
-
     "skuForm": {
         "yes": "Si",
         "no": "No",
@@ -136,7 +135,6 @@
             "activated": "SKU Activo?",
             "manufacturer-code": "Código del Fabricante",
             "warning-1": "Valor correspondiente al crédito de tarjeta de fidelidad para uso en compras futuras."
-
         },
         "images": {
             "label": "Imagenes",
@@ -182,7 +180,6 @@
             "info": {
                 "0": "Este SKU es vendido por",
                 "1": "Esta guia posee la funcionalidad de <strong>reassociação</strong> de este SKU para el SKU de otro Seller registrado en el sistema.</p><p>El Escenário se dá cuando el SKU es vendido por ejemplo, por los Sellers X e Y, por los tanto ocurrió una aprovación de Sugestión que creó dos productos, uno para cada Seller, en vez de asociar el SKU y mantener un producto solamente.<br />Este caso puede ocurrir cuando los SKUs aprobados poseen EANs diferentes.Lo ideal es unir los SKUs duplicados de los Sellers X e Y en un único producto."
-
             },
             "findSKUtoAssociate": "Encuentre el SKU para cual desea reasociar",
             "digitSkuId": "Digite el Id del SKU",
@@ -209,14 +206,12 @@
         "return": "Volver",
         "save": "Guardar"
     },
-
     "breadcrumb": {
         "product-and-sku": "Registro de Produtos y Skus",
         "product": "productos",
         "insert-sku": "Agregar SKU",
         "edit-sku": "editar SKU"
     },
-
     "control": {
         "category": {
             "selectCategory": "Seleccionar Categoria",
@@ -276,7 +271,6 @@
             "defaultValueTooltip": "Valor Padron: Este valor será atribuido a este campo si el mismo no fuera completado"
         }
     },
-
     "product": {
         "title": "Registro de Productos",
         "add": "Agregar Producto",

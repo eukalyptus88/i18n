@@ -72,7 +72,6 @@
             "seller-sku": "SKUs dos Sellers"
         }
     },
-
     "skuForm": {
         "yes": "Sim",
         "no": "No",
@@ -136,7 +135,6 @@
             "activated": "SKU Ativo?",
             "manufacturer-code": "Código do Fabricante",
             "warning-1": "Valor correspondente ao crédito no cartão fidelidade para uso em compras futuras."
-
         },
         "images": {
             "label": "Imagens",
@@ -208,14 +206,12 @@
         "return": "Voltar",
         "save": "Salvar"
     },
-
     "breadcrumb": {
         "product-and-sku": "cadastro de produtos e skus",
         "product": "produtos",
         "insert-sku": "adicionar SKU",
         "edit-sku": "editar SKU"
     },
-
     "control": {
         "category": {
             "selectCategory": "Selecionar Categoria",
@@ -275,7 +271,6 @@
             "defaultValueTooltip": "Valor Padrão: Este valor será atribuido a este campo se o mesmo não for preenchido"
         }
     },
-
     "product": {
         "title": "Cadastro de Produtos",
         "add": "Adicionar Produto",

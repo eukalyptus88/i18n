@@ -338,6 +338,7 @@
             "referenceCode": " Product Reference Code",
             "shortDescription": "Additional Description",
             "taxcode": "Fiscal Code",
+			"score": "Score (used for the serch order)",
             "activateSKUs": "Activate all product SKUs ",
             "save": "Save",
             "saveAndCreateSKU": "Save and Register",
