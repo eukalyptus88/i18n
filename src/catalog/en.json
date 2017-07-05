@@ -72,6 +72,7 @@
             "seller-sku": " Sellers SKUs"
         }
     },
+    "breadcrumb": "Home",
     "skuForm": {
         "yes": "Yes",
         "no": "No",
@@ -453,7 +454,6 @@
     "category-page": {
         "title": "Category - Categories Management",
         "breadcrumb": {
-            "inicial-page": "Inicial page",
             "breadcrumb-product-management": "Product management",
             "breadcrumb-categories": "Categories"
         },
@@ -462,6 +462,15 @@
             "show-all": "Show all"
         },
         "search-text": "Search category",
-        "category-id-zero": "Categories"
+        "category-id-zero": "Categories",
+        "menu": "actions",
+        "menu-edit": "Edit",
+        "menu-copy": "Include Similar",
+        "menu-create": "Include",
+        "menu-group":"Group",
+        "menu-field-product":"Field (Product)",
+        "menu-field-sku": "Field (Sku)",
+        "menu-evaluation": "Evaluation",
+        "menu-price-range": "Price range"
     }
 }
