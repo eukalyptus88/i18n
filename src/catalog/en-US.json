@@ -72,7 +72,7 @@
             "seller-sku": " Sellers SKUs"
         }
     },
-    "breadcrumb": "Home",
+    "breadcrumb-home": "Home",
     "skuForm": {
         "yes": "Yes",
         "no": "No",
