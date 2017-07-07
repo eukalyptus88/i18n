@@ -453,14 +453,10 @@
     },
     "category-page": {
         "title": "Category - Categories Management",
-        "breadcrumb": {
-            "breadcrumb-product-management": "Product management",
-            "breadcrumb-categories": "Categories"
-        },
-        "button": {
-            "hide-all": "Hide all",
-            "show-all": "Show all"
-        },
+        "breadcrumb-product-management": "Product management",
+        "breadcrumb-categories": "Categories",
+        "hide-all": "Hide all",
+        "show-all": "Show all",
         "search-text": "Search category",
         "category-id-zero": "Categories",
         "menu": "actions",

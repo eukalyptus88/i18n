@@ -453,14 +453,10 @@
     },
     "category-page": {
         "title": "Categoria - Administração de Categorias",
-        "breadcrumb": {
-            "product-management": "Cadastro de produtos",
-            "categories": "categorias"
-        },
-        "button":{
-            "hide-all": "Recolher Todos",
-            "show-all": "Expandir Todos"
-        },
+        "breadcrumb-product-management": "Cadastro de produtos",
+        "breadcrumb-categories": "categorias",
+        "hide-all": "Recolher Todos",
+        "show-all": "Expandir Todos",
         "search-text": "Pesquisar categoria",
         "category-id-zero": "Categorias",
         "menu": "ações",
