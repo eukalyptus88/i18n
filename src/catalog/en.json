@@ -502,7 +502,7 @@
 		"column-title-name": "Name",
 		"column-title-edit": "Edit",
 		"button-edit": "Edit",
-		"combobox-down-arrow-value-delete": "Delete",
+		"delete": "Delete",
  		"button-back": "Back"
 	}
 }
