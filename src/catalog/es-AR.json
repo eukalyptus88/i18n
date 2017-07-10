@@ -490,5 +490,19 @@
         "table-header-receive-email": "Opt for receiving email",
         "button-export-excel": "Export to Excel",
         "button-export-csv": "Export to CSV"
-    }
+    },
+        "similar-category-page": {
+		"title": "Category similar to ",
+		"breadcrumb-initial-page": "Home",
+		"breadcrumb-content": "content",
+		"breadcrumb-categories": "categories",
+		"breadcrumb-similar-categories": "similar categories",
+		"button-new-similar-category": "New similar category",
+		"column-title-category": "Category",
+		"column-title-name": "Name",
+		"column-title-edit": "Edit",
+		"button-edit": "Edit",
+		"combobox-down-arrow-value-delete": "Delete",
+ 		"button-back": "Back"
+	}
 }

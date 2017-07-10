@@ -490,5 +490,19 @@
         "table-header-receive-email": "Opção por receber email",
         "button-export-excel": "Exportar para Excel",
         "button-export-csv": "Exportar para CSV"
-    }
+    },
+    "similar-category-page": {
+		"title": "Categoria similar de ",
+		"breadcrumb-initial-page": "Página Inicial",
+		"breadcrumb-content": "conteúdo",
+		"breadcrumb-categories": "categorias",
+		"breadcrumb-similar-categories": "categorias similares",
+		"button-new-similar-category": "Nova categoria similar",
+		"column-title-category": "Categoria",
+		"column-title-name": "Nome",
+		"column-title-edit": "Editar",
+		"button-edit": "Alterar",
+		"combobox-down-arrow-value-delete": "Excluir",
+ 		"button-back": "Voltar"
+	}
 }
