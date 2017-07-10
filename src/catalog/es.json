@@ -503,6 +503,7 @@
 		"column-title-edit": "Editar",
 		"button-edit": "Alterar",
 		"delete": "Excluir",
- 		"button-back": "Voltar"
+ 		"button-back": "Voltar",
+        "empty-list": "No existen categorias similares"
 	}
 }

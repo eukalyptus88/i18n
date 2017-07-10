@@ -503,6 +503,7 @@
 		"column-title-edit": "Edit",
 		"button-edit": "Edit",
 		"combobox-down-arrow-value-delete": "Delete",
- 		"button-back": "Back"
+ 		"button-back": "Back",
+        "empty-list": "There are no similar categories"
 	}
 }
