@@ -1,4 +1,4 @@
-{
+﻿{
     "mainMenu": {
         "products": {
             "label": "Products Management ",
@@ -468,5 +468,26 @@
         "menu-field-sku": "Field (Sku)",
         "menu-evaluation": "Evaluation",
         "menu-price-range": "Price range"
+    },
+    "newsletter-report-page": {
+        "title": "Report - Newsletter",
+        "breadcrumb-reports": "reports",
+        "breadcrumb-newsletter": "Newsletter",
+        "users-found": "Users found:",
+        "users-not-found": "No users found",
+        "table-caption": "Newsletter Report",
+        "table-summary": "Report of Users signed up to the Newsletter",
+        "table-navigation-first": "First",
+        "table-navigation-previous": "Previous",
+        "table-navigation-next": "Next",
+        "table-navigation-last": "Last",
+        "table-header-name": "Name",
+        "table-header-email": "E-mail",
+        "table-header-register-date": "Register Date",
+        "table-header-store": "Store",
+        "table-header-last-purchase": "Last Purchase",
+        "table-header-receive-email": "Opt for receiving email",
+        "button-export-excel": "Export to Excel",
+        "button-export-csv": "Export to CSV"
     }
 }
