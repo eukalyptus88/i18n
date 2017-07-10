@@ -493,11 +493,11 @@
     },
     "similar-category-page": {
 		"title": "Category similar to ",
-		"breadcrumb-initial-page": "Home",
+        "error": "Attention: Could not delete this category. Probably already associated with some other item",
 		"breadcrumb-content": "content",
 		"breadcrumb-categories": "categories",
 		"breadcrumb-similar-categories": "similar categories",
-		"button-new-similar-category": "New similar category",
+		"button-new": "New similar category",
 		"column-title-category": "Category",
 		"column-title-name": "Name",
 		"column-title-edit": "Edit",
