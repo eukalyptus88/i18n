@@ -65,7 +65,7 @@
         },
         "marketplace": {
             "label": "MarketPlace",
-            "Commercial-policy": " Commercial Policy ",
+            "commercial-policy": " Commercial Policy ",
             "category-and-brand-maps": " Categorys and Brands Map",
             "sellers": "Sellers",
             "sku-suggestion": " SKUs Suggestion ",
