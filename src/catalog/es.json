@@ -571,7 +571,7 @@
         "category-description": "Descrição da Categoria (Meta Tag Description)",
         "adwords-remarketing-code": "AdWords Remarketing Code",
         "lomadee-campaign-code": "Lomadee Campaign Code",
-        "father-category": "Categoria Pai",
+        "parent-category": "Categoria Pai",
         "vtex-global-category": "Categoria Global VTEX",
         "vtex-global-category-warning": "Por que preencher Categoria Global VTEX?",
         "checkbox-menu": "Menu",
