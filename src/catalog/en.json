@@ -589,6 +589,7 @@
 		"breadcrumb-categories": "categories",
 		"breadcrumb-similar-categories": "similar categories",
 		"breadcrumb-add": "add similar category",
+		"breadcrumb-edit": "edit similar category",
 		"title": "Category",
 		"warning-top": "Fill in the information for similar category.",
 		"required-field": "Required Field",
