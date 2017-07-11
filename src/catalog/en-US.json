@@ -72,7 +72,21 @@
             "seller-sku": " Sellers SKUs"
         }
     },
-    "breadcrumb-home": "Home",
+    "breadcrumb": {
+        "home": "Home",
+        "product-and-sku": "Product and SKU Management",
+        "product": "Products",
+        "insert-sku": "Add SKU",
+        "edit-sku": "Edit SKU",
+        "product-management": "Product management",
+        "categories": "Categories",
+        "reports": "Reports",
+        "newsletter": "Newsletter",
+		"content": "Content",
+		"similar-categories": "Similar Categories",
+    	"add": "Add similar category",
+		"edit": "Edit similar category"
+    },
     "filter": {
         "title": "Filter results or do a search",
         "tips": "You can do a search or apply filters, using one or more criteria",
@@ -284,12 +298,6 @@
         },
         "return": "Return",
         "save": "Save"
-    },
-    "breadcrumb": {
-        "product-and-sku": " Products e skus Management",
-        "product": "Products",
-        "insert-sku": "add SKU",
-        "edit-sku": "edit SKU"
     },
     "control": {
         "category": {
@@ -531,8 +539,6 @@
     },
     "category-page": {
         "title": "Category - Categories Management",
-        "breadcrumb-product-management": "Product management",
-        "breadcrumb-categories": "Categories",
         "hide-all": "Hide all",
         "show-all": "Show all",
         "search-text": "Search category",
@@ -549,8 +555,6 @@
     },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
-        "breadcrumb-reports": "reports",
-        "breadcrumb-newsletter": "Newsletter",
         "users-found": "Users found:",
         "users-not-found": "No users found",
         "date-limit": "Maximum limit of two months",
@@ -572,9 +576,6 @@
     "similar-category-page": {
 		"title": "Category similar to ",
         "error": "Attention: Could not delete this category. Probably already associated with some other item",
-		"breadcrumb-content": "content",
-		"breadcrumb-categories": "categories",
-		"breadcrumb-similar-categories": "similar categories",
 		"button-new": "New similar category",
 		"column-title-category": "Category",
 		"column-title-name": "Name",
@@ -585,11 +586,6 @@
         "empty-list": "There are no similar categories"
 	},
     "similar-category-form-page": {
-		"breadcrumb-content": "content",
-		"breadcrumb-categories": "categories",
-		"breadcrumb-similar-categories": "similar categories",
-		"breadcrumb-add": "add similar category",
-		"breadcrumb-edit": "edit similar category",
 		"title": "Category",
 		"warning-top": "Fill in the information for similar category.",
 		"required-field": "Required Field",

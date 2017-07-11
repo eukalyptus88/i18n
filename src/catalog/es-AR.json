@@ -72,7 +72,21 @@
             "seller-sku": "SKUs de los Sellers"
         }
     },
-    "breadcrumb-home": "Página inicial",
+    "breadcrumb": {
+        "home": "Página inicial",
+        "product-and-sku": "Registro de productos y SKUs",
+        "product": "Productos",
+        "insert-sku": "Agregar SKU",
+        "edit-sku": "Editar SKU",
+        "product-management": "Registro de productos",
+        "categories": "Categorías",
+        "reports": "Informes",
+        "newsletter": "Newsletter",
+		"content": "Contenido",
+		"similar-categories": "Categorías Similares",
+    	"add": "Agregar categoría similar",
+		"edit": "Editar categoría similar"
+    },
     "filter": {
         "title": "Filter results or do a search",
         "tips": "You can do a search or apply filters, using one or more criteria",
@@ -284,12 +298,6 @@
         },
         "return": "Volver",
         "save": "Guardar"
-    },
-    "breadcrumb": {
-        "product-and-sku": "Registro de Produtos y Skus",
-        "product": "productos",
-        "insert-sku": "Agregar SKU",
-        "edit-sku": "editar SKU"
     },
     "control": {
         "category": {
@@ -531,8 +539,6 @@
     },
     "category-page": {
         "title": "Categoría - Administración de Categorias",
-        "breadcrumb-product-management": "Registro de productos",
-        "breadcrumb-categories": "categorías",
         "hide-all": "Recoger Todos",
         "show-all": "Expandir Todos",
         "search-text": "Buscar categoría",
@@ -549,8 +555,6 @@
     },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
-        "breadcrumb-reports": "reports",
-        "breadcrumb-newsletter": "Newsletter",
         "users-found": "Users found:",
         "users-not-found": "No users found",
         "date-limit": "Maximum limit of two months",
@@ -572,9 +576,6 @@
     "similar-category-page": {
 		"title": "Categoria similar de ",
         "error": "Atención: No fué posible excluir esta categoria. Probablemente ya está asociado à algún outro iten",
-		"breadcrumb-content": "contenido",
-		"breadcrumb-categories": "categorias",
-		"breadcrumb-similar-categories": "categorias similares",
 		"button-new": "Nueva categoria similar",
 		"column-title-category": "Categoria",
 		"column-title-name": "Nombre",
@@ -585,11 +586,6 @@
         "empty-list": "No existen categorias similares"
 	},
     "similar-category-form-page": {
-		"breadcrumb-content": "contenido",
-		"breadcrumb-categories": "categorias",
-		"breadcrumb-similar-categories": "categorias similares",
-		"breadcrumb-add": "adicionar categoria similar",
-		"breadcrumb-edit": "editar categoria similar",
 		"title": "Categoria",
 		"warning-top": "Llena las informaciones referentes a categoria similar.",
 		"required-field": "Campo Obrigatorio",

@@ -72,7 +72,21 @@
             "seller-sku": "SKUs dos Sellers"
         }
     },
-    "breadcrumb-home": "Página Inicial",
+    "breadcrumb": {
+        "home": "Página inicial",
+        "product-and-sku": "Cadastro de produtos e SKUs",
+        "product": "Produtos",
+        "insert-sku": "Adicionar SKU",
+        "edit-sku": "Editar SKU",
+        "product-management": "Cadastro de produtos",
+        "categories": "Categorias",
+        "reports": "Relatórios",
+        "newsletter": "Newsletter",
+		"content": "Conteúdo",
+		"similar-categories": "Categorias Similares",
+    	"add": "Adicionar categoria similar",
+		"edit": "Editar categoria similar"
+    },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
         "tips": "Você pode fazer a sua busca ou filtrar, usando um ou mais critérios",
@@ -284,12 +298,6 @@
         },
         "return": "Voltar",
         "save": "Salvar"
-    },
-    "breadcrumb": {
-        "product-and-sku": "cadastro de produtos e skus",
-        "product": "produtos",
-        "insert-sku": "adicionar SKU",
-        "edit-sku": "editar SKU"
     },
     "control": {
         "category": {
@@ -531,8 +539,6 @@
     },
     "category-page": {
         "title": "Categoria - Administração de Categorias",
-        "breadcrumb-product-management": "Cadastro de produtos",
-        "breadcrumb-categories": "categorias",
         "hide-all": "Recolher Todos",
         "show-all": "Expandir Todos",
         "search-text": "Pesquisar categoria",
@@ -549,8 +555,6 @@
     },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
-        "breadcrumb-reports": "relatórios",
-        "breadcrumb-newsletter": "Newsletter",
         "users-found": "Usuários encontrados:",
         "users-not-found": "Nenhum usuário encontrado",
         "date-limit": "Limite máximo de dois meses",
@@ -572,9 +576,6 @@
     "similar-category-page": {
 		"title": "Categoria similar de ",
         "error": "Atenção: Não foi possível excluir esta categoria. Provavelmente já está associado à algum outro item",
-		"breadcrumb-content": "conteúdo",
-		"breadcrumb-categories": "categorias",
-		"breadcrumb-similar-categories": "categorias similares",
 		"button-new": "Nova categoria similar",
 		"column-title-category": "Categoria",
 		"column-title-name": "Nome",
@@ -585,11 +586,6 @@
         "empty-list": "Não existem categorias similares"
 	},
     "similar-category-form-page": {
-		"breadcrumb-content": "conteúdo",
-		"breadcrumb-categories": "categorias",
-		"breadcrumb-similar-categories": "categorias similares",
-		"breadcrumb-add": "adicionar categoria similar",
-		"breadcrumb-edit": "editar categoria similar",
 		"title": "Categoria",
 		"warning-top": "Preencha as informações referentes a categoria similar.",
 		"required-field": "Campo Obrigatório",
