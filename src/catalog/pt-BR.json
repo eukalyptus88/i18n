@@ -553,26 +553,6 @@
         "menu-evaluation": "Avaliação",
         "menu-price-range": "Faixa de preço"
     },
-    "newsletter-report-page": {
-        "title": "Relatório - Newsletter",
-        "users-found": "Usuários encontrados:",
-        "users-not-found": "Nenhum usuário encontrado",
-        "date-limit": "Limite máximo de dois meses",
-        "table-caption": "Relatório de Newsletter",
-        "table-summary": "Relatório de Usuários cadastrados na Newsletter",
-        "table-navigation-first": "Primeira",
-        "table-navigation-previous": "Anterior",
-        "table-navigation-next": "Próxima",
-        "table-navigation-last": "Última",
-        "table-header-name": "Nome",
-        "table-header-email": "E-mail",
-        "table-header-register-date": "Data de Cadastro",
-        "table-header-store": "Store",
-        "table-header-last-purchase": "Última Compra",
-        "table-header-receive-email": "Opção por receber email",
-        "button-export-excel": "Exportar para Excel",
-        "button-export-csv": "Exportar para CSV"
-    },
     "similar-category-page": {
 		"title": "Categoria similar de ",
         "error": "Atenção: Não foi possível excluir esta categoria. Provavelmente já está associado à algum outro item",
@@ -594,5 +574,25 @@
 		"button-clear-selection": "Limpar seleção",
 		"button-save": "Salvar",
 		"button-back": "Voltar"
-	}
+    },
+    "newsletter-report-page": {
+        "title": "Relatório - Newsletter",
+        "users-found": "Usuários encontrados:",
+        "users-not-found": "Nenhum usuário encontrado",
+        "date-limit": "Limite máximo de dois meses",
+        "table-caption": "Relatório de Newsletter",
+        "table-summary": "Relatório de Usuários cadastrados na Newsletter",
+        "table-navigation-first": "Primeira",
+        "table-navigation-previous": "Anterior",
+        "table-navigation-next": "Próxima",
+        "table-navigation-last": "Última",
+        "table-header-name": "Nome",
+        "table-header-email": "E-mail",
+        "table-header-register-date": "Data de Cadastro",
+        "table-header-store": "Store",
+        "table-header-last-purchase": "Última Compra",
+        "table-header-receive-email": "Opção por receber email",
+        "button-export-excel": "Exportar para Excel",
+        "button-export-csv": "Exportar para CSV"
+    }
 }

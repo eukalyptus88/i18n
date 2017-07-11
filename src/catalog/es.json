@@ -553,26 +553,6 @@
         "menu-evaluation": "Avaliación",
         "menu-price-range": "Rango de precio"
     },
-    "newsletter-report-page": {
-        "title": "Report - Newsletter",
-        "users-found": "Users found:",
-        "users-not-found": "No users found",
-        "date-limit": "Maximum limit of two months",
-        "table-caption": "Newsletter Report",
-        "table-summary": "Report of Users signed up to the Newsletter",
-        "table-navigation-first": "First",
-        "table-navigation-previous": "Previous",
-        "table-navigation-next": "Next",
-        "table-navigation-last": "Last",
-        "table-header-name": "Name",
-        "table-header-email": "E-mail",
-        "table-header-register-date": "Register Date",
-        "table-header-store": "Store",
-        "table-header-last-purchase": "Last Purchase",
-        "table-header-receive-email": "Opt for receiving email",
-        "button-export-excel": "Export to Excel",
-        "button-export-csv": "Export to CSV"
-    },
     "similar-category-page": {
 		"title": "Categoria similar de ",
         "error": "Atención: No fué posible excluir esta categoria. Probablemente ya está asociado à algún outro iten",
@@ -594,5 +574,25 @@
 		"button-clear-selection": "Limpiar Selección",
 		"button-save": "Salvar",
 		"button-back": "Voltar"
-	}
+    },
+    "newsletter-report-page": {
+        "title": "Report - Newsletter",
+        "users-found": "Users found:",
+        "users-not-found": "No users found",
+        "date-limit": "Maximum limit of two months",
+        "table-caption": "Newsletter Report",
+        "table-summary": "Report of Users signed up to the Newsletter",
+        "table-navigation-first": "First",
+        "table-navigation-previous": "Previous",
+        "table-navigation-next": "Next",
+        "table-navigation-last": "Last",
+        "table-header-name": "Name",
+        "table-header-email": "E-mail",
+        "table-header-register-date": "Register Date",
+        "table-header-store": "Store",
+        "table-header-last-purchase": "Last Purchase",
+        "table-header-receive-email": "Opt for receiving email",
+        "button-export-excel": "Export to Excel",
+        "button-export-csv": "Export to CSV"
+    }
 }
