@@ -84,8 +84,8 @@
         "newsletter": "Newsletter",
 		"content": "Conteúdo",
 		"similar-categories": "Categorias Similares",
-    	"add": "Adicionar categoria similar",
-		"edit": "Editar categoria similar"
+    	"add-similar-categories": "Adicionar categoria similar",
+		"edit-similar-categories": "Editar categoria similar"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
