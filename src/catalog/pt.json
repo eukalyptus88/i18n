@@ -568,5 +568,19 @@
 		"delete": "Excluir",
  		"button-back": "Voltar",
         "empty-list": "Não existem categorias similares"
+	},
+    "similar-category-form-page": {
+		"breadcrumb-content": "conteúdo",
+		"breadcrumb-categories": "categorias",
+		"breadcrumb-similar-categories": "categorias similares",
+		"breadcrumb-add": "adicionar categoria similar",
+		"title": "Categoria",
+		"warning-top": "Preencha as informações referentes a categoria similar.",
+		"required-field": "Campo Obrigatório",
+		"name": "Nome",
+		"similar-category": "Categoria Similar",
+		"button-clear-selection": "Clear seleção",
+		"button-save": "Salvar",
+		"button-back": "Voltar"
 	}
 }

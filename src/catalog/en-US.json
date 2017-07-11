@@ -568,5 +568,19 @@
 		"delete": "Delete",
  		"button-back": "Back",
         "empty-list": "There are no similar categories"
+	},
+    "similar-category-form-page": {
+		"breadcrumb-content": "content",
+		"breadcrumb-categories": "categories",
+		"breadcrumb-similar-categories": "similar categories",
+		"breadcrumb-add": "add similar category",
+		"title": "Category",
+		"warning-top": "Fill in the information for similar category.",
+		"required-field": "Required Field",
+		"name": "Name",
+		"similar-category": "Similar Category",
+		"button-clear-selection": "Clear selection",
+		"button-save": "Save",
+		"button-back": "Back"
 	}
 }
