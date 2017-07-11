@@ -588,8 +588,20 @@
         "combobox-product-exhibition-value-box": "Caixas de Seleção (combo box)",
         "combobox-product-exhibition-value-radio": "Ícones com seleção radio (radio box)",
         "combobox-product-exhibition-value-follow": "Segue definição da especificação do SKU",
-        "save-category-no-permission": "Você não tem permissão para salvar ou alterar categorias",
-        "confirm-delete-category": ""
+        "no-child-categories": "Não existem categorias filhas",
+        "change-position-tip1": "Para mudar as Categorias de posição clique no ícone ",
+        "change-position-tip2": " e arraste para a posição desejada.",
+        "child-categories": "Categorias Filhas",
+        "position": "Posição",
+        "actions": "Ações",
+        "deletion-error-message": "Atenção: Não foi possível excluir esta categoria. Verifique se esta categoria possui algum Campo, Grupo, Avaliação ou Categoria Filha.",
+        "save-edit-no-permission": "Você não tem permissão para salvar ou alterar categorias",
+        "edit": "Alterar",
+        "delete": "Excluir",
+        "secondary-functions": "Funções Secundárias",
+        "no-subcategories-registered": "Não existem SubCategorias Cadastradas",
+        "button-save": "Salvar",
+        "button-return": "Voltar"
     },
     "similar-category-page": {
         "title": "Categoria similar de ",
