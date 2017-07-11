@@ -82,10 +82,12 @@
         "categories": "Categories",
         "reports": "Reports",
         "newsletter": "Newsletter",
-		"content": "Content",
-		"similar-categories": "Similar Categories",
-    	"add-similar-categories": "Add similar category",
-		"edit-similar-categories": "Edit similar category"
+        "content": "Content",
+        "add-category": "Add category",
+        "edit-category": "Edit category",
+        "similar-categories": "Similar Categories",
+        "add-similar-categories": "Add similar category",
+        "edit-similar-categories": "Edit similar category"
     },
     "filter": {
         "title": "Filter results or do a search",
@@ -554,26 +556,26 @@
         "menu-price-range": "Price range"
     },
     "similar-category-page": {
-		"title": "Category similar to ",
+        "title": "Category similar to ",
         "error": "Attention: Could not delete this category. Probably already associated with some other item",
-		"button-new": "New similar category",
-		"column-title-category": "Category",
-		"column-title-name": "Name",
-		"column-title-edit": "Edit",
-		"button-edit": "Edit",
-		"delete": "Delete",
- 		"button-back": "Back",
+        "button-new": "New similar category",
+        "column-title-category": "Category",
+        "column-title-name": "Name",
+        "column-title-edit": "Edit",
+        "button-edit": "Edit",
+        "delete": "Delete",
+        "button-back": "Back",
         "empty-list": "There are no similar categories"
-	},
+    },
     "similar-category-form-page": {
-		"title": "Category",
-		"warning-top": "Fill in the information for similar category.",
-		"required-field": "Required Field",
-		"name": "Name",
-		"similar-category": "Similar Category",
-		"button-clear-selection": "Clear selection",
-		"button-save": "Save",
-		"button-back": "Back"
+        "title": "Category",
+        "warning-top": "Fill in the information for similar category.",
+        "required-field": "Required Field",
+        "name": "Name",
+        "similar-category": "Similar Category",
+        "button-clear-selection": "Clear selection",
+        "button-save": "Save",
+        "button-back": "Back"
     },
     "newsletter-report-page": {
         "title": "Report - Newsletter",

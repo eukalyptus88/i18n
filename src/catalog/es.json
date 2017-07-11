@@ -82,10 +82,12 @@
         "categories": "Categorías",
         "reports": "Informes",
         "newsletter": "Newsletter",
-		"content": "Contenido",
-		"similar-categories": "Categorías Similares",
-    	"add-similar-categories": "Agregar categoría similar",
-		"edit-similar-categories": "Editar categoría similar"
+        "content": "Contenido",
+        "add-category": "Agregar categoría",
+        "edit-category": "Editar categoría",
+        "similar-categories": "Categorías Similares",
+        "add-similar-categories": "Agregar categoría similar",
+        "edit-similar-categories": "Editar categoría similar"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
@@ -564,7 +566,7 @@
 		"delete": "Excluir",
  		"button-back": "Voltar",
         "empty-list": "No existen categorias similares"
-	},
+    },
     "similar-category-form-page": {
 		"title": "Categoria",
 		"warning-top": "Llena las informaciones referentes a categoria similar.",

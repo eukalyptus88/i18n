@@ -82,10 +82,12 @@
         "categories": "Categorías",
         "reports": "Informes",
         "newsletter": "Newsletter",
-		"content": "Contenido",
-		"similar-categories": "Categorías Similares",
-    	"add-similar-categories": "Agregar categoría similar",
-		"edit-similar-categories": "Editar categoría similar"
+        "content": "Contenido",
+        "add-category": "Agregar categoría",
+        "edit-category": "Editar categoría",
+        "similar-categories": "Categorías Similares",
+        "add-similar-categories": "Agregar categoría similar",
+        "edit-similar-categories": "Editar categoría similar"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
@@ -554,26 +556,26 @@
         "menu-price-range": "Rango de precio"
     },
     "similar-category-page": {
-		"title": "Categoria similar de ",
+        "title": "Categoria similar de ",
         "error": "Atención: No fué posible excluir esta categoria. Probablemente ya está asociado à algún outro iten",
-		"button-new": "Nueva categoria similar",
-		"column-title-category": "Categoria",
-		"column-title-name": "Nombre",
-		"column-title-edit": "Editar",
-		"button-edit": "Alterar",
-		"delete": "Excluir",
- 		"button-back": "Voltar",
+        "button-new": "Nueva categoria similar",
+        "column-title-category": "Categoria",
+        "column-title-name": "Nombre",
+        "column-title-edit": "Editar",
+        "button-edit": "Alterar",
+        "delete": "Excluir",
+        "button-back": "Voltar",
         "empty-list": "No existen categorias similares"
-	},
+    },
     "similar-category-form-page": {
-		"title": "Categoria",
-		"warning-top": "Llena las informaciones referentes a categoria similar.",
-		"required-field": "Campo Obrigatorio",
-		"name": "Nombre",
-		"similar-category": "Categoria Similar",
-		"button-clear-selection": "Limpiar Selección",
-		"button-save": "Salvar",
-		"button-back": "Voltar"
+        "title": "Categoria",
+        "warning-top": "Llena las informaciones referentes a categoria similar.",
+        "required-field": "Campo Obrigatorio",
+        "name": "Nombre",
+        "similar-category": "Categoria Similar",
+        "button-clear-selection": "Limpiar Selección",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
     },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
