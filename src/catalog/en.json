@@ -136,6 +136,21 @@
         "search": "Search",
         "clear-search-filters": "Clear search filters"
     },
+    "vision": {
+        "title": "Quick lookup filters",
+        "saved": "saved filters",
+        "select": "Select: ",
+        "all": "all",
+        "none": "none",
+        "remove": "Remove",
+        "no-visions-found": "No visions found",
+        "name-vision": "Name the vision:",
+        "save-vision": "Save Vision",
+        "save-filters-text": "Check this, if you wish to save the search filters above for quick lookup",
+        "save-filters-checkbox-normal": "Save these",
+        "save-filters-checkbox-bold": "filters for quick lookup",
+        "save-filters-choose-name": "Type in a name to identify your quick lookup filter: "
+    },
     "skuForm": {
         "yes": "Yes",
         "no": "No",

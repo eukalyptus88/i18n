@@ -136,6 +136,21 @@
         "search": "Buscar",
         "clear-search-filters": "Limpar filtros de busca"
     },
+    "vision": {
+        "title": "Filtros para consulta rápida",
+        "saved": "filtros salvos",
+        "select": "Selecionar: ",
+        "all": "todos",
+        "none": "nenhum",
+        "remove": "Excluir",
+        "no-visions-found": "Nenhuma visão encontrada",
+        "name-vision": "Preencha um nome para a visão:",
+        "save-vision": "Salvar Visão",
+        "save-filters-text": "Marque aqui, se deseja salvar os filtros de busca acima selecionados para consulta rápida",
+        "save-filters-checkbox-normal": "Salvar esses",
+        "save-filters-checkbox-bold": "filtros para consulta rápida",
+        "save-filters-choose-name": "Digite um nome de identificação para sua consulta rápida: "
+    },
     "skuForm": {
         "yes": "Sim",
         "no": "No",
