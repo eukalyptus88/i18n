@@ -630,6 +630,25 @@
         "button-save": "Save",
         "button-back": "Back"
     },
+    "group-page": {
+        "title": "Group",
+		"column-position": "Position",
+		"column-name": "Name",
+		"column-edit": "Editar",
+		"column-edit-fields": "Fields",
+		"add-field": "Add Field",
+		"warning": "To change the category position click on the icon <img src='../App_Themes/Crocodilo/images/bg-menu-main.png' width='10' height='10'> and drag to the desired position.",
+		"button-new-group": "New Group",
+		"column-position2": "Position",
+		"column-name2": "Name",
+		"column-edit2": "Edit",
+		"warning2": "There are no groups for this Category",
+		"button-change": "Change",
+		"button-fields": "Fields",
+		"add-fields": "Add Fields",
+		"delete": "Delete",
+		"back": "Back"
+    },
     "field-page": {
         "title": "Field - Administration of Fields for ",
         "subtitle": "To change the position of the field, type the desired position in the text box and click ORDER.",
