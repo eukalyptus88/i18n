@@ -650,6 +650,16 @@
 		"delete": "Delete",
 		"back": "Back"
     },
+    "group-form-page":{
+		"warning-top": "Fill in the information about the group.",
+		"title": "Group",
+		"required-field": "Required Field",
+		"name": "Name",
+		"category": "Category",
+		"button-clear-selection": "Clear Selection",
+		"button-save": "Save",
+		"button-back": "Back"
+	},
     "field-page": {
         "title": "Field - Administration of Fields for ",
         "subtitle": "To change the position of the field, type the desired position in the text box and click ORDER.",

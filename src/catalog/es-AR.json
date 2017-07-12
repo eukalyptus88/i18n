@@ -650,6 +650,16 @@
 		"delete": "Excluir",
 		"back": "Voltar"
     },
+    "group-form-page":{
+		"warning-top": "Preencha as informações referentes ao grupo.",
+		"title": "Grupo",
+		"required-field": "Campo Obrigatório",
+		"name": "Nome",
+		"category": "Categoria",
+		"button-clear-selection": "Clear Seleção",
+		"button-save": "Salvar",
+		"button-back": "Voltar"
+	},
     "field-page": {
         "title": "Campo - Administração de Campos para ",
         "subtitle": "Para mudar a posição do campo , digite a posição desejada na caixa de texto e clique em ORDENAR.",
