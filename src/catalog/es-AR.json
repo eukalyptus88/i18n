@@ -90,7 +90,9 @@
         "edit-category": "Editar categoría",
         "similar-categories": "Categorías Similares",
         "add-similar-categories": "Agregar categoría similar",
-        "edit-similar-categories": "Editar categoría similar"
+        "edit-similar-categories": "Editar categoría similar",
+        "groups": "Grupos",
+        "fields": "Campos"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
