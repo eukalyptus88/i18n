@@ -65,7 +65,7 @@
         },
         "marketplace": {
             "label": "MarketPlace",
-            "comercial-policy": "Política Comercial",
+            "commercial-policy": "Política Comercial",
             "category-and-brand-maps": "Mapeo de Categorias y Marcas",
             "sellers": "Sellers",
             "sku-suggestion": "Sugestiones de SKUs",
