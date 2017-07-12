@@ -22,7 +22,10 @@
             "service-values": "Valores de Serviço",
             "sku-and-service-attachments": "Anexos de Serviço e Sku"
         },
-        "campaigns": "Controle de Campanhas",
+        "campaigns": {
+            "label": "Controle de Campanhas",
+            "vouchers": "Vales"
+        },
         "settings": {
             "label": "Configurações",
             "system": "Sistema",
