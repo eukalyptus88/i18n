@@ -95,7 +95,9 @@
         "add-group": "Add Group",
         "fields": "Fields",
         "add-field": "Add Field",
-        "edit-field": "Edit Field"
+        "edit-field": "Edit Field",
+        "rating": "Rating",
+        "add-rating": "Add Rating"
     },
     "filter": {
         "title": "Filter results or do a search",

@@ -95,7 +95,9 @@
         "add-group": "Adicionar Grupo",
         "fields": "Campos",
         "add-field": "Adicionar Campo",
-        "edit-field": "Editar Campo"
+        "edit-field": "Editar Campo",
+        "rating": "Avaliação",
+        "add-rating": "Adicionar Avaliação"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
