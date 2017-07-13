@@ -97,7 +97,8 @@
         "add-field": "Add Field",
         "edit-field": "Edit Field",
         "rating": "Rating",
-        "add-rating": "Add Rating"
+        "add-rating": "Add Rating",
+        "edit-rating": "Edit Rating"
     },
     "filter": {
         "title": "Filter results or do a search",

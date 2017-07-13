@@ -97,7 +97,8 @@
         "add-field": "Agregar Campo",
         "edit-field": "Editar Campo",
         "rating": "Evaluación",
-        "add-rating": "Agregar Evaluación"
+        "add-rating": "Agregar Evaluación",
+        "edit-rating": "Editar Evaluación"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
