@@ -99,7 +99,10 @@
         "edit-field": "Editar Campo",
         "rating": "Avaliação",
         "add-rating": "Adicionar Avaliação",
-        "edit-rating": "Editar Avaliação"
+        "edit-rating": "Editar Avaliação",
+        "brands": "Marcas",
+        "add-brand": "Adicionar Marca",
+        "edit-brand": "Editar Marca"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",

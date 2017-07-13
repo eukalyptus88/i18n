@@ -99,7 +99,10 @@
         "edit-field": "Edit Field",
         "rating": "Rating",
         "add-rating": "Add Rating",
-        "edit-rating": "Edit Rating"
+        "edit-rating": "Edit Rating",
+        "brands": "Brands",
+        "add-brand": "Add Brand",
+        "edit-brand": "Edit Brand"
     },
     "filter": {
         "title": "Filter results or do a search",
