@@ -717,6 +717,17 @@
         "no-permission": "You don't have the permission to save or edit Fields",
         "bad-field-type": "It is not possible to use fields of type \"Long text\" or \"Indexed long text\" as a filter."
     },
+    "rating-page": {
+        "title": "Rating - Rating Management",
+        "button-new-rating": "New Rating",
+        "column-name": "Name",
+        "column-edit": "Edit",
+        "button-change": "Change",
+        "secondary-functions": "Secondary Functions",
+        "delete": "Delete",
+        "button-back": "Back",
+        "root-category": "Root Category"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

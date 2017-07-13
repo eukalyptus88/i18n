@@ -717,6 +717,17 @@
         "no-permission": "Você não tem permissão para salvar ou alterar Campos",
         "bad-field-type": "Não é possível utilizar campos do tipo \"Texto grande\" ou \"Texto grande indexado\" como filtro."
     },
+    "rating-page": {
+        "title": "Avaliação - Administração de Avaliação",
+        "button-new-rating": "Nova Avaliação",
+        "column-name": "Nome",
+        "column-edit": "Editar",
+        "button-change": "Alterar",
+        "secondary-functions": "Funções Secundárias",
+        "delete": "Excluir",
+        "button-back": "Voltar",
+        "root-category": "Categoria Root"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
