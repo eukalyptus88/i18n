@@ -644,7 +644,7 @@
 		"column-edit": "Editar",
 		"column-edit-fields": "Campos",
 		"add-field": "Incluir Campo",
-		"warning": "Para mudar as Categorias de posição clique no ícone <img src='../App_Themes/Crocodilo/images/bg-menu-main.png' width='10' height='10'> e arraste para a posição desejada.",
+		"warning": "Para mudar as Categorias de posição clique no ícone e arraste para a posição desejada: ",
 		"button-new-group": "Novo Grupo",
 		"column-position2": "Posição",
 		"column-name2": "Nome",
