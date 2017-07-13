@@ -650,7 +650,8 @@
 		"button-fields": "Fields",
 		"add-fields": "Add Fields",
 		"delete": "Delete",
-		"back": "Back"
+		"back": "Back",
+        "warning3": "Warning: This group could not be deleted. Probably already associated with some product."
     },
     "group-form-page":{
 		"warning-top": "Fill in the information about the group.",

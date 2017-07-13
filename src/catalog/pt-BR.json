@@ -650,7 +650,8 @@
 		"button-fields": "Campos",
 		"add-fields": "Incluir Campos",
 		"delete": "Excluir",
-		"back": "Voltar"
+        "back": "Voltar",
+        "warning3": "Atenção: Não foi possível excluir este grupo. Provavelmente já está associado à algum produto."
     },
     "group-form-page":{
 		"warning-top": "Preencha as informações referentes ao grupo.",
