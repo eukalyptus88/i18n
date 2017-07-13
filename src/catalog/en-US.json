@@ -729,6 +729,15 @@
         "button-back": "Back",
         "root-category": "Root Category"
     },
+    "rating-form": {
+        "title": "Rating - Products' attributes rated by the customer",
+        "warning": "Fill in the information related to Rating",
+        "required-field": "Required Field",
+        "name": "Name",
+        "text": "Text",
+        "button-save": "Save",
+        "button-back": "Back"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

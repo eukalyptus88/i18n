@@ -729,6 +729,15 @@
         "button-back": "Voltar",
         "root-category": "Categoria Root"
     },
+    "rating-form": {
+        "title": "Avaliação - Atributos dos produtos avaliados pelo cliente",
+        "warning": "Preencha as informações referentes a Avaliação",
+        "required-field": "Campo Obrigatório",
+        "name": "Nome",
+        "text": "Texto",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
