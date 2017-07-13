@@ -757,6 +757,17 @@
         "secondary-functions": "Secondary Functions",
         "no-price-ranges-this-category": "There are no price ranges for this category"
     },
+    "price-range-form": {
+        "title": "Price Range",
+        "subtitle": "Fill in the information about the Price Range.",
+        "required-field": "Required Field",
+        "field-name": "Name",
+        "field-category": "Category",
+        "field-price-from": "Price from",
+        "field-price-to": "Price to",
+        "button-back": "Back",
+        "button-save": "Save"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

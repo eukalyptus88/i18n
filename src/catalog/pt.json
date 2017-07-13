@@ -757,6 +757,17 @@
         "secondary-functions": "Funções Secundárias",
         "no-price-ranges-this-category": "Não existem faixas de preços para esta categoria"
     },
+    "price-range-form": {
+        "title": "Faixa de Valor",
+        "subtitle": "Preencha as informações referentes a Faixa de Valor.",
+        "required-field": "Campo Obrigatório",
+        "field-name": "Nome",
+        "field-category": "Categoria",
+        "field-price-from": "Preço de",
+        "field-price-to": "Preço até",
+        "button-back": "Voltar",
+        "button-save": "Salvar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
