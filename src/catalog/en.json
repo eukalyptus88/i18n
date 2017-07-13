@@ -102,7 +102,10 @@
         "edit-rating": "Edit Rating",
         "brands": "Brands",
         "add-brand": "Add Brand",
-        "edit-brand": "Edit Brand"
+        "edit-brand": "Edit Brand",
+        "price-ranges": "Price Ranges",
+        "add-price-ranges": "Add Price Ranges",
+        "edit-price-range": "Edit Price Range"
     },
     "filter": {
         "title": "Filter results or do a search",

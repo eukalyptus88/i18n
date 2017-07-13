@@ -102,7 +102,10 @@
         "edit-rating": "Editar Avaliação",
         "brands": "Marcas",
         "add-brand": "Adicionar Marca",
-        "edit-brand": "Editar Marca"
+        "edit-brand": "Editar Marca",
+        "price-ranges": "Faixas de Preço",
+        "add-price-ranges": "Adicionar Faixas de Preço",
+        "edit-price-range": "Editar Faixa de Preço"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
