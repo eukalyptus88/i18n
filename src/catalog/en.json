@@ -745,6 +745,18 @@
         "button-save": "Save",
         "button-back": "Back"
     },
+    "price-range-page": {
+        "title": "Price Range",
+        "new-price-range-button": "New Price Range",
+        "table-header-name": "Name",
+        "table-header-price-from": "Price from",
+        "table-header-price-to": "Price to",
+        "edit": "Edit",
+        "delete": "Remove",
+        "button-back": "Back",
+        "secondary-functions": "Secondary Functions",
+        "no-price-ranges-this-category": "There are no price ranges for this category"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

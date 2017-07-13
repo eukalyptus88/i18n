@@ -745,6 +745,18 @@
         "button-save": "Salvar",
         "button-back": "Voltar"
     },
+    "price-range-page": {
+        "title": "Faixa de Preço",
+        "new-price-range-button": "Nova Faixa de Preço",
+        "table-header-name": "Nome",
+        "table-header-price-from": "Preço de",
+        "table-header-price-to": "Preço até",
+        "edit": "Alterar",
+        "delete": "Excluir",
+        "button-back": "Voltar",
+        "secondary-functions": "Funções Secundárias",
+        "no-price-ranges-this-category": "Não existem faixas de preços para esta categoria"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
