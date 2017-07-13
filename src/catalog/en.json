@@ -92,8 +92,10 @@
         "add-similar-categories": "Add Similar Category",
         "edit-similar-categories": "Edit Similar Category",
         "groups": "Groups",
+        "add-group": "Add Group",
         "fields": "Fields",
-        "add-group": "Add Group"
+        "add-field": "Add Field",
+        "edit-field": "Edit Field"
     },
     "filter": {
         "title": "Filter results or do a search",
