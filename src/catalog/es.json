@@ -650,7 +650,7 @@
 		"warning2": "Não existem grupos para esta Categoria",
 		"button-change": "Alterar",
 		"button-fields": "Campos",
-		"add-fields": "Incluir Campos",
+		"button-add-field": "Incluir Campo",
 		"delete": "Excluir",
 		"back": "Voltar",
         "warning3": "Atenção: Não foi possível excluir este grupo. Provavelmente já está associado à algum produto."

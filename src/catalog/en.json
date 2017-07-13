@@ -650,7 +650,7 @@
 		"warning2": "There are no groups for this Category",
 		"button-change": "Change",
 		"button-fields": "Fields",
-		"add-fields": "Add Fields",
+		"button-add-field": "Add Field",
 		"delete": "Delete",
 		"back": "Back",
         "warning3": "Warning: This group could not be deleted. Probably already associated with some product."
