@@ -826,7 +826,7 @@
         "upload-subtitle": "File Upload with the values to be attached",
         "connect-value-button": "Attach Service(s) Value(s) to SKU(s)",
         "category-subtitle": "&lt;strong&gt;Right-click&lt;/strong&gt; a category and select 'list' to see the services in a category.",
-        "result-record-number": "Records",
+        "result-record-number": "Records: ",
         "result-table-caption": "Product Prices",
         "result-table-header-name": "Service Name",
         "result-table-header-text": "Service Text",
