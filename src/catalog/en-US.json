@@ -833,7 +833,7 @@
         "result-table-header-product-code": "Product Code",
         "result-table-header-sku-code": "SKU Code",
         "result-table-sku-name": "SKU Name",
-        "result-table-service-id": "Service Name",
+        "result-table-service-id": "Service Id",
         "result-table-header-service-value-name": "Name of the Service Value",
         "result-table-header-service-value": "Service Value",
         "result-table-header-service-cost": "Service Cost",
