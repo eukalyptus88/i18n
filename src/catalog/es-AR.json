@@ -800,7 +800,7 @@
 		"field-label-name": "Nome",
 		"field-label-replacement-words": "Palavras Substitutas",
 		"field-label-alert-replacement-words": "(utilizar palavras que tenham a mesma semântica)",
-		"field-example-replacement-words": "Exemplos: <br>Eletrônico -> Eletrônicos; <br>Geladeira -> Refrigerador; <br>Calvin Klein -> Calvin Klain; <br>",
+		"field-example-replacement-words": "Exemplos: \nEletrônico -> Eletrônicos; \nGeladeira -> Refrigerador; \nCalvin Klein -> Calvin Klain;\n",
 		"field-example-alert-replacement-words": "Importante: Essas palavras serão utilizadas nas buscas internas e também em sites de busca",
 		"field-instruction-replacement-words": "Palavras relacionadas a marca, serão utilizadas para a busca, separe as palavras com virgula (,)",
 		"field-label-metatag": "Descrição da Marca (Meta Tag Description)",
