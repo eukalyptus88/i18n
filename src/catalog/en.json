@@ -105,7 +105,9 @@
         "edit-brand": "Edit Brand",
         "price-ranges": "Price Ranges",
         "add-price-ranges": "Add Price Ranges",
-        "edit-price-range": "Edit Price Range"
+        "edit-price-range": "Edit Price Range",
+        "commercial": "Commercial",
+        "product-prices": "Product Prices"
     },
     "filter": {
         "title": "Filter results or do a search",
