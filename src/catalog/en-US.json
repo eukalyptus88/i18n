@@ -388,6 +388,12 @@
             "part-2": "Click here ",
             "part-3": " to be directed to most complete and organized SKUs Report option."
         },
+        "filter": {
+            "ean": "EAN",
+            "prodRefId": "Product Reference Code (RefId)",
+            "skuRefId": "SKU Reference Code (RefId)",
+            "manufactirerCode": "Manufacturer Code"
+        },
         "found": "Product Found ",
         "image": "Image",
         "name": "Name",
@@ -404,6 +410,7 @@
         "active": "Active",
         "inactive": "Inactive",
         "open-page": "open on website",
+        "alert-msg":"ATTENTION: It was not possible to delete this product due to a system integrity verification.",
         "update": "Update"
     },
     "productForm": {

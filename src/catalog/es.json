@@ -388,6 +388,12 @@
             "part-2": "Cliquee aqui",
             "part-3": "para ser direccionado a una opcion de Informe de Sku mas completo y organizado."
         },
+        "filter": {
+            "ean": "EAN",
+            "prodRefId": "Código de referência (RefId) do Produto",
+            "skuRefId": "Código de referência (RefId) do SKU",
+            "manufactirerCode": "Cód do Fabricante"
+        },
         "found": "productos encontrados",
         "image": "Imagen",
         "name": "Nombre",
@@ -404,6 +410,7 @@
         "active": "Activo",
         "inactive": "Inactivo",
         "open-page": "ver en el sitio",
+        "alert-msg":"ATENÇÃO! - Esse produto possui mais skus do que o permitido pelo sistema.",
         "update": "cambiar"
     },
     "productForm": {
