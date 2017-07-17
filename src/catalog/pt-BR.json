@@ -911,7 +911,8 @@
         "table-header-number-ratings": "Quantidade de Avaliações",
         "table-header-ratings-average-value": "Valor Médio das Avaliações",
         "table-header-oldest-rating": "Avaliação Mais Antiga",
-        "table-header-newest-rating": "Avaliação Mais Recente"
+        "table-header-newest-rating": "Avaliação Mais Recente",
+        "no-ratings-found": "Nenhuma avaliação encontrada"
     },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",

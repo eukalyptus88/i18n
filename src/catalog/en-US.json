@@ -911,7 +911,8 @@
         "table-header-number-ratings": "Number of Ratings",
         "table-header-ratings-average-value": "Ratings Average Value",
         "table-header-oldest-rating": "Oldest Rating",
-        "table-header-newest-rating": "Newest Rating"
+        "table-header-newest-rating": "Newest Rating",
+        "no-ratings-found": "No ratings found"
     },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
