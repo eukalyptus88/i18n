@@ -825,7 +825,7 @@
         "description": "Check the Help for the admin before importing the service values to attach to SKUs.\n\nTo export service values from a specific category, click with the right mouse button in the list of categories in the right-side menu.\nAlways select the most internal category of the desired department. This will make the listing, exporting and importing happen faster.\nIf you want to import values, export a spreadsheet and use it as a model.\n\nMake the changes to import new values with Excel or similar.\nAfter you open the file, if you get a notification about a different file format from specified in the extension, ignore it selecting the option \"Yes, open the file now \".\n\nDo not change the original file format (XML Spreadsheet 2003 with extension *.xls). Whenever you save the document, keep your current format even if some resources are unavailable.\nThe spreadsheet file size cannot exceed 4Mb (4096KB).\n\nEdit the spreadsheet carefully, always verifying if the information are being correctly filled.",
         "upload-subtitle": "File Upload with the values to be attached",
         "connect-value-button": "Attach Service(s) Value(s) to SKU(s)",
-        "category-subtitle": "&lt;strong&gt;Right-click&lt;/strong&gt; a category and select 'list' to see the services in a category.",
+        "category-subtitle": "Right-click a category and select 'list' to see the services in a category.",
         "result-record-number": "Records: ",
         "result-table-caption": "Product Prices",
         "result-table-header-name": "Service Name",
