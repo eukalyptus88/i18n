@@ -865,7 +865,7 @@
         "table-header-product-field": "Campo Produto",
         "table-header-field-type": "Tipo do Campo",
         "table-header-field-values-code": "Código dos Valores do Campo",
-        "table-header-product-field-possible-vales": "Possíveis Valores do Campo Produto",
+        "table-header-product-field-possible-values": "Possíveis Valores do Campo Produto",
         "table-header-product-specification-values": "Valor(es) de Especificação do Produto",
         "table-header-reference-code": "Código de Referência",
         "button-cancel-lock": "Cancelar Bloqueio",
