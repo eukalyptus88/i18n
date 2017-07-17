@@ -892,6 +892,23 @@
         "right-click-category": "Clique com o botão direito em uma categoria e selecione listar para ver os produtos de uma categoria.",
         "notification-email": "Email para notificação:"
     },
+    "product-ratings-exportation-page": {
+        "title": "Exportação de Avaliações de Produtos (Resenha)",
+        "instructions-title": "Atenção:",
+        "instructions1": "Para exportar escolha uma categoria no menu à esquerda e selecione a opção 'Exportar', acessível através do botão direito do mouse.",
+        "instructions2": "Selecione sempre a categoria mais interna do departamento desejado. Isto fará com que o processo de listagem e exportação ocorra de forma mais rápida.",
+        "instructions3": "Após clicar no botão 'Exportar', selecione a opção 'Salvar Como' e escolha o local apropriado para salvar a planilha.",
+        "instructions4": "Visualize os valores exportados com o editor de planilhas <b>Microsoft Excel ou compatível.</b>",
+        "table-title": "Clique com o botão direito em uma categoria e selecione listar para ver os produtos de uma categoria.",
+        "table-header-rating-code": "Código da Avaliação",
+        "table-header-rating-name": "Nome da Avaliação",
+        "table-header-product-code": "Código do Produto",
+        "table-header-product-name": "Nome do Produto",
+        "table-header-number-ratings": "Quantidade de Avaliações",
+        "table-header-ratings-average-value": "Valor Médio das Avaliações",
+        "table-header-oldest-rating": "Avaliação Mais Antiga",
+        "table-header-newest-rating": "Avaliação Mais Recente"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",

@@ -892,6 +892,23 @@
         "right-click-category": "Right-click a category and select list to see the products in a category.",
         "notification-email": "Notification email:"
     },
+    "product-ratings-exportation-page": {
+        "title": "Product Ratings Exportation (Review)",
+        "instructions-title": "Attention:",
+        "instructions1": "To export a spreadsheet, right-click a category on the side menu and choose the option “Export”.",
+        "instructions2": "Always choose the innermost category from the desired department. This will make the listing and exportation process go faster.",
+        "instructions3": "After clicking on the 'Export' button, select 'Save As' and choose a place to save the spreadsheet you’ve just exported.",
+        "instructions4": "View the exported values using the spreadsheet editor <b>Microsoft Excel or compatible.</b>",
+        "table-title": "Right-click a category and select list to see the products in a category.",
+        "table-header-rating-code": "Rating Code",
+        "table-header-rating-name": "Rating Name",
+        "table-header-product-code": "Product Code",
+        "table-header-product-name": "Product Name",
+        "table-header-number-ratings": "Number of Ratings",
+        "table-header-ratings-average-value": "Ratings Average Value",
+        "table-header-oldest-rating": "Oldest Rating",
+        "table-header-newest-rating": "Newest Rating"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
