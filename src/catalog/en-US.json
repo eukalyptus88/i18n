@@ -109,7 +109,8 @@
         "edit-price-range": "Edit Price Range",
         "commercial": "Commercial",
         "product-prices": "Product Prices",
-        "product-specification": "Product Specification"
+        "product-specification": "Product Specification",
+        "product-ratings": "Product Ratings"
     },
     "filter": {
         "title": "Filter results or do a search",
