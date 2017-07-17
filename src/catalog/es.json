@@ -110,6 +110,7 @@
         "commercial": "Comercial",
         "product-prices": "Preços de Produtos",
         "product-specification": "Especificação de Produtos",
+        "sku-specification": "Especificação de SKUs",
         "product-ratings": "Avaliações de Produtos"
     },
     "filter": {
