@@ -108,7 +108,8 @@
         "add-price-ranges": "Adicionar Faixas de Preço",
         "edit-price-range": "Editar Faixa de Preço",
         "commercial": "Comercial",
-        "product-prices": "Preços de Produtos"
+        "product-prices": "Preços de Produtos",
+        "product-specification": "Especificação de Produtos"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
