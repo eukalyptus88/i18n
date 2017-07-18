@@ -116,7 +116,9 @@
         "sku-commercial-conditions": "Condições Comerciais de SKU",
         "add-sku-commercial-conditions": "Adicionar Condições Comerciais de SKU",
         "edit-sku-commercial-conditions": "Editar Condições Comerciais de SKU",
-        "service-values-costs": "Valores e Custos de Serviços"
+        "service-values-costs": "Valores e Custos de Serviços",
+        "add-service-values-costs": "Adicionar Valores e Custos de Serviços",
+        "edit-service-values-costs": "Editar Valores e Custos de Serviços"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
