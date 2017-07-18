@@ -1035,6 +1035,25 @@
         "save-button": "Save",
         "back-button": "Back"
     },
+    "attachment-page": {
+        "title": "Administrator - Attachment Register for Services and SKUs",
+        "button-new-attachment": "New Attachment",
+        "attachments-found": "Attachments found:",
+        "explanation": "<span class=\"alert warning\" style=\"float:left;clear:right\">An attachment is used to add custom information about the buyer of a service or the item purchased.<br /><br />Example:<br /><br />Item purchased -> \"Official Jersey of the Brazilian National Team\"<br /><br />Attachment Name -> \"Customization\"<br /><br />Key1 -> Key name: \"Name\", Maximum characters allowed: 20<br />Key2 -> Key name: \"Number\", Permitted values: \"5, 7, 9, 10, 11\"<br /><br />This means that an official jersey of the national team will have an attachment called \"Customization\", mandatory or not, whose keys will be \"Name\" and \"Number\", to be printed on the jersey bought according to the buyer's choice. The buyer can enter a name of up to 20 characters (any name they want), but they will have to choose between numbers 5, 7, 9, 10 and 11 (they will not be able to type any other number).",
+        "table-header-id": "ID",
+        "table-header-name": "Name",
+        "table-header-required": "Required",
+        "table-header-status": "Status",
+        "table-header-edit": "Edit",
+        "table-button-modify": "Modify",
+        "table-option-enable": "Enable",
+        "table-option-disable": "Disable",
+        "table-option-delete": "Delete",
+        "secondary-functions": "Secondary Functions",
+        "filter-name": "Name",
+        "enabled": "Enabled",
+        "disabled": "Disabled"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

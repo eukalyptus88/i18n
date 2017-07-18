@@ -1035,6 +1035,25 @@
         "save-button": "Salvar",
         "back-button": "Voltar"
     },
+    "attachment-page": {
+        "title": "Administrador - Cadastro de Anexos para Serviços e SKUs",
+        "button-new-attachment": "Novo Anexo",
+        "attachments-found": "Anexos encontrados:",
+        "explanation": "<span class=\"alert warning\" style=\"float:left;clear:right\">Um anexo é utilizado para adicionar uma informação personalizada do comprador de um serviço ou do próprio item comprado.<br /><br />Exemplo:<br /><br />Item Comprado -> \"Camisa Oficial da Seleção Brasileira\"<br /><br />Nome do Anexo -> \"Personalizacao\"<br /><br />Chave1 -> Nome da chave: \"Nome\", Máximo de caracteres permitido: 20<br />Chave2 -> Nome da chave: \"Numero\", Valores permitidos: \"5, 7, 9, 10, 11\"<br /><br />Isso quer dizer que uma camisa oficial da seleção terá um anexo chamado \"Personalizacao\", obrigatório ou não, cujas chaves serão o \"Nome\" e o \"Numero\" a serem impressos na camisa comprada conforme a escolha do comprador. O comprador poderá digitar um nome de até 20 caracteres (poderá digitar um nome livre), mas terá que escolher entre os números 5, 7, 9, 10 e 11 (não poderá digitar os números que quiser).</span>",
+        "table-header-id": "ID",
+        "table-header-name": "Nome",
+        "table-header-required": "Obrigatório",
+        "table-header-status": "Status",
+        "table-header-edit": "Editar",
+        "table-button-modify": "Alterar",
+        "table-option-enable": "Ativar",
+        "table-option-disable": "Desativar",
+        "table-option-delete": "Excluir",
+        "secondary-functions": "Funções Secundárias",
+        "filter-name": "Nome",
+        "enabled": "Ativo",
+        "disabled": "Inativo"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
