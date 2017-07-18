@@ -118,7 +118,10 @@
         "edit-sku-commercial-conditions": "Edit SKU Commercial Conditions",
         "service-values-costs": "Service Values and Costs",
         "add-service-values-costs": "Add Service Values and Costs",
-        "edit-service-values-costs": "Edit Service Values and Costs"
+        "edit-service-values-costs": "Edit Service Values and Costs",
+        "attachments-services-skus": "Attachments for Services and SKUs",
+        "add-attachment": "Add Attachment",
+        "edit-attachment": "Edit Attachment"
     },
     "filter": {
         "title": "Filter results or do a search",
