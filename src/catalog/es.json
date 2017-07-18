@@ -16,7 +16,7 @@
                 "export-sku-images": "Exportar Imagenes de SKUs",
                 "import-images": "Importar Imagenes",
                 "export-product-evaluations": "Exportar Evaluaciones de Produtos",
-                "sku-comercial-conditional": "Condición Comercial de SKU"
+                "sku-commercial-condition": "Condición Comercial de SKU"
             },
             "service-types": "Tipos de Servicio",
             "service-values": "Valores de Servicio",
