@@ -1020,6 +1020,18 @@
         "secondary-functions": "Funções Secundárias",
         "no-products-found": "Nenhum produto encontrado"
     },
+    "sku-service-value-form": {
+        "title": "Tabela de Valores de Serviços",
+        "form-instruction": "Preencha as informações referentes à tabela de valores de um serviço de SKU",
+        "form-tab-title": "Tabela de Valores",
+        "required-field": "Campo Obrigatório",
+        "form-name": "Nome",
+        "form-value": "Valor",
+        "form-cost": "Custo",
+        "form-service-type": "Tipo de Serviço",
+        "save-button": "Salvar",
+        "back-button": "Voltar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",

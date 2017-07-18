@@ -1020,6 +1020,18 @@
         "secondary-functions": "Secondary Functions",
         "no-products-found": "No products found"
     },
+    "sku-service-value-form": {
+        "title": "Table of Services Values",
+        "form-instruction": "Fill in the informations about the table of values of an SKU service",
+        "form-tab-title": "Values Table",
+        "required-field": "Required Field",
+        "form-name": "Name",
+        "form-value": "Value",
+        "form-cost": "Cost",
+        "form-service-type": "Service Type",
+        "save-button": "Save",
+        "back-button": "Back"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
