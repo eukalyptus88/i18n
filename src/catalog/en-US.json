@@ -880,7 +880,9 @@
 		"result-table-header-sku-active": "Active SKU",
 		"result-table-header-category": "Category",
         "result-table-header-brand": "Brand",
-        "result-table-no-result": "No SKU found"
+        "result-table-no-result": "No SKU found",
+        "result-table-yes": "Yes",
+        "result-table-no": "No"
     },
     "product-specification-exportation-importation-page": {
         "title": "Product Specification Exportation and Importation",
