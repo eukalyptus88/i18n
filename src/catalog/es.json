@@ -938,9 +938,9 @@
         "table-header-product-name": "Nome do Produto",
         "table-header-sku-id": "Id do SKU",
         "table-header-sku-name": "Nome do SKU",
-        "table-header-image-id": "Id da imagem",
+        "table-header-image-id": "Id da Imagem",
         "table-header-image-name": "Nome da Imagem",
-        "table-header-image-url": "URL da imagem",
+        "table-header-image-url": "URL da Imagem",
         "button-cancel-previous-processing": "Cancelar Processamento Anterior"
     },
     "product-ratings-exportation-page": {
