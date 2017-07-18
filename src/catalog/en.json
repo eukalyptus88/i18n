@@ -1022,7 +1022,7 @@
     },
     "sku-service-value-form": {
         "title": "Table of Services Values",
-        "form-instruction": "Fill in the informations about the table of values of an SKU service",
+        "form-instruction": "Fill in the information regarding the table of values of an SKU service",
         "form-tab-title": "Values Table",
         "required-field": "Required Field",
         "form-name": "Name",
