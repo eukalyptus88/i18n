@@ -988,6 +988,17 @@
         "button-delete": "Delete",
         "secondary-functions": "Secondary Functions"
     },
+    "sku-commercial-condition-form": {
+        "title": "Commercial Condition",
+        "warning-top": "Fill in the information regarding the commercial condition",
+        "value-table": "Values Table",
+        "required-field": "Required Field",
+        "id": "Id",
+        "field-name": "Name",
+        "checkbox-default": "Default",
+        "button-save": "Save",
+        "button-back": "Back"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

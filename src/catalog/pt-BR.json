@@ -988,6 +988,17 @@
         "button-delete": "Excluir",
         "secondary-functions": "Funções Secundárias"
     },
+    "sku-commercial-condition-form": {
+        "title": "Condição Comercial",
+        "warning-top": "Preencha as informações referentes à condição comercial",
+        "value-table": "Tabela de Valores",
+        "required-field": "Campo Obrigatório",
+        "id": "Id",
+        "field-name": "Nome",
+        "checkbox-default": "Default",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
