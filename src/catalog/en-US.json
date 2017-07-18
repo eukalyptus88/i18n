@@ -944,6 +944,16 @@
         "table-header-image-url": "Image URL",
         "button-cancel-previous-processing": "Cancel Previous Processing"
     },
+    "image-importation-page": {
+        "title": "Image Importation",
+        "attention-title": "Attention:",
+        "attention-text": "<li>To import images verify if the file is in the right format. You can also check a model file <a id=\"ctl00_Conteudo_lnkTabelaExemplo\" href=\"gerarimagens.aspx?csv=1\">here</a>.</li><li>The imported images are included in their respective SKUs, so a image that is already registered won't be removed. But note that if some image is duplicated, the SKU will keep both.</li><li>Fill the field below with your email to receive a process status report.</li><li>The \"TextImage\" field will be linked to the image <strong>\"title\"</strong> attribute. If the attribute is not specified, it will have the Product and SKU name.</li><li>Keep the information bellow before start to export. It will be really important if some error is detected.</li>",
+        "sku-file-id": "SKU File Id: ",
+        "file-upload-title": "File Upload",
+        "button-select-file": "Select file...",
+        "notification-email": "<strong>Notification email</strong>",
+        "button-import": "Import"
+    },
     "product-ratings-exportation-page": {
         "title": "Product Ratings Exportation (Review)",
         "instructions-title": "Attention:",

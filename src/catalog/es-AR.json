@@ -944,6 +944,16 @@
         "table-header-image-url": "URL da Imagem",
         "button-cancel-previous-processing": "Cancelar Processamento Anterior"
     },
+    "image-importation-page": {
+        "title": "Importação de Imagens",
+        "attention-title": "Atenção:",
+        "attention-text": "<li>Para realizar a importação de imagens verifique se o arquivo está no formato correto. Se preferir, clique <a id=\"ctl00_Conteudo_lnkTabelaExemplo\" href=\"gerarimagens.aspx?csv=1\">aqui</a> para visualizar o arquivo modelo.</li><li>As imagens importadas são incluídas nos seus respectivos SKUs, não sendo removida nenhuma imagem já cadastrada. Com isso se alguma imagem estiver duplicada o SKU ficará com imagens duplicadas.</li><li>Preencha o campo abaixo fornecendo seu e-mail para receber um relatório sobre o status do processo.</li><li>O campo \"TextoImagem\" será vinculado no atributo <strong>\"title\"</strong> da imagem. Caso não esteja preenchido, o atributo irá conter o nome do Produto + o nome do SKU.</li><li>Guarde a informação abaixo antes de começar a importação. Ela será muito importante caso algum erro seja detectado.</li>",
+        "sku-file-id": "ID do SKU Arquivo: ",
+        "file-upload-title": "Upload de Arquivo",
+        "button-select-file": "Selecionar arquivo...",
+        "notification-email": "<strong>Email para notificação</strong>",
+        "button-import": "Importar"
+    },
     "product-ratings-exportation-page": {
         "title": "Exportação de Avaliações de Produtos (Resenha)",
         "instructions-title": "Atenção:",
