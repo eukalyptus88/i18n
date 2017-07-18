@@ -917,6 +917,24 @@
         "error-email-required": "Preenchimento do email obrigatório",
         "error-required-field": "campo obrigatório"
     },
+    "sku-image-exportation-page": {
+        "title": "Exportação de Imagens de SKU",
+        "box-attention": "<strong>Atenção</strong>",
+        "box-text": "<strong>Para realizar a exportação do relatório de imagens, preencha com seu e-mail abaixo.</strong><br />Recomendamos a exportação de até 10.000 registros, utilize os filtros para refinar sua busca.<br />Assim que o processo for concluído, você receberá um e-mail com o link para download de sua planilha.<br /><br />",
+        "notification-email": "Email para notificação:",
+        "button-export-excel": "Exportar para Excel",
+        "found-images": "Imagens encontradas:",
+        "no-images-found": "Nenhuma imagem encontrada",
+        "caption-sku-image-list": "Lista de Imagens dos SKUs",
+        "table-header-product-id": "Id do Produto",
+        "table-header-product-name": "Nome do Produto",
+        "table-header-sku-id": "Id do SKU",
+        "table-header-sku-name": "Nome do SKU",
+        "table-header-image-id": "Id da imagem",
+        "table-header-image-name": "Nome da Imagem",
+        "table-header-image-url": "URL da imagem",
+        "button-cancel-previous-processing": "Cancelar Processamento Anterior"
+    },
     "product-ratings-exportation-page": {
         "title": "Exportação de Avaliações de Produtos (Resenha)",
         "instructions-title": "Atenção:",
