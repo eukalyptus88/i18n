@@ -1000,7 +1000,7 @@
         "button-save": "Salvar",
         "button-back": "Voltar"
     },
-    "sku-service-value": {
+    "sku-service-value-page": {
         "title": "Tabela de Valores de Serviço SKU - Administração de Tabela de Valores",
         "filter-results-field-name": "Nome",
         "filter-results-field-service-type": "Tipo de Serviço",
