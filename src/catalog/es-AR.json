@@ -1000,6 +1000,24 @@
         "button-save": "Salvar",
         "button-back": "Voltar"
     },
+    "sku-service-value": {
+        "title": "Tabela de Valores de Serviço SKU - Administração de Tabela de Valores",
+        "filter-results-field-name": "Nome",
+        "filter-results-field-service-type": "Tipo de Serviço",
+        "new-value-button": "Nova Tabela de Valores",
+        "label-products-found": "Produtos Encontrados:",
+        "table-header-name": "Nome",
+        "table-header-type": "Tipo",
+        "table-header-value": "Valor",
+        "table-header-cost": "Custo",
+        "table-header-edit": "Editar",
+        "table-button-edit": "Alterar",
+        "table-button-dropdown-delete": "Excluir",
+        "label-skus-found": "SKUs Encontrados:",
+        "caption-sku-service-values": "Valores de Serviço SKU",
+        "secondary-functions": "Funções Secundárias",
+        "no-products-found": "Nenhum produto encontrado"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",

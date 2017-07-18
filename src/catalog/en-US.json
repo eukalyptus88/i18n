@@ -1000,6 +1000,24 @@
         "button-save": "Save",
         "button-back": "Back"
     },
+    "sku-service-value": {
+        "title": "SKU Service Values - Value Table Administration",
+        "filter-results-field-name": "Name",
+        "filter-results-field-service-type": "Service Type",
+        "new-value-button": "New Value Table",
+        "label-products-found": "Products Found:",
+        "table-header-name": "Name",
+        "table-header-type": "Type",
+        "table-header-value": "Value",
+        "table-header-cost": "Cost",
+        "table-header-edit": "Edit",
+        "table-button-edit": "Edit",
+        "table-button-dropdown-delete": "Remove",
+        "label-skus-found": "SKUs Found:",
+        "caption-sku-service-values": "SKU Service Values",
+        "secondary-functions": "Secondary Functions",
+        "no-products-found": "No products found"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
