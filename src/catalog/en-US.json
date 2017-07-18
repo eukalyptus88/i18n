@@ -973,6 +973,19 @@
         "table-header-newest-rating": "Newest Rating",
         "no-ratings-found": "No ratings found"
     },
+    "sku-commercial-condition-page": {
+        "title": "SKU Commercial Condition - SKU Commercial Conditions Management",
+        "new-commercial-condition": "New commercial condition",
+        "sku-commercial-conditions-list": "SKUs commercial conditions list",
+        "table-id": "Id",
+        "table-name": "Name",
+        "table-default": "Default",
+        "table-edit": "Edit",
+        "table-edit-modify": "Modify",
+        "table-edit-delete": "Delete",
+        "button-delete": "Delete",
+        "secondary-functions": "Secondary Functions"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

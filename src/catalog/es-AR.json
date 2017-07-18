@@ -973,6 +973,19 @@
         "table-header-newest-rating": "Avaliação Mais Recente",
         "no-ratings-found": "Nenhuma avaliação encontrada"
     },
+    "sku-commercial-condition-page": {
+        "title": "SKU Condição Comercial - Administração de Condições Comerciais do SKU",
+        "new-commercial-condition": "Nova condição comercial",
+        "sku-commercial-conditions-list": "Lista de condições comerciais dos SKUs",
+        "table-id": "Id",
+        "table-name": "Nome",
+        "table-default": "Default",
+        "table-edit": "Editar",
+        "table-edit-modify": "Alterar",
+        "table-edit-delete": "Excluir",
+        "button-delete": "Excluir",
+        "secondary-functions": "Funções Secundárias"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
