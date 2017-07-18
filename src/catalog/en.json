@@ -112,7 +112,8 @@
         "product-specification": "Product Specification",
         "sku-specification": "SKU Specification",
         "image-exportation": "Image Exportation",
-        "product-ratings": "Product Ratings"
+        "product-ratings": "Product Ratings",
+        "sku-commercial-conditions": "SKU Commercial Conditions"
     },
     "filter": {
         "title": "Filter results or do a search",
