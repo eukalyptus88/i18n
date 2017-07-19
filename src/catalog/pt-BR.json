@@ -126,7 +126,9 @@
         "add-attachment": "Adicionar Anexo",
         "edit-attachment": "Editar Anexo",
         "marketing": "Marketing",
-        "vouchers": "Vales"
+        "vouchers": "Vales",
+        "add-voucher": "Adicionar Vale",
+        "edit-voucher": "Editar Vale"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",

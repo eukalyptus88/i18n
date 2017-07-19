@@ -126,7 +126,9 @@
         "add-attachment": "Add Attachment",
         "edit-attachment": "Edit Attachment",
         "marketing": "Marketing",
-        "vouchers": "Vouchers"
+        "vouchers": "Vouchers",
+        "add-voucher": "Add Voucher",
+        "edit-voucher": "Edit Voucher"
     },
     "filter": {
         "title": "Filter results or do a search",
