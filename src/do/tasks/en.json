@@ -35,5 +35,8 @@
   "recurrence":{
     "checkoutFailure": "There was an error in generating the recurrent order",
     "lackStock": "Recurrent order not generated due to item unavailability"
+  },
+  "logistics":{
+    "lowStock": "SKU with low availability."
   }
 }
