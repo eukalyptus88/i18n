@@ -1069,7 +1069,7 @@
         "template-maximum-number-characters": "Maximum Number of Characters",
         "template-permitted-values": "Permitted Values",
         "template-actions": "Actions",
-        "template-edit-item-edit": "Edit",
+        "template-edit-item-update": "Update",
         "template-edit-item-cancel": "Cancel",
         "template-footer-add-new": "Add New",
         "template-item-edit": "Edit",
