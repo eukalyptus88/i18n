@@ -111,7 +111,7 @@
         "product-prices": "Preços de Produtos",
         "product-specification": "Especificação de Produtos",
         "sku-specification": "Especificação de SKUs",
-        "image-exportation": "Exportação de Imagens",
+        "image-export": "Exportação de Imagens",
         "product-ratings": "Avaliações de Produtos",
         "sku-commercial-conditions": "Condições Comerciais de SKU",
         "add-sku-commercial-conditions": "Adicionar Condições Comerciais de SKU",
@@ -893,7 +893,7 @@
         "result-table-yes": "Sim",
         "result-table-no": "Não"
     },
-	"product-specification-exportation-importation-page": {
+    "product-specification-export-import-page": {
         "title": "Exportação e Importação de Especificações de Produtos",
         "attention": "Atenção: ",
         "attention-text": "<div class=\"alert alert-block\"><strong>Consulte o manual de importação de especificações de produtos/SKUs.</strong></div><p>Para realizar a importação, utilize uma planilha previamente exportada. Para obtê-la, escolha uma categoria no menu à esquerda e selecione a opção \"Exportar\", acessível através do botão direito do mouse.</p><p>Selecione sempre a categoria mais interna do departamento desejado. Isto fará com que o processo de listagem, exportação e importação ocorra de forma mais rápida.</p><p>Após clicar no botão \"Exportar\", selecione a opção \"Salvar Como\" e escolha o local apropriado para salvar a planilha.</p><p>Realize as alterações dos valores exportados com o editor de planilhas <b>Microsoft Excel ou compatível</b>.</p><p>Não altere o formato original (XML Spreadsheet2003 com extensão <strong>*.xls</strong>) do arquivo. Sempre que salvar o documento, mantenha seu formato atual mesmo que alguns recursos fiquem indisponíveis.</p><div class=\"alert alert-error alert-block\"><p><strong>Apenas altere a coluna \"Valor(es) de Especificação do Produto\" da planilha. As demais colunas deverão permanecer inalteradas pois seus valores serão utilizados para validação dos dados.</strong></p></div><p>Para os campos do tipo \"Texto\", não haverá nenhum conteúdo na coluna \"Possíveis Valores do Campo Produto\". Basta inserir/remover o texto na coluna \"Valor(es) de Especificação do Produto\".</p><p>Os campos do tipo \"Texto grande\" o procedimento será o mesmo do tipo \"Texto\". Porém, há a possibilidade de adicionar o texto \"#novalinha#\" (sem aspas) para indicar a quebra de linha no texto.</p><p>Para os campos do tipo \"Radio ou Combo\", copie fielmente apenas um dos valores listados na coluna \"Possíveis Valores do Campo Produto\".</p><p>Para os campos do tipo \"Checkbox\", copie fielmente um ou mais valores listados na coluna \"Possíveis Valores do Campo Produto\". Separe os diferentes valores usando vírgula, com até um espaço entre a vírgula e o valor seguinte.</p><div class=\"alert alert-error alert-block\"><strong>Manipule a planilha com extrema cautela, sempre verificando se as informações foram preenchidas corretamente.</strong></div>",
@@ -914,7 +914,7 @@
         "right-click-category": "Clique com o botão direito em uma categoria e selecione listar para ver os produtos de uma categoria.",
         "notification-email": "Email para notificação:"
     },
-    "sku-specification-exportation-importation-page": {
+    "sku-specification-export-import-page": {
         "title": "Exportação e Importação de Especificações de SKUs",
         "attention": "Atenção: ",
         "attention-text": "<div class=\"alert alert-block\"><strong>Consulte o manual de importação de especificações de produtos/SKUs.</strong></div><p>Para realizar a importação, utilize uma planilha previamente exportada. Para obtê-la, escolha uma categoria no menu à esquerda e selecione a opção \"Exportar\", acessível através do botão direito do mouse.</p><p>Selecione sempre a categoria mais interna do departamento desejado. Isto fará com que o processo de listagem, exportação e importação ocorra de forma mais rápida.</p><p>Após clicar no botão \"Exportar\", selecione a opção \"Salvar Como\" e escolha o local apropriado para salvar a planilha.</p><p>Realize as alterações dos valores exportados com o editor de planilhas <b>Microsoft Excel ou compatível</b>.</p><p>Não altere o formato original (XML Spreadsheet2003 com extensão <strong>*.xls</strong>) do arquivo. Sempre que salvar o documento, mantenha seu formato atual mesmo que alguns recursos fiquem indisponíveis.</p><div class=\"alert alert-error alert-block\"><p><strong>Apenas altere a coluna \"Valor(es) de Especificação do SKU\" da planilha. As demais colunas deverão permanecer inalteradas pois seus valores serão utilizados para validação dos dados.</strong></p></div><p>Para os campos do tipo \"Texto\", não haverá nenhum conteúdo na coluna \"Possíveis Valores do Campo SKU\". Basta inserir/remover o texto na coluna \"Valor(es) de Especificação do SKU\".</p><p>Os campos do tipo \"Texto grande\" o procedimento será o mesmo do tipo \"Texto\". Porém, há a possibilidade de adicionar o texto \"#novalinha#\" (sem aspas) para indicar a quebra de linha no texto.</p><p>Para os campos do tipo \"Radio ou Combo\", copie fielmente apenas um dos valores listados na coluna \"Possíveis Valores do Campo SKU\".</p><p>Para os campos do tipo \"Checkbox\", copie fielmente um ou mais valores listados na coluna \"Possíveis Valores do Campo SKU\". Separe os diferentes valores usando vírgula, com até um espaço entre a vírgula e o valor seguinte.</p><div class=\"alert alert-error alert-block\"><strong>Manipule a planilha com extrema cautela, sempre verificando se as informações foram preenchidas corretamente.</strong></div>",
@@ -935,7 +935,7 @@
         "error-email-required": "Preenchimento do email obrigatório",
         "error-required-field": "campo obrigatório"
     },
-    "sku-image-exportation-page": {
+    "sku-image-export-page": {
         "title": "Exportação de Imagens de SKU",
         "box-attention": "<strong>Atenção</strong>",
         "box-text": "<strong>Para realizar a exportação do relatório de imagens, preencha com seu e-mail abaixo.</strong><br />Recomendamos a exportação de até 10.000 registros, utilize os filtros para refinar sua busca.<br />Assim que o processo for concluído, você receberá um e-mail com o link para download de sua planilha.<br /><br />",
@@ -953,7 +953,7 @@
         "table-header-image-url": "URL da Imagem",
         "button-cancel-previous-processing": "Cancelar Processamento Anterior"
     },
-    "image-importation-page": {
+    "image-import-page": {
         "title": "Importação de Imagens",
         "attention-title": "Atenção:",
         "attention-text": "<li>Para realizar a importação de imagens verifique se o arquivo está no formato correto. Se preferir, clique <a id=\"ctl00_Conteudo_lnkTabelaExemplo\" href=\"gerarimagens.aspx?csv=1\">aqui</a> para visualizar o arquivo modelo.</li><li>As imagens importadas são incluídas nos seus respectivos SKUs, não sendo removida nenhuma imagem já cadastrada. Com isso se alguma imagem estiver duplicada o SKU ficará com imagens duplicadas.</li><li>Preencha o campo abaixo fornecendo seu e-mail para receber um relatório sobre o status do processo.</li><li>O campo \"TextoImagem\" será vinculado no atributo <strong>\"title\"</strong> da imagem. Caso não esteja preenchido, o atributo irá conter o nome do Produto + o nome do SKU.</li><li>Guarde a informação abaixo antes de começar a importação. Ela será muito importante caso algum erro seja detectado.</li>",
@@ -963,7 +963,7 @@
         "notification-email": "<strong>Email para notificação</strong>",
         "button-import": "Importar"
     },
-    "product-ratings-exportation-page": {
+    "product-ratings-export-page": {
         "title": "Exportação de Avaliações de Produtos (Resenha)",
         "instructions-title": "Atenção:",
         "instructions1": "Para exportar escolha uma categoria no menu à esquerda e selecione a opção 'Exportar', acessível através do botão direito do mouse.",

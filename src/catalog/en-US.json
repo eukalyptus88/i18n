@@ -111,7 +111,7 @@
         "product-prices": "Product Prices",
         "product-specification": "Product Specification",
         "sku-specification": "SKU Specification",
-        "image-exportation": "Image Exportation",
+        "image-export": "Image Export",
         "product-ratings": "Product Ratings",
         "sku-commercial-conditions": "SKU Commercial Conditions",
         "add-sku-commercial-conditions": "Add SKU Commercial Conditions",
@@ -893,10 +893,10 @@
         "result-table-yes": "Yes",
         "result-table-no": "No"
     },
-    "product-specification-exportation-importation-page": {
-        "title": "Product Specification Exportation and Importation",
+    "product-specification-export-import-page": {
+        "title": "Product Specification Export and Import",
         "attention": "Attention: ",
-        "attention-text": "<div class=\"alert alert-block\"><strong>Check the products/SKUs specification importation manual.</strong></div><p>To import, use a previously exported spreadsheet. To obtain it, choose a category from the left menu and then the option \"Export\", accessible after right-clicking it.</p><p>Always select the innermost category from the desired department. This will make the listing, exportation and importation process go faster.</p><p>After clicking the \"Export\" button, choose the \"Save As\" option and choose the appropriate place to save the spreadsheet.</p><p>Modify the exported values with the spreadsheet editor <b>Microsoft Excel or compatible</b>.</p><p>Do not change the file original format (XML Spreadsheet2003 with the <strong>*.xls</strong> extension). Whenever saving the document, keep its current format even if some funcionalities become unavailable.</p><div class=\"alert alert-error alert-block\"><p><strong>Only modify the column \"Valor(es) de Especificação do Produto\" from the spreadsheet. The other columns must remain unaltered because their values will be used for data validation.</strong></p></div><p>For the fields of type \"Text\", there will be no content in the column \"Possíveis Valores do Campo Produto\". Just insert/remove the text in/from the column \"Valor(es) de Especificação do Produto\".</p><p>For the fields of type \"Long text\", the procedure is the same as the one for fields of type \"Text\". However, you may add the text \"#novalinha#\" (without the enclosing double quotes) to set a line break in the text.</p><p>For the fields of type \"Radio or Combo\", copy the exact content of only one of the values listed in the column \"Possíveis Valores do Campo Produto\".</p><p>For the fields of type \"Checkbox\", copy the exact content of one or more values listed in the column \"Possíveis Valores do Campo Produto\". Separate the different values using commas, with up to one whitespace between the comma and the next value.</p><div class=\"alert alert-error alert-block\"><strong>Edit the spreadsheet with extreme caution, always checking if everything was filled in correctly.</strong></div>",
+        "attention-text": "<div class=\"alert alert-block\"><strong>Check the products/SKUs specification import manual.</strong></div><p>To import, use a previously exported spreadsheet. To obtain it, choose a category from the left menu and then the option \"Export\", accessible after right-clicking it.</p><p>Always select the innermost category from the desired department. This will make the listing, export and import process go faster.</p><p>After clicking the \"Export\" button, choose the \"Save As\" option and choose the appropriate place to save the spreadsheet.</p><p>Modify the exported values with the spreadsheet editor <b>Microsoft Excel or compatible</b>.</p><p>Do not change the file original format (XML Spreadsheet2003 with the <strong>*.xls</strong> extension). Whenever saving the document, keep its current format even if some funcionalities become unavailable.</p><div class=\"alert alert-error alert-block\"><p><strong>Only modify the column \"Valor(es) de Especificação do Produto\" from the spreadsheet. The other columns must remain unaltered because their values will be used for data validation.</strong></p></div><p>For the fields of type \"Text\", there will be no content in the column \"Possíveis Valores do Campo Produto\". Just insert/remove the text in/from the column \"Valor(es) de Especificação do Produto\".</p><p>For the fields of type \"Long text\", the procedure is the same as the one for fields of type \"Text\". However, you may add the text \"#novalinha#\" (without the enclosing double quotes) to set a line break in the text.</p><p>For the fields of type \"Radio or Combo\", copy the exact content of only one of the values listed in the column \"Possíveis Valores do Campo Produto\".</p><p>For the fields of type \"Checkbox\", copy the exact content of one or more values listed in the column \"Possíveis Valores do Campo Produto\". Separate the different values using commas, with up to one whitespace between the comma and the next value.</p><div class=\"alert alert-error alert-block\"><strong>Edit the spreadsheet with extreme caution, always checking if everything was filled in correctly.</strong></div>",
         "file-upload-title": "Upload File to Import",
         "import-button": "Import",
         "table-header-product-code": "Product Code",
@@ -914,10 +914,10 @@
         "right-click-category": "Right-click a category and select list to see the products in a category.",
         "notification-email": "Notification email:"
     },
-    "sku-specification-exportation-importation-page": {
-        "title": "SKU Specification Exportation and Importation",
+    "sku-specification-export-import-page": {
+        "title": "SKU Specification Export and Import",
         "attention": "Attention: ",
-        "attention-text": "<div class=\"alert alert-block\"><strong>Check the products/SKUs specification importation manual.</strong></div><p>To import, use a previously exported spreadsheet. To obtain it, choose a category from the left menu and then the option \"Export\", accessible after right-clicking it.</p><p>Always select the innermost category from the desired department. This will make the listing, exportation and importation process go faster.</p><p>After clicking the \"Export\" button, choose the \"Save As\" option and choose the appropriate place to save the spreadsheet.</p><p>Modify the exported values with the spreadsheet editor <b>Microsoft Excel or compatible</b>.</p><p>Do not change the file original format (XML Spreadsheet2003 with the <strong>*.xls</strong> extension). Whenever saving the document, keep its current format even if some funcionalities become unavailable.</p><div class=\"alert alert-error alert-block\"><p><strong>Only modify the column \"Valor(es) de Especificação do SKU\" from the spreadsheet. The other columns must remain unaltered because their values will be used for data validation.</strong></p></div><p>For the fields of type \"Text\", there will be no content in the column \"Possíveis Valores do Campo SKU\". Just insert/remove the text in/from the column \"Valor(es) de Especificação do SKU\".</p><p>For the fields of type \"Long text\", the procedure is the same as the one for fields of type \"Text\". However, you may add the text \"#novalinha#\" (without the enclosing double quotes) to set a line break in the text.</p><p>For the fields of type \"Radio or Combo\", copy the exact content of only one of the values listed in the column \"Possíveis Valores do Campo SKU\".</p><p>For the fields of type \"Checkbox\", copy the exact content of one or more values listed in the column \"Possíveis Valores do Campo SKU\". Separate the different values using commas, with up to one whitespace between the comma and the next value.</p><div class=\"alert alert-error alert-block\"><strong>Edit the spreadsheet with extreme caution, always checking if everything was filled in correctly.</strong></div>",
+        "attention-text": "<div class=\"alert alert-block\"><strong>Check the products/SKUs specification import manual.</strong></div><p>To import, use a previously exported spreadsheet. To obtain it, choose a category from the left menu and then the option \"Export\", accessible after right-clicking it.</p><p>Always select the innermost category from the desired department. This will make the listing, export and import process go faster.</p><p>After clicking the \"Export\" button, choose the \"Save As\" option and choose the appropriate place to save the spreadsheet.</p><p>Modify the exported values with the spreadsheet editor <b>Microsoft Excel or compatible</b>.</p><p>Do not change the file original format (XML Spreadsheet2003 with the <strong>*.xls</strong> extension). Whenever saving the document, keep its current format even if some funcionalities become unavailable.</p><div class=\"alert alert-error alert-block\"><p><strong>Only modify the column \"Valor(es) de Especificação do SKU\" from the spreadsheet. The other columns must remain unaltered because their values will be used for data validation.</strong></p></div><p>For the fields of type \"Text\", there will be no content in the column \"Possíveis Valores do Campo SKU\". Just insert/remove the text in/from the column \"Valor(es) de Especificação do SKU\".</p><p>For the fields of type \"Long text\", the procedure is the same as the one for fields of type \"Text\". However, you may add the text \"#novalinha#\" (without the enclosing double quotes) to set a line break in the text.</p><p>For the fields of type \"Radio or Combo\", copy the exact content of only one of the values listed in the column \"Possíveis Valores do Campo SKU\".</p><p>For the fields of type \"Checkbox\", copy the exact content of one or more values listed in the column \"Possíveis Valores do Campo SKU\". Separate the different values using commas, with up to one whitespace between the comma and the next value.</p><div class=\"alert alert-error alert-block\"><strong>Edit the spreadsheet with extreme caution, always checking if everything was filled in correctly.</strong></div>",
         "file-upload-title": "Upload File to Import",
         "label-email": "Notification email:",
         "import-button": "Import",
@@ -935,8 +935,8 @@
         "error-email-required": "Email required",
         "error-required-field": "required field"
     },
-    "sku-image-exportation-page": {
-        "title": "SKU Images Exportation",
+    "sku-image-export-page": {
+        "title": "SKU Images Export",
         "box-attention": "<strong>Attention</strong>",
         "box-text": "<strong>To export the images report, fill in your email below.</strong><br />We recommend you export up to 10,000 records, use the filters to refine your search.<br />Once the process is completed, you will receive an email with the link to download your spreadsheet.<br /><br />",
         "notification-email": "Notification email:",
@@ -953,8 +953,8 @@
         "table-header-image-url": "Image URL",
         "button-cancel-previous-processing": "Cancel Previous Processing"
     },
-    "image-importation-page": {
-        "title": "Image Importation",
+    "image-import-page": {
+        "title": "Image Import",
         "attention-title": "Attention:",
         "attention-text": "<li>To import images verify if the file is in the right format. You can also check a model file <a id=\"ctl00_Conteudo_lnkTabelaExemplo\" href=\"gerarimagens.aspx?csv=1\">here</a>.</li><li>The imported images are included in their respective SKUs, so a image that is already registered won't be removed. But note that if some image is duplicated, the SKU will keep both.</li><li>Fill the field below with your email to receive a process status report.</li><li>The \"TextImage\" field will be linked to the image <strong>\"title\"</strong> attribute. If the attribute is not specified, it will have the Product and SKU name.</li><li>Keep the information bellow before start to export. It will be really important if some error is detected.</li>",
         "sku-file-id": "SKU File Id: ",
@@ -963,11 +963,11 @@
         "notification-email": "<strong>Notification email</strong>",
         "button-import": "Import"
     },
-    "product-ratings-exportation-page": {
-        "title": "Product Ratings Exportation (Review)",
+    "product-ratings-export-page": {
+        "title": "Product Ratings Export (Review)",
         "instructions-title": "Attention:",
         "instructions1": "To export a spreadsheet, right-click a category on the side menu and choose the option “Export”.",
-        "instructions2": "Always choose the innermost category from the desired department. This will make the listing and exportation process go faster.",
+        "instructions2": "Always choose the innermost category from the desired department. This will make the listing and export process go faster.",
         "instructions3": "After clicking on the 'Export' button, select 'Save As' and choose a place to save the spreadsheet you’ve just exported.",
         "instructions4": "View the exported values using the spreadsheet editor <b>Microsoft Excel or compatible.</b>",
         "table-title": "Right-click a category and select list to see the products in a category.",
