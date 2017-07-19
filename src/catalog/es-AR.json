@@ -124,7 +124,9 @@
         "edit-service-values-costs": "Editar Valores e Custos de Serviços",
         "attachments-services-skus": "Anexos para Serviços e SKUs",
         "add-attachment": "Adicionar Anexo",
-        "edit-attachment": "Editar Anexo"
+        "edit-attachment": "Editar Anexo",
+        "marketing": "Marketing",
+        "vouchers": "Vales"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
