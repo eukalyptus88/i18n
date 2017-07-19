@@ -1111,6 +1111,27 @@
         "no-registered-vouchers": "There are no registered Vouchers",
         "no": "No"
     },
+    "voucher-form": {
+        "title": "Voucher",
+        "instructions": "Fill in the information regarding the Voucher",
+        "required-field": "Required Field",
+        "voucher": "Voucher",
+        "field-number-vouchers": "Number of Vouchers",
+        "maximum-500-items": "(maximum of 500 items)",
+        "field-value": "Value",
+        "field-expiration-date": "Expiration Date",
+        "error-expiration-date-range": "The expiration date must be older than the current date",
+        "field-client-cpf-cnpj": "Client's CPF/CNPJ",
+        "field-collection": "Collection",
+        "checkbox-restricted": "Restricted",
+        "checkbox-restricted-tip": "Only the Client whose CPF/CNPJ was informed above may use this Voucher",
+        "checkbox-rechargeable": "Rechargeable",
+        "checkbox-rechargeable-tip": "It will be possible to alter the balance of this Voucher while it is available",
+        "checkbox-reusable": "Reusable",
+        "checkbox-reusable-tip": "It will be possible to make new purchases with this Voucher until its value is completely used",
+        "button-save": "Save",
+        "button-back": "Back"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",

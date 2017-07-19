@@ -1111,6 +1111,27 @@
         "no-registered-vouchers": "Não existem Vales cadastrados",
         "no": "Não"
     },
+    "voucher-form": {
+        "title": "Vale",
+        "instructions": "Preencha as informações referentes ao Vale",
+        "required-field": "Campo Obrigatório",
+        "voucher": "Vale",
+        "field-number-vouchers": "Quantidade de Vales",
+        "maximum-500-items": "(máximo 500 ítens)",
+        "field-value": "Valor",
+        "field-expiration-date": "Data de Validade",
+        "error-expiration-date-range": "A data de validade deve ser posterior à data atual",
+        "field-client-cpf-cnpj": "CPF/CNPJ Cliente",
+        "field-collection": "Coleção",
+        "checkbox-restricted": "Restrito",
+        "checkbox-restricted-tip": "Somente o Cliente referente ao CPF/CNPJ informado acima poderá utilizar este Vale",
+        "checkbox-rechargeable": "Recarregável",
+        "checkbox-rechargeable-tip": "Será possível alterar o saldo deste Vale enquanto este estiver disponível",
+        "checkbox-reusable": "Reutilizável",
+        "checkbox-reusable-tip": "Será possível realizar novas compras com este Vale até que seu valor seja totalmente utilizado",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
