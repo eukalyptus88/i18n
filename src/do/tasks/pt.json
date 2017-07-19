@@ -35,5 +35,8 @@
   "recurrence":{
     "checkoutFailure": "Ocorreu um erro na geração do pedido recorrente",
     "lackStock": "Pedido recorrente não gerado por indisponibilidade de item(ns)"
+  },
+  "logistics":{
+    "lowStock": "SKU com baixa disponibilidade."
   }
 }
