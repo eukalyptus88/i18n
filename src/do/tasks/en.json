@@ -31,5 +31,9 @@
     "eanNotFound": "Fix EAN not registered",
     "withoutStock": "Fix SKU without stock",
     "withoutPrice": "Fix SKU without price"
+  },
+  "recurrence":{
+    "checkoutFailure": "There was an error in generating the recurrent order",
+    "lackStock": "Recurrent order not generated due to item unavailability"
   }
 }
