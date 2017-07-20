@@ -128,7 +128,9 @@
         "marketing": "Marketing",
         "vouchers": "Vouchers",
         "add-voucher": "Add Voucher",
-        "edit-voucher": "Edit Voucher"
+        "edit-voucher": "Edit Voucher",
+        "settings": "Settings",
+        "store-texts": "Store Texts"
     },
     "filter": {
         "title": "Filter results or do a search",

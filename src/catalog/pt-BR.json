@@ -128,7 +128,9 @@
         "marketing": "Marketing",
         "vouchers": "Vales",
         "add-voucher": "Adicionar Vale",
-        "edit-voucher": "Editar Vale"
+        "edit-voucher": "Editar Vale",
+        "settings": "Configurações",
+        "store-texts": "Textos da Loja"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
