@@ -130,7 +130,8 @@
         "add-voucher": "Adicionar Vale",
         "edit-voucher": "Editar Vale",
         "settings": "Configurações",
-        "store-texts": "Textos da Loja"
+        "store-texts": "Textos da Loja",
+        "types-lists": "Tipos de Listas"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",

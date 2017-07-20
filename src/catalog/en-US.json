@@ -130,7 +130,8 @@
         "add-voucher": "Add Voucher",
         "edit-voucher": "Edit Voucher",
         "settings": "Settings",
-        "store-texts": "Store Texts"
+        "store-texts": "Store Texts",
+        "types-lists": "Types of Lists"
     },
     "filter": {
         "title": "Filter results or do a search",
