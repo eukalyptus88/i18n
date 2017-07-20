@@ -131,7 +131,8 @@
         "edit-voucher": "Edit Voucher",
         "settings": "Settings",
         "store-texts": "Store Texts",
-        "types-lists": "Types of Lists"
+        "types-lists": "Types of Lists",
+        "collections-xml": "Collections XML"
     },
     "filter": {
         "title": "Filter results or do a search",

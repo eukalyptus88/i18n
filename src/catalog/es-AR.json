@@ -131,7 +131,8 @@
         "edit-voucher": "Editar Vale",
         "settings": "Configurações",
         "store-texts": "Textos da Loja",
-        "types-lists": "Tipos de Listas"
+        "types-lists": "Tipos de Listas",
+        "collections-xml": "XML de Coleções"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
