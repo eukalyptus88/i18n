@@ -1269,6 +1269,19 @@
         "table-edit-button-modify": "Alterar",
         "table-no-entry": "Não existem Tipos de Arquivo cadastrados"
     },
+    "file-type-page-form": {
+        "title": "Tipo Arquivo - Configuração de tamanhos de arquivos do sistema",
+        "form-field-name": "Nome<span class='obr'>*</span>",
+        "form-field-length-hight": "Largura x Altura<span class='obr'>*</span>",
+        "form-field-length-hight-instruction": "<br />Digite 0 para que o tamanho seja livre.",
+        "form-field-size": "Tamanho Máximo em KB<span class='obr'>*</span>",
+        "form-field-size-instruction": "<br />Digite 0 para que o tamanho seja livre.",
+        "form-field-type-file": "Arquivo",
+        "form-field-type-image": "Imagem",
+        "form-field-resize": "Flag resize obrigatório",
+        "form-button-save": "Salvar",
+        "form-button-back": "Voltar"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",
