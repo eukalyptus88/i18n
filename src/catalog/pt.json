@@ -1261,6 +1261,15 @@
         "secondary-functions": "Funções Secundárias",
         "no-files-found": "Nenhum arquivo encontrado"
     },
+    "file-type-page": {
+        "title": "Administração de TipoArquivo",
+        "table-instructions": "<strong>Atenção:</strong> não modifique os tamanhos se já existem imagens cadastradas. Caso modificar, será nescessário recadastrar todas as imagens do tipo modificado(não altere as imagens, nesse caso apague e recadastre).",
+        "table-name": "Nome",
+        "table-size": "Tamanhos",
+        "table-edit": "Editar",
+        "table-edit-button-modify": "Alterar",
+        "table-no-entry": "Não existem Tipos de Arquivo cadastrados"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",

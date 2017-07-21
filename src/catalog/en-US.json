@@ -1261,6 +1261,15 @@
         "secondary-functions": "Secondary Functions",
         "no-files-found": "No files found"
     },
+    "file-type-page": {
+        "title": "Admin of FileType",
+        "table-instructions": "<strong>Attention!</strong> Do not change the sizes of images that are already registered. If those sizes get changed, all images from that type will need to be registered again. (In this case, do not modify the images, delete them and register again).",
+        "table-name": "Name",
+        "table-size": "Sizes",
+        "table-edit": "Edit",
+        "table-edit-button-modify": "Modify",
+        "table-no-entry": "There are no File Types registered"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
