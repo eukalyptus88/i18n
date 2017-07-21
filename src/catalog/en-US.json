@@ -131,7 +131,9 @@
         "edit-voucher": "Edit Voucher",
         "settings": "Settings",
         "store-texts": "Store Texts",
-        "types-lists": "Types of Lists",
+        "list-types": "List Types",
+        "add-list-type": "Add List Type",
+        "edit-list-type": "Edit List Type",
         "file-types": "File types",
         "edit-file-type": "Edit File Type",
         "collections-xml": "Collections XML"

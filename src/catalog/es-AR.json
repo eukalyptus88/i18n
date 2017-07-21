@@ -131,7 +131,9 @@
         "edit-voucher": "Editar Vale",
         "settings": "Configurações",
         "store-texts": "Textos da Loja",
-        "types-lists": "Tipos de Listas",
+        "list-types": "Tipos de Listas",
+        "add-list-type": "Adicionar Tipo de Lista",
+        "edit-list-type": "Editar Tipo de Lista",
         "file-types": "Tipos de Arquivo",
         "edit-file-type": "Editar Tipo de Arquivo",
         "collections-xml": "XML de Coleções"
