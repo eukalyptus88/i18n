@@ -1235,7 +1235,7 @@
         "table-header-file-name": "Nome do Arquivo",
         "table-header-file-name-hover": "Nome do arquivo XML",
         "table-header-collection-id": "Id da Coleção",
-        "table-header-collection-id-hover": "Número de Identificação único da Coleção associada à este arquivo no Sistema,",
+        "table-header-collection-id-hover": "Número de Identificação único da Coleção associada à este arquivo no Sistema",
         "table-header-collection-name": "Nome da Coleção",
         "table-header-collection-name-hover": "Nome da Coleção associada à este arquivo no Sistema",
         "table-header-url": "URL",
