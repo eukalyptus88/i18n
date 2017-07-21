@@ -1276,6 +1276,7 @@
         "form-field-length-hight-instruction": "<br />Digite 0 para que o tamanho seja livre.",
         "form-field-size": "Tamanho Máximo em KB<span class='obr'>*</span>",
         "form-field-size-instruction": "<br />Digite 0 para que o tamanho seja livre.",
+        "form-field-type": "Tipo",
         "form-field-type-file": "Arquivo",
         "form-field-type-image": "Imagem",
         "form-field-resize": "Flag resize obrigatório",

@@ -1276,6 +1276,7 @@
         "form-field-length-hight-instruction": "<br />Enter 0 for the size to be free.",
         "form-field-size": "Maximum size in KB<span class='obr'>*</span>",
         "form-field-size-instruction": "<br />Enter 0 for the size to be free.",
+        "form-field-type": "Type",
         "form-field-type-file": "File",
         "form-field-type-image": "Image",
         "form-field-resize": "Resize required flag",
