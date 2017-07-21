@@ -132,6 +132,9 @@
         "settings": "Configurações",
         "store-texts": "Textos da Loja",
         "types-lists": "Tipos de Listas",
+        "file-types": "Tipos de Arquivo",
+        "add-file-type": "Adicionar Tipo de Arquivo",
+        "edit-file-type": "Editar Tipo de Arquivo",
         "collections-xml": "XML de Coleções"
     },
     "filter": {
