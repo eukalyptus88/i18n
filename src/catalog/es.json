@@ -134,9 +134,11 @@
         "list-types": "Tipos de Listas",
         "add-list-type": "Adicionar Tipo de Lista",
         "edit-list-type": "Editar Tipo de Lista",
+        "collections-xml": "XML de Coleções",
+        "new-xml": "Novo XML",
+        "edit-xml": "Editar XML",
         "file-types": "Tipos de Arquivo",
-        "edit-file-type": "Editar Tipo de Arquivo",
-        "collections-xml": "XML de Coleções"
+        "edit-file-type": "Editar Tipo de Arquivo"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
