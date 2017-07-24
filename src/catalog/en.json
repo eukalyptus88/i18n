@@ -139,7 +139,8 @@
         "edit-xml": "Edit XML",
         "file-types": "File types",
         "edit-file-type": "Edit File Type",
-        "security-monitoring": "Security Monitoring"
+        "security-monitoring": "Security Monitoring",
+        "reports-download": "Reports Download"
     },
     "filter": {
         "title": "Filter results or do a search",
