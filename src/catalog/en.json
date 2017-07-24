@@ -138,7 +138,8 @@
         "new-xml": "New XML",
         "edit-xml": "Edit XML",
         "file-types": "File types",
-        "edit-file-type": "Edit File Type"
+        "edit-file-type": "Edit File Type",
+        "security-monitoring": "Security Monitoring"
     },
     "filter": {
         "title": "Filter results or do a search",
