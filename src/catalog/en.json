@@ -1547,6 +1547,16 @@
         "table-header-data": "Data",
         "no-results-found": "No results were found"
     },
+    "reports-download": {
+        "title": "Latest generated reports",
+        "caption-sku-reports": "Reports of SKUs",
+        "table-header-user": "User",
+        "table-header-report-type": "Report Type",
+        "table-header-creation-date": "Creation Date",
+        "table-header-download": "Download",
+        "download-link": "Click here to download",
+        "no-reports": "No reports were generated recently for the logged-in user."
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
