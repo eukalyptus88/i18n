@@ -1528,6 +1528,24 @@
         "form-button-save": "Salvar",
         "form-button-back": "Voltar"
     },
+    "security-report": {
+        "title": "Monitoramento da segurança",
+        "caption-list-events": "Lista de <strong>todos</strong> os eventos na administração do sistema",
+        "filter-administrator": "Nome do Administrador",
+        "filter-ip-address": "Endereço IP",
+        "filter-data": "Dados",
+        "filter-screen": "Tela",
+        "filter-function": "Função",
+        "filter-date": "Data",
+        "events-found": "Eventos encontrados: ",
+        "table-header-admin": "Administrador",
+        "table-header-ip-address": "Endereço IP",
+        "table-header-date": "Data",
+        "table-header-screen": "Tela",
+        "table-header-function": "Função",
+        "table-header-data": "Dados",
+        "no-results-found": "Nenhum resultado foi encontrado"
+    },
     "newsletter-report-page": {
         "title": "Relatório - Newsletter",
         "users-found": "Usuários encontrados:",

@@ -1528,6 +1528,24 @@
         "form-button-save": "Save",
         "form-button-back": "Back"
     },
+    "security-report": {
+        "title": "Security monitoring",
+        "caption-list-events": "List of <strong>all</strong> system administration events",
+        "filter-administrator": "Administrator's Name",
+        "filter-ip-address": "IP Address",
+        "filter-data": "Data",
+        "filter-screen": "Screen",
+        "filter-function": "Function",
+        "filter-date": "Date",
+        "events-found": "Events found: ",
+        "table-header-admin": "Administrator",
+        "table-header-ip-address": "IP Address",
+        "table-header-date": "Date",
+        "table-header-screen": "Screen",
+        "table-header-function": "Function",
+        "table-header-data": "Data",
+        "no-results-found": "No results were found"
+    },
     "newsletter-report-page": {
         "title": "Report - Newsletter",
         "users-found": "Users found:",
