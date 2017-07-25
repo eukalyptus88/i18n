@@ -1392,7 +1392,7 @@
         "tax-code": "Tax Code",
         "tax-code-tooltip-text": "Product Tax Code. Eg.: taxcode / tax_code",
         "sku-reference-code": "Sku Reference Code",
-        "sku-reference-code-tooltip": "Sku Reference Code. Eg.: reference / reference_code",
+        "sku-reference-code-tooltip-text": "Sku Reference Code. Eg.: reference / reference_code",
         "ean13": "EAN13",
         "ean13-tooltip-text": "13-digit code equivalent to the Sku bar code. Eg.: ean13 / codigo_ean / code",
         "add-link": "Link",
