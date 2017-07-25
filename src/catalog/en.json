@@ -1297,7 +1297,7 @@
     "collections-xml-form": {
         "title-new": "New XML",
         "title-edit": "Edit XML",
-        "warning-top": "Hover your mouse over an item to display its information. - Texts typed will be validated.",
+        "warning-top": "Hover your mouse over an item to display its information.<br />- Texts typed will be validated.",
         "warning-top-hover": "Tips and information",
         "xml-type": "XML Type",
         "combobox-xml-type-value-open": "Open XML (default)",
@@ -1321,8 +1321,6 @@
         "combobox-price-format-value-default": "Default (Eg: 1,999.99)",
         "combobox-price-format-value-no-thousand-separator": "No thousand separator (Eg.: 1999.99)",
         "category-separator": "Category separator",
-        "combobox-category-separator-value-default": "Default (Eg.: Parent Category - Child Category - Grandchild Category)",
-        "combobox-category-separator-value-google-shopping": "Google Shopping (Eg.: Parent Category - Child Category - Grandchild Category)",
         "show-unavailable-skus": "Show Unavailable SKUs",
         "show-unavailable-skus-warning": "Show SKUs out of stock (sold-out) in the results",
         "show-product-sku-default": "Show Product with default SKU",

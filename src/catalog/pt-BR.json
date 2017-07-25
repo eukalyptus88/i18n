@@ -1321,8 +1321,6 @@
         "combobox-price-format-value-default": "Padrão (Ex: 1.999,99)",
         "combobox-price-format-value-no-thousand-separator": "Sem separador de milhar (Ex: 1999,99)",
         "category-separator": "Separador de categorias",
-        "combobox-category-separator-value-default": "Padrão (Ex: Categoria Pai - Categoria Filha - Categoria Neta)",
-        "combobox-category-separator-value-google-shopping": "Google Shopping (Ex: Categoria Pai > Categoria Filha > Categoria Neta)",
         "show-unavailable-skus": "Exibir SKUs Indisponíveis",
         "show-unavailable-skus-warning": "Exibir os SKUs sem saldo disponível (esgotados) em Estoque entre os resultados",
         "show-product-sku-default": "Exibir Produto com SKU padrão",
