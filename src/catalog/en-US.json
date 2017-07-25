@@ -1261,7 +1261,7 @@
         "table-action-dropdown-orders-option": "Purchases",
         "table-action-dropdown-orders-option-tooltip": "See all purchases for this list type",
         "table-action-dropdown-delete-option": "Remove",
-        "table-action-dropdown-delete-option-tooptil": "Remove this list type",
+        "table-action-dropdown-delete-option-tooltip": "Remove this list type",
         "table-no-results": "There are no list types registered for the filter"
     },
     "collections-xml-page": {

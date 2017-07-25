@@ -1261,7 +1261,7 @@
         "table-action-dropdown-orders-option": "Compras",
         "table-action-dropdown-orders-option-tooltip": "Ver todas as compras para este tipo de lista",
         "table-action-dropdown-delete-option": "Excluir",
-        "table-action-dropdown-delete-option-tooptil": "Excluir este tipo de lista",
+        "table-action-dropdown-delete-option-tooltip": "Excluir este tipo de lista",
         "table-no-results": "Não existem tipos de listas cadastrados com os filtros selecionados"
     },
     "collections-xml-page": {
