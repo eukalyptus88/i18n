@@ -1529,7 +1529,7 @@
         "form-button-save": "Save",
         "form-button-back": "Back"
     },
-    "security-report": {
+    "security-report-page": {
         "title": "Security monitoring",
         "caption-list-events": "List of <strong>all</strong> system administration events",
         "filter-administrator": "Administrator's Name",
@@ -1545,9 +1545,10 @@
         "table-header-screen": "Screen",
         "table-header-function": "Function",
         "table-header-data": "Data",
+        "hyperlink-view": "View",
         "no-results-found": "No results were found"
     },
-    "reports-download": {
+    "reports-download-page": {
         "title": "Latest generated reports",
         "caption-sku-reports": "Reports of SKUs",
         "table-header-user": "User",

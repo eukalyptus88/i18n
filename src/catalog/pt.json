@@ -1529,7 +1529,7 @@
         "form-button-save": "Salvar",
         "form-button-back": "Voltar"
     },
-    "security-report": {
+    "security-report-page": {
         "title": "Monitoramento da segurança",
         "caption-list-events": "Lista de <strong>todos</strong> os eventos na administração do sistema",
         "filter-administrator": "Nome do Administrador",
@@ -1545,9 +1545,10 @@
         "table-header-screen": "Tela",
         "table-header-function": "Função",
         "table-header-data": "Dados",
+        "hyperlink-view": "Visualizar",
         "no-results-found": "Nenhum resultado foi encontrado"
     },
-    "reports-download": {
+    "reports-download-page": {
         "title": "Últimos relatórios gerados",
         "caption-sku-reports": "Relatório de SKUs",
         "table-header-user": "Usuário",
