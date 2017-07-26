@@ -1685,5 +1685,30 @@
         "table-header-receive-email": "Opt for receiving email",
         "button-export-excel": "Export to Excel",
         "button-export-csv": "Export to CSV"
+    },
+    "reviews-page": {
+        "title": "Review - Reviews Management",
+        "caption-list-reviews": "List of Reviews",
+        "filter-title": "Title",
+        "filter-text": "Text",
+        "table-header-client": "Client",
+        "table-header-client-data": "Client Data",
+        "table-header-product": "Product",
+        "table-header-title": "Title",
+        "table-header-text": "Text",
+        "table-header-date": "Registration Date",
+        "table-header-approved": "Approved",
+        "table-header-edit": "Edit",
+        "table-client-data-email": "<strong>E-mail:</strong>",
+        "table-client-data-cpf": "<strong>CPF:</strong>",
+        "table-client-data-phone-number": "<strong>Phone number:</strong>",
+        "table-value-disable": "Disable",
+        "table-value-enable": "Enable",
+        "button-delete": "Delete",
+        "reviews-found": "Reviews found: ",
+        "no-reviews-found": "No reviews found",
+        "secondary-functions": "Secondary Functions",
+        "yes": "Yes",
+        "no": "No"
     }
 }

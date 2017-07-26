@@ -1685,5 +1685,30 @@
         "table-header-receive-email": "Opção por receber email",
         "button-export-excel": "Exportar para Excel",
         "button-export-csv": "Exportar para CSV"
+    },
+    "reviews-page": {
+        "title": "Resenha - Administração de Resenhas",
+        "caption-list-reviews": "Lista de Resenhas",
+        "filter-title": "Título",
+        "filter-text": "Texto",
+        "table-header-client": "Cliente",
+        "table-header-client-data": "Dados Cliente",
+        "table-header-product": "Produto",
+        "table-header-title": "Título",
+        "table-header-text": "Texto",
+        "table-header-date": "Data Cadastro",
+        "table-header-approved": "Aprovado",
+        "table-header-edit": "Editar",
+        "table-client-data-email": "<strong>E-mail:</strong>",
+        "table-client-data-cpf": "<strong>CPF:</strong>",
+        "table-client-data-phone-number": "<strong>Telefone:</strong>",
+        "table-value-disable": "Desativar",
+        "table-value-enable": "Ativar",
+        "button-delete": "Excluir",
+        "reviews-found": "Resenhas encontradas: ",
+        "no-reviews-found": "Nenhuma resenha encontrada",
+        "secondary-functions": "Funções Secundárias",
+        "yes": "Sim",
+        "no": "Não"
     }
 }
