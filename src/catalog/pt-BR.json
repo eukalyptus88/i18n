@@ -144,7 +144,9 @@
         "let-me-know-report": "Demanda de Produtos/SKUs Esgotados",
         "reviews": "Resenhas",
         "tags": "Controle de Palavras (tags)",
-        "physical-stores": "Lojas Físicas - Componente"
+        "physical-stores": "Lojas Físicas - Componente",
+        "add-physical-store": "Adicionar Loja Física - Componente",
+        "edit-physical-store": "Editar Loja Física - Componente"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
