@@ -1713,7 +1713,7 @@
         "no": "No"
     },
     "tags-page": {
-        "title": "Tags Control",
+        "title": "Tag Control",
         "caption-list-tags": "List of Tags",
         "filter-approved": "Approved",
         "filter-approved-yes": "Yes",
