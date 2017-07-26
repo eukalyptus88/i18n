@@ -229,6 +229,11 @@
         "save-filters-checkbox-bold": "filters for quick lookup",
         "save-filters-choose-name": "Type in a name to identify your quick lookup filter: "
     },
+    "address": {
+        "button-add-edit-address": "Add or Edit Address",
+        "associated-addresses": "Associated Addresses",
+        "no-associated-addressess": "There are no associated addresses"
+    },
     "skuForm": {
         "yes": "Yes",
         "no": "No",

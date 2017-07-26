@@ -229,6 +229,11 @@
         "save-filters-checkbox-bold": "filtros para consulta rápida",
         "save-filters-choose-name": "Digite um nome de identificação para sua consulta rápida: "
     },
+    "address": {
+        "button-add-edit-address": "Incluir ou Alterar Endereço",
+        "associated-addresses": "Endereços Associados",
+        "no-associated-addressess": "Não existem endereços associados"
+    },
     "skuForm": {
         "yes": "Si",
         "no": "No",
