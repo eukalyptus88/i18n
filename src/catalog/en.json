@@ -1729,5 +1729,20 @@
         "no-tags-found": "No tags found",
         "secondary-functions": "Secondary Functions",
         "button-delete": "Delete"
+    },
+    "physical-stores-page": {
+        "title": "Stores - Physical stores management",
+        "button-new-store": "New Store",
+        "table-header-id": "Id",
+        "table-header-type": "Type",
+        "table-header-address": "Address",
+        "table-header-name": "Name",
+        "table-header-text": "Text",
+        "table-header-latitude": "Latitude",
+        "table-header-longitude": "Longitude",
+        "table-header-edit": "Edit",
+        "table-button-modify": "Modify",
+        "table-button-delete": "Delete",
+        "secondary-functions": "Secondary Functions"
     }
 }

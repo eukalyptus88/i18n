@@ -1729,5 +1729,20 @@
         "no-tags-found": "Nenhuma tag encontrada",
         "secondary-functions": "Funções Secundárias",
         "button-delete": "Excluir"
+    },
+    "physical-stores-page": {
+        "title": "Lojas - Administração de lojas fisicas",
+        "button-new-store": "Nova Loja",
+        "table-header-id": "Id",
+        "table-header-type": "Tipo",
+        "table-header-address": "Endereço",
+        "table-header-name": "Nome",
+        "table-header-text": "Texto",
+        "table-header-latitude": "Latitude",
+        "table-header-longitude": "Longitude",
+        "table-header-edit": "Editar",
+        "table-button-modify": "Alterar",
+        "table-button-delete": "Excluir",
+        "secondary-functions": "Funções Secundárias"
     }
 }
