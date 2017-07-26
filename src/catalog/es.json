@@ -1306,6 +1306,7 @@
         "creator-only": "apenas o criador da lista",
         "min": "no mínimo",
         "max": "e no máximo",
+        "from": "de",
         "to": "a",
         "remove-default-type": "Tipo Padrão",
         "warning": "Atenção!",
