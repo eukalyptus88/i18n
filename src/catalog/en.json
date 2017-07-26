@@ -141,7 +141,8 @@
         "edit-file-type": "Edit File Type",
         "security-monitoring": "Security Monitoring",
         "reports-download": "Reports Download",
-        "let-me-know-report": "Sold-Out Products/SKUs Demand"
+        "let-me-know-report": "Sold-Out Products/SKUs Demand",
+        "reviews": "Reviews"
     },
     "filter": {
         "title": "Filter results or do a search",
