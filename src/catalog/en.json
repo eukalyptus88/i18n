@@ -1622,7 +1622,7 @@
         "box-total-title": "Total",
         "box-subtitle-pending-indexing": "(pending indexing)",
         "box-footer-products": " of products",
-        "footer-update-date": "Update date",
+        "footer-last-update-date": "Last update date:",
         "active": "Active",
         "inactive": "Inactive",
         "table-header-status": "Status",
