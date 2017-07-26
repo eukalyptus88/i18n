@@ -1754,7 +1754,7 @@
     },
     "physical-stores-form": {
         "tab-header-text": "Physical Store",
-        "top-instructions": "Please fill in the information regarding the phyisical store",
+        "top-instructions": "Please fill in the information regarding the physical store",
         "required-field": "Required Field",
         "field-store-network": "Store Network",
         "field-name": "Name",
