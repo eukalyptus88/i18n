@@ -1746,5 +1746,23 @@
         "table-button-modify": "Alterar",
         "table-button-delete": "Excluir",
         "secondary-functions": "Funções Secundárias"
+    },
+    "physical-stores-form": {
+        "tab-header-text": "Loja Física",
+        "top-instructions": "Preencha as informações referentes à loja física",
+        "required-field": "Campo Obrigatório",
+        "field-store-network": "Rede de Lojas",
+        "field-name": "Nome",
+        "field-text": "Texto",
+        "field-latitude": "Latitude",
+        "field-longitude": "Longitude",
+        "field-address": "Endereço",
+        "field-identification-code": "Código Identificador",
+        "error-latitude-required": "O Campo Latitude é requerido!",
+        "error-latitude-invalid": "Valor de Latitude Inválido! (valores válidos -90.0 a 90.0)",
+        "error-longitude-required": "O Campo Longitude é requerido!",
+        "error-longitude-invalid": "Valor de Longitude Inválido! (Valores válidos -180.0 a 180.0)",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
     }
 }

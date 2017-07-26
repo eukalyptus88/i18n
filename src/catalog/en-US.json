@@ -1746,5 +1746,23 @@
         "table-button-modify": "Modify",
         "table-button-delete": "Delete",
         "secondary-functions": "Secondary Functions"
+    },
+    "physical-stores-form": {
+        "tab-header-text": "Physical Store",
+        "top-instructions": "Please fill in the information regarding the phyisical store",
+        "required-field": "Required Field",
+        "field-store-network": "Store Network",
+        "field-name": "Name",
+        "field-text": "Text",
+        "field-latitude": "Latitude",
+        "field-longitude": "Longitude",
+        "field-address": "Address",
+        "field-identification-code": "Identification Code",
+        "error-latitude-required": "Latitude is a required field!",
+        "error-latitude-invalid": "Invalid Latitude value! (must be between -90.0 ands 90.0)",
+        "error-longitude-required": "Longitude is a required field!",
+        "error-longitude-invalid": "Invalid Longitude value! (must be between -180.0 and 180.0)",
+        "button-save": "Save",
+        "button-back": "Back"
     }
 }
