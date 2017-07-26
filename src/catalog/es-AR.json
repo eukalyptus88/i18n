@@ -142,7 +142,8 @@
         "security-monitoring": "Monitoramento da Segurança",
         "reports-download": "Download de Relatórios",
         "let-me-know-report": "Demanda de Produtos/SKUs Esgotados",
-        "reviews": "Resenhas"
+        "reviews": "Resenhas",
+        "tags": "Controle de Palavras (tags)"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
