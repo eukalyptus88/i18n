@@ -232,7 +232,7 @@
     "address": {
         "button-add-edit-address": "Incluir ou Alterar Endereço",
         "associated-addresses": "Endereços Associados",
-        "no-associated-addressess": "Não existem endereços associados"
+        "no-associated-addresses": "Não existem endereços associados"
     },
     "skuForm": {
         "yes": "Sim",
