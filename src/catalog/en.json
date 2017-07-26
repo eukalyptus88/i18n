@@ -1711,5 +1711,22 @@
         "secondary-functions": "Secondary Functions",
         "yes": "Yes",
         "no": "No"
+    },
+    "tags-page": {
+        "title": "Tags Control",
+        "caption-list-tags": "List of Tags",
+        "filter-approved": "Approved",
+        "filter-approved-yes": "Yes",
+        "filter-approved-no": "No",
+        "filter-tag": "Tag",
+        "filter-disable": "Disable",
+        "filter-enable": "Enable",
+        "table-header-tag": "Tag",
+        "table-header-approved": "Approved",
+        "table-header-edit": "Edit",
+        "tags-found": "Tags found: ",
+        "no-tags-found": "No tags found",
+        "secondary-functions": "Secondary Functions",
+        "button-delete": "Delete"
     }
 }

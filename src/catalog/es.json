@@ -1711,5 +1711,22 @@
         "secondary-functions": "Funções Secundárias",
         "yes": "Sim",
         "no": "Não"
+    },
+    "tags-page": {
+        "title": "Controle de Tags",
+        "caption-list-tags": "Lista de Tags",
+        "filter-approved": "Aprovado",
+        "filter-approved-yes": "Sim",
+        "filter-approved-no": "Não",
+        "filter-tag": "Tag",
+        "filter-disable": "Desativar",
+        "filter-enable": "Ativar",
+        "table-header-tag": "Tag",
+        "table-header-approved": "Aprovado",
+        "table-header-edit": "Editar",
+        "tags-found": "Tags encontradas: ",
+        "no-tags-found": "Nenhuma tag encontrada",
+        "secondary-functions": "Funções Secundárias",
+        "button-delete": "Excluir"
     }
 }
