@@ -1731,7 +1731,7 @@
         "button-delete": "Excluir"
     },
     "physical-stores-page": {
-        "title": "Lojas - Administração de lojas fisicas",
+        "title": "Lojas - Administração de lojas físicas",
         "button-new-store": "Nova Loja",
         "table-header-id": "Id",
         "table-header-type": "Tipo",
