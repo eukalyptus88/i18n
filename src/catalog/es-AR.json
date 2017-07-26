@@ -140,7 +140,8 @@
         "file-types": "Tipos de Arquivo",
         "edit-file-type": "Editar Tipo de Arquivo",
         "security-monitoring": "Monitoramento da Segurança",
-        "reports-download": "Download de Relatórios"
+        "reports-download": "Download de Relatórios",
+        "let-me-know-report": "Demanda de Produtos/SKUs Esgotados"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
