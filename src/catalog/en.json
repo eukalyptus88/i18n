@@ -143,7 +143,8 @@
         "reports-download": "Reports Download",
         "let-me-know-report": "Sold-Out Products/SKUs Demand",
         "reviews": "Reviews",
-        "tags": "Tag Control"
+        "tags": "Tag Control",
+        "physical-stores": "Physical Stores - Component"
     },
     "filter": {
         "title": "Filter results or do a search",

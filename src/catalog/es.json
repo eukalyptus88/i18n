@@ -143,7 +143,8 @@
         "reports-download": "Download de Relatórios",
         "let-me-know-report": "Demanda de Produtos/SKUs Esgotados",
         "reviews": "Resenhas",
-        "tags": "Controle de Palavras (tags)"
+        "tags": "Controle de Palavras (tags)",
+        "physical-stores": "Lojas Físicas - Componente"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
