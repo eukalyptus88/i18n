@@ -1106,7 +1106,7 @@
         "table-header-cost": "Cost",
         "table-header-edit": "Edit",
         "table-button-edit": "Edit",
-        "table-button-dropdown-delete": "Remove",
+        "button-delete": "Remove",
         "label-skus-found": "SKUs Found:",
         "caption-sku-service-values": "SKU Service Values",
         "secondary-functions": "Secondary Functions",

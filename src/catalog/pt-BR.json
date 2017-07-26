@@ -1106,7 +1106,7 @@
         "table-header-cost": "Custo",
         "table-header-edit": "Editar",
         "table-button-edit": "Alterar",
-        "table-button-dropdown-delete": "Excluir",
+        "button-delete": "Excluir",
         "label-skus-found": "SKUs Encontrados:",
         "caption-sku-service-values": "Valores de Serviço SKU",
         "secondary-functions": "Funções Secundárias",
