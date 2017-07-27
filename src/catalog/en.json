@@ -147,7 +147,9 @@
         "physical-stores": "Physical Stores - Component",
         "add-physical-store": "Add Physical Store - Component",
         "edit-physical-store": "Edit Physical Store - Component",
-        "specialists": "Specialists"
+        "specialists": "Specialists",
+        "add-specialist": "Add Specialist",
+        "edit-specialist": "Edit Specialist"
     },
     "filter": {
         "title": "Filter results or do a search",
