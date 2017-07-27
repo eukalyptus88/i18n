@@ -1907,5 +1907,17 @@
         "button-delete": "Delete",
         "secondary-functions": "Secondary Functions",
         "no-registered-specialists": "There are no registered Specialists"
+    },
+    "specialist-form": {
+        "title": "Specialist",
+        "top-instructions": "Please fill in the information regarding the Specialist",
+        "required-field": "Required Field",
+        "field-name": "Name",
+        "field-site": "Site",
+        "field-file": "File",
+        "field-file-instructions": "Insert the brand logo, the institutional image of the brand, and the expandable background image here",
+        "checkbox-active": "Active",
+        "button-save": "Save",
+        "button-back": "Back"
     }
 }

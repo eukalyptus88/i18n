@@ -1907,5 +1907,17 @@
         "button-delete": "Excluir",
         "secondary-functions": "Funções Secundárias",
         "no-registered-specialists": "Não existem Especialistas cadastrados"
+    },
+    "specialist-form": {
+        "title": "Especialista",
+        "top-instructions": "Preencha as informações referentes ao Especialista",
+        "required-field": "Campo Obrigatório",
+        "field-name": "Nome",
+        "field-site": "Site",
+        "field-file": "Arquivo",
+        "field-file-instructions": "Insira aqui a logomarca da marca, a imagem institucional da marca, e a imagem de fundo expansível desta imagem.",
+        "checkbox-active": "Ativo",
+        "button-save": "Salvar",
+        "button-back": "Voltar"
     }
 }
