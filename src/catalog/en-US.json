@@ -235,6 +235,25 @@
         "associated-addresses": "Associated Addresses",
         "no-associated-addresses": "There are no associated addresses"
     },
+    "file": {
+        "button-add-new": "Add new",
+        "files-found": " files found",
+        "pagination-first": "First",
+        "pagination-previous": "Previous",
+        "pagination-next": "Next",
+        "pagination-last": "Last",
+        "table-header-file-image-preview": "File / Image (Preview)",
+        "table-header-name": "Name",
+        "table-header-type": "Type",
+        "table-header-edit": "Edit",
+        "table-header-related-file": "Related File",
+        "text-file": "Text file",
+        "secondary-functions": "Secondary Functions",
+        "button-modify": "Modify",
+        "button-remove": "Remove",
+        "error-no-registered-files": "No files found",
+        "required-field-warning": "This field is required."
+    },
     "skuForm": {
         "yes": "Yes",
         "no": "No",

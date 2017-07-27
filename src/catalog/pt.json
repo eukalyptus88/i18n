@@ -235,6 +235,25 @@
         "associated-addresses": "Endereços Associados",
         "no-associated-addresses": "Não existem endereços associados"
     },
+    "file": {
+        "button-add-new": "Inserir",
+        "files-found": " arquivos encontrados",
+        "pagination-first": "Primeiro",
+        "pagination-previous": "Anterior",
+        "pagination-next": "Próximo",
+        "pagination-last": "Último",
+        "table-header-file-image-preview": "Arquivo / Imagem (Preview)",
+        "table-header-name": "Nome",
+        "table-header-type": "Tipo",
+        "table-header-edit": "Editar",
+        "table-header-related-file": "Arquivo Relacionado",
+        "text-file": "Arquivo texto",
+        "secondary-functions": "Funções Secundárias",
+        "button-modify": "Alterar",
+        "button-remove": "Retirar",
+        "error-no-registered-files": "Nenhum arquivo cadastrado",
+        "required-field-warning": "O preenchimento deste campo é obrigatório."
+    },
     "skuForm": {
         "yes": "Sim",
         "no": "No",
