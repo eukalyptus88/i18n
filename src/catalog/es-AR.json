@@ -146,7 +146,8 @@
         "tags": "Controle de Palavras (tags)",
         "physical-stores": "Lojas Físicas - Componente",
         "add-physical-store": "Adicionar Loja Física - Componente",
-        "edit-physical-store": "Editar Loja Física - Componente"
+        "edit-physical-store": "Editar Loja Física - Componente",
+        "specialists": "Especialistas"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",

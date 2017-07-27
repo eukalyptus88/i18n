@@ -146,7 +146,8 @@
         "tags": "Tag Control",
         "physical-stores": "Physical Stores - Component",
         "add-physical-store": "Add Physical Store - Component",
-        "edit-physical-store": "Edit Physical Store - Component"
+        "edit-physical-store": "Edit Physical Store - Component",
+        "specialists": "Specialists"
     },
     "filter": {
         "title": "Filter results or do a search",
