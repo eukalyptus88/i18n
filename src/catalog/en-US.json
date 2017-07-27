@@ -1770,5 +1770,20 @@
         "error-longitude-invalid": "Invalid Longitude value! (must be between -180.0 and 180.0)",
         "button-save": "Save",
         "button-back": "Back"
+    },
+    "specialist-page": {
+        "title": "Specialist - Specialists Administration",
+        "button-new-specialist": "New Specialist",
+        "caption-list-registered-specialists": "List of registered specialists",
+        "table-header-name": "Name",
+        "table-header-site": "Site",
+        "table-header-status": "Status",
+        "table-header-edit": "Edit",
+        "table-value-active": "Active",
+        "table-value-inactive": "Inactive",
+        "button-modify": "Modify",
+        "button-delete": "Delete",
+        "secondary-functions": "Secondary Functions",
+        "no-registered-specialists": "There are no registered Specialists"
     }
 }

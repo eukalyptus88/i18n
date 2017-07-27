@@ -1770,5 +1770,20 @@
         "error-longitude-invalid": "Valor de Longitude Inválido! (Valores válidos -180.0 a 180.0)",
         "button-save": "Salvar",
         "button-back": "Voltar"
+    },
+    "specialist-page": {
+        "title": "Especialista - Administração de Especialistas",
+        "button-new-specialist": "Novo Especialista",
+        "caption-list-registered-specialists": "Lista de especialistas cadastrados",
+        "table-header-name": "Nome",
+        "table-header-site": "Site",
+        "table-header-status": "Status",
+        "table-header-edit": "Editar",
+        "table-value-active": "Ativo",
+        "table-value-inactive": "Inativo",
+        "button-modify": "Alterar",
+        "button-delete": "Excluir",
+        "secondary-functions": "Funções Secundárias",
+        "no-registered-specialists": "Não existem Especialistas cadastrados"
     }
 }
