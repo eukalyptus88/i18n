@@ -1772,7 +1772,17 @@
         "type-tooltip": "View list type details",
         "list-purchases": "Purchases List",
         "list-purchases-tooltip": "List all purchases for this List",
-        "no-items": "There are no featured listings with selected filters"
+        "no-items": "There are no featured listings with selected filters",
+        "active": "active",
+        "inactive": "inactive",
+        "private": "private",
+        "expired": "expired",
+        "to-buyer": "to buyer",
+        "to-owner": "to owner",
+        "voucher": "voucher: ",
+        "no-voucher-found": "no voucher found!",
+        "manage": "Manage - ",
+        "view-as-criator": "View List as a Creator - This link will expire in 10 minutes"
     },
     "index-report-page": {
         "title": "Indexed Products Report",

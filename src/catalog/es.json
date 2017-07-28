@@ -1772,7 +1772,17 @@
         "tipo-tooltip": "Ver detalhes do tipo de lista",
         "list-purchases": "Listar Compras",
         "list-purchases-tooltip": "Listar todas as compras para esta Lista",
-        "no-items":"Não existem listas cadastradas com os filtros selecionados"
+        "no-items":"Não existem listas cadastradas com os filtros selecionados",
+        "active": "ativa",
+        "inactive": "inativa",
+        "private": "privada",
+        "expired": "expirada",
+        "to-buyer": "ao comprador",
+        "to-owner": "ao dono",
+        "voucher": "vale compras: ",
+        "no-voucher-found": "vale não encntrado!",
+        "manage": "Gerenciar - ",
+        "view-as-criator": "Ver a Lista autenticado como o criador - Este link vai expirar em 10 minutos"
     },
     "index-report-page": {
         "title": "Relatório de Produtos Indexados",
