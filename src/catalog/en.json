@@ -1953,5 +1953,23 @@
         "checkbox-active": "Active",
         "button-save": "Save",
         "button-back": "Back"
+    },
+    "sku-seller": {
+        "title": "Seller SKU List",
+        "new": "New Seller SKU",
+        "export-to-excel": "Export to excel",
+        "export-to-excel-tooltip": "Export records to an excel file",
+        "items-found": "Seller SKUs Found: ",
+        "table-id": "ID",
+        "table-seller": "Seller",
+        "table-product": "Product",
+        "table-sku": "SKU",
+        "table-seller-sku-id": "Seller SkuId",
+        "table-is-bound": "Bound?",
+        "table-actions": "Actions",
+        "notice": "Notice",
+        "bind-to-another-sku": "Link to other SKU",
+        "remove": "Remove",
+        "no-items": "No Seller SKU Found"
     }
 }

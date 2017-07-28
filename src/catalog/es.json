@@ -1953,5 +1953,23 @@
         "checkbox-active": "Ativo",
         "button-save": "Salvar",
         "button-back": "Voltar"
+    },
+    "sku-seller": {
+        "title": "Lista de SkuSellers",
+        "new": "Novo SkuSeller",
+        "export-to-excel": "Exportar para Excel",
+        "export-to-excel-tooltip": "Exportar registros para um arquivo Excel",
+        "items-found": "SkuSellers encontrados: ",
+        "table-id": "ID",
+        "table-seller": "Seller",
+        "table-product": "Produto",
+        "table-sku": "SKU",
+        "table-seller-sku-id": "Seller SkuId",
+        "table-is-bound": "Vinculado?",
+        "table-actions": "Ações",
+        "notice": "Aviso",
+        "bind-to-another-sku": "Associar a outro SKU",
+        "remove": "Excluir",
+        "no-items": "Nenhum SkuSeller encontrado"
     }
 }
