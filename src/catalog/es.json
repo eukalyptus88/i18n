@@ -1981,6 +1981,11 @@
         "notice": "Aviso",
         "bind-to-another-sku": "Associar a outro SKU",
         "remove": "Excluir",
-        "no-items": "Nenhum SkuSeller encontrado"
+        "no-items": "Nenhum SkuSeller encontrado",
+        "bind": "Vincular",
+        "unbind": "Desvincular",
+        "impossible-bind-sku": "Não é possível vincular o Sku ao Seller ",
+        "impossible-bind-sku-1": "pois já existe um item vinculado para o mesmo SellerId e SellerStockKeepingUnitId.",
+        "unique-key-constraint": "Violação de chave composta única: "
     }
 }

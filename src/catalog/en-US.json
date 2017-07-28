@@ -1981,6 +1981,11 @@
         "notice": "Notice",
         "bind-to-another-sku": "Link to other SKU",
         "remove": "Remove",
-        "no-items": "No Seller SKU Found"
+        "no-items": "No Seller SKU Found",
+        "bind": "Bind",
+        "unbind": "Unbind",
+        "impossible-bind-sku": "It is not possible to bind the SKU to the Seller ",
+        "impossible-bind-sku-1": "because already exists an item bound to the same SellerId and SellerStockKeepingUnitId.",
+        "unique-key-constraint": "Unique key constraint violation: "
     }
 }
