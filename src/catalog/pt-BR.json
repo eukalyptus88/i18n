@@ -149,7 +149,10 @@
         "edit-physical-store": "Editar Loja Física - Componente",
         "specialists": "Especialistas",
         "add-specialist": "Adicionar Especialista",
-        "edit-specialist": "Editar Especialista"
+        "edit-specialist": "Editar Especialista",
+        "marketplace": "Marketplace",
+        "sku-seller": "SkuSellers",
+        "sku-seller-form": "SkuSeller Form"
     },
     "filter": {
         "title": "Filtrar resultados ou fazer uma busca",
