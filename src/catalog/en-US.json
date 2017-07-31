@@ -1990,7 +1990,7 @@
     },
     "sku-seller-form": {
         "title": "SkuSeller",
-        "top-warning": "This feature is deprecated. Every new SKUSeller must be inserted through the Suggestion module. Learn more in our documentation: <a href='http://help.vtex.com/en/tutorial/approving-suggestions-for-skus' target='_blank' />",
+        "top-warning": "This feature is deprecated. Every new SKUSeller must be inserted through the Suggestion module. Learn more in our <a href='http://help.vtex.com/en/tutorial/approving-suggestions-for-skus' target='_blank'>documentation</a>.",
         "field-seller": "Seller",
         "field-store": "Store",
         "field-sku": "SKU",

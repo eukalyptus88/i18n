@@ -1990,7 +1990,7 @@
     },
     "sku-seller-form": {
         "title": "SkuSeller",
-        "top-warning": "Esta funcionalidade está obsoleta. Todo novo SKUSeller deve ser inserido por meio do módulo Suggestion. Saiba mais em nossa documentação: <a href='http://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus' target='_blank' />",
+        "top-warning": "Esta funcionalidade está obsoleta. Todo novo SKUSeller deve ser inserido por meio do módulo Suggestion. Saiba mais em nossa <a href='http://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus' target='_blank'>documentação</a>.",
         "field-seller": "Seller",
         "field-store": "Store",
         "field-sku": "SKU",
