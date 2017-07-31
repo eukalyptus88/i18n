@@ -458,6 +458,14 @@
         },
         "productSpecification": {
             "defaultValueTooltip": "Valor Padron: Este valor será atribuido a este campo si el mismo no fuera completado"
+        },
+        "header": {
+            "warning-development": "ATENÇÃO: VOCÊ ESTÁ EM UM AMBIENTE DE <strong style='color:#ff0000;'>DESENVOLVIMENTO</strong>, CADASTRE SOMENTE TESTES.",
+            "warning-beta": "ATENÇÃO: ESSE AMBIENTE BETA ESTÁ MODIFICANDO DADOS DE <strong style='color:#ff0000;'>PRODUÇÃO</strong>",
+            "click-to-access-site": "Clique aqui para acessar o seu site"
+        },
+        "footer": {
+            "copyright": "VTEX Copyright © 2006-"
         }
     },
     "product": {

@@ -404,17 +404,17 @@
     "control": {
         "category": {
             "selectCategory": "Select Category",
-            "clearSelection": "Clear seleção",
+            "clearSelection": "Clear selection",
             "requiredField": "<li class=\"error\">Required Field </li>"
         },
-        "coniversor": {
+        "conversor": {
             "label-1": "converting ->",
             "label-2": "Only Numbers",
             "label-3": "grams",
             "label-4": "centimeters",
             "message-1": "Required",
             "message-2": "Invalid Field. Please fill only with numbers",
-            "message-3": "Invalid Value Field",
+            "message-3": "Invalid Value",
             "message-4": "The Value must be higher than or equal to ",
             "message-5": " The Value must be higher than ",
             "message-6": " The Value must be lower than or equal to ",
@@ -425,7 +425,7 @@
             "message-incorrect-format": "Invalid Date (dd/mm/yyyy)"
         },
         "generic-table": {
-            "actual-selection": "Current Slectionl",
+            "actual-selection": "Current Selection",
             "advanced-search": "Advanced Search ",
             "add": "Add",
             "remove": "Remove",
@@ -433,7 +433,7 @@
             "text-to": "untill",
             "text-selections": "selections",
             "text-filter": " Brand filter",
-            "message-1": "The current collection is too large. \n In case you click on the Advanced Search button your data will be lost and they will have to be registered again. \n It’s Suggested to put all the items to import in a single text file to all be imported same time",
+            "message-1": "The current collection is too large. \n In case you click on the Advanced Search button your data will be lost and they will have to be registered again. \n It’s Suggested to import all the items in a single text file in order for all to be imported at the same time",
             "message-2": {
                 "part-1": "At least one ",
                 "part-2": "Must be selected"
@@ -458,6 +458,14 @@
         },
         "productSpecification": {
             "defaultValueTooltip": "Pattern Value: This value will be assigned to this field even if it’s not filled "
+        },
+        "header": {
+            "warning-development": "WARNING: YOU ARE IN A <strong style='color:#ff0000;'>DEVELOPMENT</strong> ENVIRONMENT, PLEASE REGISTER TESTS ONLY",
+            "warning-beta": "WARNING: THIS BETA ENVIRONMENT IS MODIFYING <strong style='color:#ff0000;'>PRODUCTION</strong> DATA",
+            "click-to-access-site": "Click here to access your site"
+        },
+        "footer": {
+            "copyright": "VTEX Copyright © 2006-"
         }
     },
     "product": {
