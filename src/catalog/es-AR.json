@@ -1987,5 +1987,15 @@
         "impossible-bind-sku": "Não é possível vincular o Sku ao Seller ",
         "impossible-bind-sku-1": "pois já existe um item vinculado para o mesmo SellerId e SellerStockKeepingUnitId.",
         "unique-key-constraint": "Violação de chave composta única: "
+    },
+    "sku-seller-form": {
+        "title": "SkuSeller",
+        "top-warning": "Esta funcionalidad está obsoleta. Todo nuevo SKUSeller debe insertarse a través del módulo Suggestion. Para saber más, lea nuestra documentación: <a href='http://help.vtex.com/es/tutorial/aprobacion-de-sugerencias-de-skus' target='_blank' />",
+        "field-seller": "Seller",
+        "field-store": "Store",
+        "field-sku": "SKU",
+        "field-seller-sku": "SKU do Seller",
+        "checkbox-active": "Ativo?",
+        "button-save": "Salvar"
     }
 }

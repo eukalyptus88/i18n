@@ -1987,5 +1987,15 @@
         "impossible-bind-sku": "It is not possible to bind the SKU to the Seller ",
         "impossible-bind-sku-1": "because already exists an item bound to the same SellerId and SellerStockKeepingUnitId.",
         "unique-key-constraint": "Unique key constraint violation: "
+    },
+    "sku-seller-form": {
+        "title": "SkuSeller",
+        "top-warning": "This feature is deprecated. Every new SKUSeller must be inserted through the Suggestion module. Learn more in our documentation: <a href='http://help.vtex.com/en/tutorial/approving-suggestions-for-skus' target='_blank' />",
+        "field-seller": "Seller",
+        "field-store": "Store",
+        "field-sku": "SKU",
+        "field-seller-sku": "Seller's SKU",
+        "checkbox-active": "Active?",
+        "button-save": "Save"
     }
 }
