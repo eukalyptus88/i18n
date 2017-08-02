@@ -24,79 +24,6 @@
         "table-header-client-data": "Client Data",
         "table-client-data-phone-number": "<strong>Phone number:</strong>"
     },
-    "control": {
-        "date": {
-            "message-required": "Required",
-            "message-incorrect-format": "Invalid Date (dd/mm/yyyy)"
-        },
-        "footer": {
-            "copyright": "VTEX Copyright © 2006-"
-        },
-        "header": {
-            "warning-beta": "WARNING: THIS BETA ENVIRONMENT IS MODIFYING <strong style='color:#ff0000;'>PRODUCTION</strong> DATA",
-            "warning-development": "WARNING: YOU ARE IN A <strong style='color:#ff0000;'>DEVELOPMENT</strong> ENVIRONMENT, PLEASE REGISTER TESTS ONLY",
-            "click-to-access-site": "Click here to access your site"
-        },
-        "category": {
-            "requiredField": "<li class=\"error\">Required Field </li>",
-            "clearSelection": "Clear selection",
-            "selectCategory": "Select Category"
-        },
-        "txtGeral": {
-            "message-requiered": "Required"
-        },
-        "conversor": {
-            "label-1": "converting ->",
-            "label-2": "Only Numbers",
-            "label-3": "grams",
-            "label-4": "centimeters",
-            "message-1": "Required",
-            "message-2": "Invalid Field. Please fill only with numbers",
-            "message-3": "Invalid Value",
-            "message-4": "The Value must be higher than or equal to ",
-            "message-5": " The Value must be higher than ",
-            "message-6": " The Value must be lower than or equal to ",
-            "message-7": " The Value must be lower than "
-        },
-        "pagination": {
-            "last": "Last",
-            "next": "Next",
-            "first": "First",
-            "previous": "Previous"
-        },
-        "integerText": {
-            "required": "Required",
-            "formatInvalid": "Invalid Field. Please fill only with numbers",
-            "numberInvalid": "Number invalid or reaches maximum allowed value"
-        },
-        "generic-table": {
-            "add": "Add",
-            "remove": "Remove",
-            "text-to": "untill",
-            "message-1": "The current collection is too large. \n In case you click on the Advanced Search button your data will be lost and will have to be registered again. \n It’s Suggested to import all the items in a single text file in order for all to be imported at the same time",
-            "message-2": {
-                "part-1": "At least one ",
-                "part-2": "Must be selected"
-            },
-            "message-3": {
-                "part-1": "Only registered ",
-                "part-2": "values."
-            },
-            "message-4": "Typed name couldn’t be found ",
-            "message-5": "Typed name obtained more than one result ",
-            "message-6": " Field cannot be empty, fill with text to be searched ",
-            "message-7": "Item Added",
-            "message-8": "Fail to access SKU service cookie ",
-            "text-filter": " Brand filter",
-            "advanced-search": "Advanced Search ",
-            "text-selections": "selections",
-            "actual-selection": "Current Selection",
-            "text-just-one-selection": "(Only 1 selection)"
-        },
-        "productSpecification": {
-            "defaultValueTooltip": "Pattern Value: This value will be assigned to this field even if it’s not filled "
-        }
-    },
     "store-texts-page": {
         "title-1": "Store Texts",
         "title-2": "Important Texts",
@@ -1421,6 +1348,80 @@
         "template-permitted-values": "Permitted Values",
         "field-required-attachment-warning": "Attachment required",
         "template-maximum-number-characters": "Maximum Number of Characters"
+    },
+    "control": {
+        "date": {
+            "message-required": "Required",
+            "message-incorrect-format": "Invalid Date (dd/mm/yyyy)"
+        },
+        "footer": {
+            "copyright": "VTEX Copyright © 2006-"
+        },
+        "header": {
+            "warning-beta": "WARNING: THIS BETA ENVIRONMENT IS MODIFYING <strong style='color:#ff0000;'>PRODUCTION</strong> DATA",
+            "warning-development": "WARNING: YOU ARE IN A <strong style='color:#ff0000;'>DEVELOPMENT</strong> ENVIRONMENT, PLEASE REGISTER TESTS ONLY",
+            "click-to-access-site": "Click here to access your site"
+        },
+        "category": {
+            "requiredField": "<li class=\"error\">Required Field </li>",
+            "clearSelection": "Clear selection",
+            "selectCategory": "Select Category",
+            "search-category": "Search category"
+        },
+        "txtGeral": {
+            "message-requiered": "Required"
+        },
+        "conversor": {
+            "label-1": "converting ->",
+            "label-2": "Only Numbers",
+            "label-3": "grams",
+            "label-4": "centimeters",
+            "message-1": "Required",
+            "message-2": "Invalid Field. Please fill only with numbers",
+            "message-3": "Invalid Value",
+            "message-4": "The Value must be higher than or equal to ",
+            "message-5": " The Value must be higher than ",
+            "message-6": " The Value must be lower than or equal to ",
+            "message-7": " The Value must be lower than "
+        },
+        "pagination": {
+            "last": "Last",
+            "next": "Next",
+            "first": "First",
+            "previous": "Previous"
+        },
+        "integerText": {
+            "required": "Required",
+            "formatInvalid": "Invalid Field. Please fill only with numbers",
+            "numberInvalid": "Number invalid or reaches maximum allowed value"
+        },
+        "generic-table": {
+            "add": "Add",
+            "remove": "Remove",
+            "text-to": "untill",
+            "message-1": "The current collection is too large. \n In case you click on the Advanced Search button your data will be lost and will have to be registered again. \n It’s Suggested to import all the items in a single text file in order for all to be imported at the same time",
+            "message-2": {
+                "part-1": "At least one ",
+                "part-2": "Must be selected"
+            },
+            "message-3": {
+                "part-1": "Only registered ",
+                "part-2": "values."
+            },
+            "message-4": "Typed name couldn’t be found ",
+            "message-5": "Typed name obtained more than one result ",
+            "message-6": " Field cannot be empty, fill with text to be searched ",
+            "message-7": "Item Added",
+            "message-8": "Fail to access SKU service cookie ",
+            "text-filter": " Brand filter",
+            "advanced-search": "Advanced Search ",
+            "text-selections": "selections",
+            "actual-selection": "Current Selection",
+            "text-just-one-selection": "(Only 1 selection)"
+        },
+        "productSpecification": {
+            "defaultValueTooltip": "Pattern Value: This value will be assigned to this field even if it’s not filled "
+        }
     },
     "sku-service-value-form": {
         "title": "Table of Service Values",

@@ -24,79 +24,6 @@
         "table-header-client-data": "Datos de cliente",
         "table-client-data-phone-number": "<strong>Teléfono:</strong>"
     },
-    "control": {
-        "date": {
-            "message-required": "Obligatorio",
-            "message-incorrect-format": "Fecha inválida. Use el formato dd/mm/aaaa"
-        },
-        "footer": {
-            "copyright": "VTEX Copyright © 2006-"
-        },
-        "header": {
-            "warning-beta": "ATENCION: ESTE AMBIENTE BETA ESTÁ MODIFICANDO DATOS DE <strong style='color:#ff0000;'>PRODUCCION</strong>",
-            "warning-development": "ATENCION: SE ENCUENTRA EN UN AMBIENTE DE <strong style='color:#ff0000;'>DESARROLLO</strong>, REGISTRE SOLAMENTE PRUEBAS.",
-            "click-to-access-site": "Haga click aquí para acceder a si tienda"
-        },
-        "category": {
-            "requiredField": "<li class=\"error\">Campo obligatorio</li>",
-            "clearSelection": "Limpiar selección",
-            "selectCategory": "Seleccionar categoría"
-        },
-        "txtGeral": {
-            "message-requiered": "Obligatorio"
-        },
-        "conversor": {
-            "label-1": "convirtiendo ->",
-            "label-2": "Solo números",
-            "label-3": "gramos",
-            "label-4": "centímetros",
-            "message-1": "Obligatorio",
-            "message-2": "Campo inválido. Complete solo con números.",
-            "message-3": "Campo con valor inválido.",
-            "message-4": "El valor debe ser mayor o igual a",
-            "message-5": "El valor debe ser mayor que",
-            "message-6": "El valor debe ser menor o igual a",
-            "message-7": "El valor debe ser menor que"
-        },
-        "pagination": {
-            "last": "Última",
-            "next": "Siguiente",
-            "first": "Primera",
-            "previous": "Anterior"
-        },
-        "integerText": {
-            "required": "Obligatorio",
-            "formatInvalid": "Campo inválido. Completar solo con números.",
-            "numberInvalid": "El número ingresado es invalido o sobrepasa el valor permitido."
-        },
-        "generic-table": {
-            "add": "Agregar",
-            "remove": "Eliminar",
-            "text-to": "hasta",
-            "message-1": "La colección actual es muy grande. En caso que haga click en \"Búsqueda Avanzada\", sus datos seran perdidos y deberán ser registrados nuevamente.\n Se sugiere colocar todos los items para la importación en un único archivo de texto para que todos sean importados al mismo tiempo",
-            "message-2": {
-                "part-1": "Al menos uno",
-                "part-2": "debe ser seleccionado."
-            },
-            "message-3": {
-                "part-1": "Solo está permitido registrar",
-                "part-2": "valor(es)."
-            },
-            "message-4": "El nombre ingresado no fue encontrado",
-            "message-5": "El nombre ingresado obtuvo mas de un resultado",
-            "message-6": "El campo no puede estar vacío, complete con el texto a ser buscado.",
-            "message-7": "Item agregado",
-            "message-8": "Falla al ingresar cookie del Tipo de Servicio del SKU",
-            "text-filter": "Filtro por marca",
-            "advanced-search": "Búsqueda avanzada",
-            "text-selections": "selecciones",
-            "actual-selection": "Selección actual",
-            "text-just-one-selection": "(solo 1 selección)"
-        },
-        "productSpecification": {
-            "defaultValueTooltip": "Valor default: Este valor será asignado a este campo si el mismo no fuera completado"
-        }
-    },
     "store-texts-page": {
         "title-1": "Textos de la tienda",
         "title-2": "Textos importantes",
@@ -1421,6 +1348,80 @@
         "template-permitted-values": "Valores permitidos",
         "field-required-attachment-warning": "Convierte el anexo en obligatorio",
         "template-maximum-number-characters": "Máximo de caracteres"
+    },
+    "control": {
+        "date": {
+            "message-required": "Obligatorio",
+            "message-incorrect-format": "Fecha inválida. Use el formato dd/mm/aaaa"
+        },
+        "footer": {
+            "copyright": "VTEX Copyright © 2006-"
+        },
+        "header": {
+            "warning-beta": "ATENCION: ESTE AMBIENTE BETA ESTÁ MODIFICANDO DATOS DE <strong style='color:#ff0000;'>PRODUCCION</strong>",
+            "warning-development": "ATENCION: SE ENCUENTRA EN UN AMBIENTE DE <strong style='color:#ff0000;'>DESARROLLO</strong>, REGISTRE SOLAMENTE PRUEBAS.",
+            "click-to-access-site": "Haga click aquí para acceder a si tienda"
+        },
+        "category": {
+            "requiredField": "<li class=\"error\">Campo obligatorio</li>",
+            "clearSelection": "Limpiar selección",
+            "selectCategory": "Seleccionar categoría",
+            "search-category": "Buscar categoria"
+        },
+        "txtGeral": {
+            "message-requiered": "Obligatorio"
+        },
+        "conversor": {
+            "label-1": "convirtiendo ->",
+            "label-2": "Solo números",
+            "label-3": "gramos",
+            "label-4": "centímetros",
+            "message-1": "Obligatorio",
+            "message-2": "Campo inválido. Complete solo con números.",
+            "message-3": "Campo con valor inválido.",
+            "message-4": "El valor debe ser mayor o igual a",
+            "message-5": "El valor debe ser mayor que",
+            "message-6": "El valor debe ser menor o igual a",
+            "message-7": "El valor debe ser menor que"
+        },
+        "pagination": {
+            "last": "Última",
+            "next": "Siguiente",
+            "first": "Primera",
+            "previous": "Anterior"
+        },
+        "integerText": {
+            "required": "Obligatorio",
+            "formatInvalid": "Campo inválido. Completar solo con números.",
+            "numberInvalid": "El número ingresado es invalido o sobrepasa el valor permitido."
+        },
+        "generic-table": {
+            "add": "Agregar",
+            "remove": "Eliminar",
+            "text-to": "hasta",
+            "message-1": "La colección actual es muy grande. En caso que haga click en \"Búsqueda Avanzada\", sus datos seran perdidos y deberán ser registrados nuevamente.\n Se sugiere colocar todos los items para la importación en un único archivo de texto para que todos sean importados al mismo tiempo",
+            "message-2": {
+                "part-1": "Al menos uno",
+                "part-2": "debe ser seleccionado."
+            },
+            "message-3": {
+                "part-1": "Solo está permitido registrar",
+                "part-2": "valor(es)."
+            },
+            "message-4": "El nombre ingresado no fue encontrado",
+            "message-5": "El nombre ingresado obtuvo mas de un resultado",
+            "message-6": "El campo no puede estar vacío, complete con el texto a ser buscado.",
+            "message-7": "Item agregado",
+            "message-8": "Falla al ingresar cookie del Tipo de Servicio del SKU",
+            "text-filter": "Filtro por marca",
+            "advanced-search": "Búsqueda avanzada",
+            "text-selections": "selecciones",
+            "actual-selection": "Selección actual",
+            "text-just-one-selection": "(solo 1 selección)"
+        },
+        "productSpecification": {
+            "defaultValueTooltip": "Valor default: Este valor será asignado a este campo si el mismo no fuera completado"
+        }
     },
     "sku-service-value-form": {
         "title": "Lista de valores de servicios",
