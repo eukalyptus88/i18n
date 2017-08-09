@@ -1,6 +1,6 @@
 {
   "name": "i18n",
-  "version": "0.1.129",
+  "version": "0.1.130",
   "readmeFilename": "README.md",
   "description": "Translations dictionary for all VTEX applications",
   "main": "index.html",
