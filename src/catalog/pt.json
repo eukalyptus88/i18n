@@ -54,8 +54,38 @@
             "message-required": "Obrigatório",
             "message-incorrect-format": "Data Inválida (dd/mm/aaaa)"
         },
+        "file": {
+            "main": "Principal",
+            "insert": "Inserir",
+            "remove": "Retirar",
+            "required": "Obrigatório",
+            "associate": "Associar a imagens existentes",
+            "form-file": "Arquivo<span class=\"obr\">*</span>",
+            "form-text": "Texto",
+            "save-text": "Salvar Texto",
+            "form-label": "Label",
+            "save-label": "Salvar Label",
+            "table-edit": "Editar",
+            "table-text": "Text: ",
+            "files-found": "Arquivos encontrados: ",
+            "form-button": "Enviar",
+            "link-images": "Associar imagens",
+            "skus-images": "Skus que possuem imagens",
+            "table-label": "Label: ",
+            "form-filetype": "TipoArquivo<span class=\"obr\">*</span>",
+            "all-images-replace": "(TODAS as imagens já existentes serão substituídas pelas imagens do SKU selecionado)",
+            "table-file-preview": "Arquivo/Imagem(Preview)",
+            "form-file-dimensions": "Dimensões do Arquivo",
+            "form-file-unit-width": "Unidade de Medida da Largura",
+            "form-file-unit-height": "Unidade de Medida da Altura",
+            "form-file-unit-pixels": "Pixels",
+            "table-name-label-link": "Nome / Label / Link",
+            "form-label-description": "Código utilizado para chamar essa imagem especifica em prateleiras ex.: (Verso,SemCaixa,ComManequim,Lateral)",
+            "form-file-dimensions-info": "Largura x Altura",
+            "form-file-unit-percentage": "Percentual"
+        },
         "footer": {
-            "copyright": "VTEX Copyright © 2006-"
+            "copyright": "VTEX Copyright © 2006 - "
         },
         "header": {
             "warning-beta": "ATENÇÃO: ESSE AMBIENTE BETA ESTÁ MODIFICANDO DADOS DE <strong style='color:#ff0000;'>PRODUÇÃO</strong>",
@@ -888,6 +918,7 @@
         }
     },
     "breadcrumb": {
+        "sku": "SKU",
         "home": "Página inicial",
         "tags": "Controle de Palavras (tags)",
         "lists": "Listas",
@@ -1140,8 +1171,10 @@
             "attachments-info": "Um anexo é utilizado para adicionar uma informação personalizada do comprador de um serviço ou do próprio item comprado.<br /><br />Exemplo:<br /><br />Item Comprado -> \"Camisa Oficial da Seleção Brasileira\"<br /><br />Nome do Anexo -> \"Personalizacao\"<br /><br />Chave 1 -> Nome da chave: \"Nome\", Máximo de caracteres permitido: 20<br />Chave 2 -> Nome da chave: \"Numero\", Valores permitidos: \"5,7,9,10,11\"<br /><br />Isso quer dizer que uma camisa oficial da seleção terá um anexo chamado \"Personalizacao\", obrigatório ou não, cujas chaves serão o \"Nome\" e o \"Numero\" a serem impressos na camisa comprada conforme a escolha do comprador. O comprador poderá digitar um nome de até 20 caracteres (poderá digitar um nome livre), mas terá que escolher entre os números 5, 7, 9, 10 e 11 (não poderá digitar os números que quiser).<br /><br />Caso queira cadastrar um novo anexo ainda não existente no sistema",
             "dinamic-price-kit": "Kit com preço dinamico",
             "activate-kit-alert": "Após selecionar esta opção e salvar o SKU, a mesma NÃO poderá ser desmarcada",
+            "generate-credit-no": "Não",
             "separated-item-kit": "Kit com itens vendidos separadamente",
             "dinamic-price-alert": "Selecionando essa opção, o valor de venda do kit será calculado somando o valor de venda de cada item do kit",
+            "generate-credit-yes": "Sim",
             "generate-credit-info": "Selecionar SIM somente no caso deste sku ser destinado a utilização na lista de eventos do tipo que gera créditos em vale compra.<br/>Atenção: a utilização incorreta deste campo irá prejudicar o processo normal de venda desse item.",
             "attachments-info-link": "clique aqui",
             "is-stock-availability": "Possui controle de estoque?",
@@ -1303,7 +1336,7 @@
     },
     "physical-stores-page": {
         "title": "Lojas - Administração de lojas físicas",
-        "table-header-id": "Id",
+        "table-header-id": "ID",
         "button-new-store": "Nova Loja",
         "table-header-edit": "Editar",
         "table-header-name": "Nome",
@@ -1989,5 +2022,32 @@
         "field-seller": "Seller",
         "checkbox-active": "Ativo?",
         "field-seller-sku": "SKU do Seller"
+    },
+    "sku": {
+        "new": "Novo SKU",
+        "info": "Para mudar a Ordem dos SKUs clique no ícone ",
+        "title": "Sku - Administração de Sku do Produto",
+        "info-1": " e arraste para a posição desejada.",
+        "sku-table-back": "Voltar",
+        "sku-table-copy": "Copiar",
+        "sku-table-edit": "Editar",
+        "sku-table-kits": "Kits",
+        "sku-table-name": "Nome",
+        "sku-table-alter": "Alterar",
+        "sku-table-status": "Status",
+        "sku-table-values": "Valores",
+        "sku-table-ean-ref": "EAN | REF",
+        "sku-table-exclude": "Excluir",
+        "sku-table-service": "Serviço",
+        "product-table-name": "Nome",
+        "sku-table-no-entry": "Nenhum SKU Cadastrado para este Produto",
+        "sku-table-position": "Posição",
+        "product-table-brand": "Marca",
+        "product-table-image": "Imagem",
+        "product-table-category": "Categoria",
+        "product-table-provider": "Fornecedor",
+        "sku-table-buy-together": "Compre Junto",
+        "sku-table-status-active": "Ativa",
+        "sku-table-status-inactive": "Inativa"
     }
 }

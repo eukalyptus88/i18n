@@ -54,8 +54,38 @@
             "message-required": "Required",
             "message-incorrect-format": "Invalid Date (dd/mm/yyyy)"
         },
+        "file": {
+            "main": "Main",
+            "insert": "Insert",
+            "remove": "Remove",
+            "required": "Required",
+            "associate": "Link to existing images",
+            "form-file": "File<span class=\"obr\">*</span>",
+            "form-text": "Text",
+            "save-text": "Save Text",
+            "form-label": "Label",
+            "save-label": "Save Label",
+            "table-edit": "Edit",
+            "table-text": "Text: ",
+            "files-found": "Archives Found: ",
+            "form-button": "Send",
+            "link-images": "Associate images",
+            "skus-images": "Skus that have images",
+            "table-label": "Label: ",
+            "form-filetype": "File Type<span class=\"obr\">*</span>",
+            "all-images-replace": "(ALL existing images will be replaced by the selected SKU images)",
+            "table-file-preview": "Archive/Image(Preview)",
+            "form-file-dimensions": "Archive Dimensions",
+            "form-file-unit-width": "Width Measurement Unit",
+            "form-file-unit-height": "Hight Measurement Unit",
+            "form-file-unit-pixels": "Pixels",
+            "table-name-label-link": "Name / Label / Link",
+            "form-label-description": "Code used to call this specific image on shelves ex: (Verse, Semi-Box, With Manikin, Side)",
+            "form-file-dimensions-info": "Width x Height",
+            "form-file-unit-percentage": "Percentage"
+        },
         "footer": {
-            "copyright": "VTEX Copyright © 2006-"
+            "copyright": "VTEX Copyright © 2006 - "
         },
         "header": {
             "warning-beta": "WARNING: THIS BETA ENVIRONMENT IS MODIFYING <strong style='color:#ff0000;'>PRODUCTION</strong> DATA",
@@ -148,23 +178,23 @@
         "template-maximum-number-characters": "Maximum Number of Characters"
     },
     "attachment-page": {
-        "title": "Administrator - Anhang Register für Dienstleistungen oder SKUs",
-        "enabled": "Aktiv",
-        "disabled": "Inaktiv",
-        "explanation": "",
+        "title": "Administrator - Attachment Register for Services and SKUs",
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "explanation": "<span class=\"alert warning\" style=\"float:left;clear:right\">An attachment is used to add custom information about the buyer of a service or the item purchased.<br /><br />Example:<br /><br />Item purchased -> \"Official Jersey of the Brazilian National Team\"<br /><br />Attachment Name -> \"Customization\"<br /><br />Key1 -> Key name: \"Name\", Maximum characters allowed: 20<br />Key2 -> Key name: \"Number\", Permitted values: \"5, 7, 9, 10, 11\"<br /><br />This means that an official jersey of the national team will have an attachment called \"Customization\", mandatory or not, whose keys will be \"Name\" and \"Number\", to be printed on the jersey bought according to the buyer's choice. The buyer can enter a name of up to 20 characters (any name they want), but they will have to choose between numbers 5, 7, 9, 10 and 11 (they will not be able to type any other number).",
         "filter-name": "Name",
         "table-header-id": "ID",
-        "attachments-found": "Anhänge gefunden:",
-        "table-header-edit": "Bearbeiten",
+        "attachments-found": "Attachments found:",
+        "table-header-edit": "Edit",
         "table-header-name": "Name",
-        "secondary-functions": "Sekundärfunktionen",
-        "table-button-modify": "Ändern",
+        "secondary-functions": "Secondary Functions",
+        "table-button-modify": "Modify",
         "table-header-status": "Status",
-        "table-option-delete": "Löschen",
-        "table-option-enable": "Aktivieren",
-        "table-option-disable": "Deaktivieren",
-        "button-new-attachment": "Neue Anhang",
-        "table-header-required": "Erforderlich"
+        "table-option-delete": "Delete",
+        "table-option-enable": "Enable",
+        "table-option-disable": "Disable",
+        "button-new-attachment": "New Attachment",
+        "table-header-required": "Required"
     },
     "sku-service-value-form": {
         "title": "Table of Service Values",
@@ -888,6 +918,7 @@
         }
     },
     "breadcrumb": {
+        "sku": "SKU",
         "home": "Home",
         "tags": "Tag Control",
         "lists": "Lists",
@@ -1050,7 +1081,7 @@
             "pre-sale-date": "Coming soon expected on",
             "show-together": "Show Together ",
             "reference-code": "Reference Code ",
-            "required-field": " Required flied",
+            "required-field": " Required field",
             "stock-visualize": "View Inventory (logistics)",
             "unit-multiplier": "Unit Multiplier ",
             "unit-measurement": "Measurement Unit ",
@@ -1065,7 +1096,7 @@
         "images": {
             "info": "SKU Images ",
             "label": "Images",
-            "alert-sku": "Before Registering images, it is necessary to fill all data of  <a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a>  and click on continue button \"Continuar\"",
+            "alert-sku": "Before Registering images, it is necessary to fill all data of  <a href=\"#\" onclick=\"showTab('#tabSku')\">SKU</a>  and click on continue button \"Continue\"",
             "info-small": "The Field <strong>\"Texto\"</strong> Will be used on features \"title\" e \"alt\" Of Image after Product Index."
         },
         "return": "Return",
@@ -1087,7 +1118,7 @@
                 "inactivate": {
                     "no": "No ",
                     "yes": "Yes ",
-                    "wouldYouLike": "Do you wish to inactivate this product and keep active only the associated one"
+                    "wouldYouLike": "Do you wish to deactivate this product and keep active only the associated one"
                 },
                 "product-name": "Product name: "
             },
@@ -1140,9 +1171,11 @@
             "attachments-info": "An Attachment is used to add custom information from customer of a service or of the purchased item <br /> <br /> Example:. <br /> <br /> Item Purchased -> \"Official shirt of the Brazilian team \"<br /> <br /> Attach name -> \" Custom \"<br /> <br /> key 1 -> key Name: \" name \"Maximum characters allowed: 20 <br / > key 2 -> key Name: \"Number \" allowed values: \"5,7,9,10,11 \" <br /> <br /> This means that an official shirt of the Brazilian Team will have an Attachment called \"Custom \", mandatory or not, whose keys are the \"name \" and \"Number \" to be printed on the shirt purchased as the customer's choice. The customer can enter a name up to 20 characters (you can enter a free name), but will have to choose between numbers 5, 7, 9, 10 and 11 (can not enter the numbers you want). <br /> <Br /> If you want to register a new Attachment not yet existing in the System",
             "dinamic-price-kit": "Dynamic Bundle Pricing ",
             "activate-kit-alert": "After selecting this option and saving SKU, it will not be possible to undo",
+            "generate-credit-no": "No",
             "separated-item-kit": "Bundles with separated SKUs selling ",
             "dinamic-price-alert": "If Selected, bundle will charge the sum of each SKU selling value",
-            "generate-credit-info": "Select YES only if this sku is intended for use in the List of events of the type that generates credits to gift cards <br/>. Caution: improper use of this field will undermine the normal process of selling this item.",
+            "generate-credit-yes": "Yes",
+            "generate-credit-info": "Select YES only if this sku is intended for use in the List of events of the type that generates credits to gift cards <br/>. Caution: Improper use of this field will undermine the normal process of selling this item.",
             "attachments-info-link": "Click here ",
             "is-stock-availability": "Has inventory Control?",
             "attachments-table-name": "Name",
@@ -1303,7 +1336,7 @@
     },
     "physical-stores-page": {
         "title": "Stores - Physical stores management",
-        "table-header-id": "Id",
+        "table-header-id": "ID",
         "button-new-store": "New Store",
         "table-header-edit": "Edit",
         "table-header-name": "Name",
@@ -1689,13 +1722,13 @@
         "table-header-edit": "Edit",
         "secondary-functions": "Secondary Functions",
         "button-new-xml-hover": "Create a new file",
-        "table-header-file-id": "XML File Id",
+        "table-header-file-id": "XML File ID",
         "table-header-file-name": "File Name",
         "table-header-url-hover": "Link used for generating and displaying the XML file",
         "caption-xml-models-list": "List of XML models for collection export",
         "table-edit-button-hover": "Modify this file",
         "table-header-edit-hover": "Actions regarding the file",
-        "table-header-collection-id": "Collection Id",
+        "table-header-collection-id": "Collection ID",
         "table-header-file-id-hover": "XML's unique Identification Number in the System",
         "table-header-collection-name": "Collection Name",
         "table-header-file-name-hover": "XML file name",
@@ -1989,5 +2022,32 @@
         "field-seller": "Seller",
         "checkbox-active": "Active?",
         "field-seller-sku": "Seller's SKU"
+    },
+    "sku": {
+        "new": "New SKU",
+        "info": "To change the Order of SKUs click on the ",
+        "title": "Sku - Product Sku Management",
+        "info-1": " icon and drag to the desired position.",
+        "sku-table-back": "Back",
+        "sku-table-copy": "Copy",
+        "sku-table-edit": "Edit",
+        "sku-table-kits": "Kits",
+        "sku-table-name": "Name",
+        "sku-table-Change": "Change",
+        "sku-table-status": "Status",
+        "sku-table-values": "Values",
+        "sku-table-ean-ref": "EAN | REF",
+        "sku-table-exclude": "Exclude",
+        "sku-table-service": "Service",
+        "product-table-name": "Name",
+        "sku-table-no-entry": "No SKU registered for this product",
+        "sku-table-position": "Position",
+        "product-table-brand": "Brand",
+        "product-table-image": "Image",
+        "product-table-category": "Category",
+        "product-table-provider": "Provider",
+        "sku-table-buy-together": "Buy together",
+        "sku-table-status-active": "Active",
+        "sku-table-status-inactive": "Inactive"
     }
 }
