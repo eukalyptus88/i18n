@@ -2026,7 +2026,7 @@
     "sku": {
         "new": "Novo SKU",
         "info": "Para mudar a Ordem dos SKUs clique no ícone ",
-        "title": "Sku - Administração de Sku do Produto",
+        "title": "Sku - Administração de Sku do Produto: ",
         "info-1": " e arraste para a posição desejada.",
         "sku-table-back": "Voltar",
         "sku-table-copy": "Copiar",
