@@ -748,6 +748,7 @@
         "create-date": "Creation Date",
         "purchase-id": "Purchase ID",
         "specific-id": "To find a specific id fill only the field labeled \"From\"",
+        "date-presale": "Pre-Sale Date",
         "installments": "In Installments or Installments",
         "not-in-stock": "Not in stock",
         "product-name": "Product Name",
@@ -761,6 +762,7 @@
         "up-to-40-items": "up to 40 items per page",
         "voucher-status": "Voucher Status",
         "purchase-status": "Purchase Status",
+        "telesales-agent": "Telesales Agent",
         "administrator-name": "Administrator's Name",
         "id-sku-marketplace": "SKU Id (Marketplace)",
         "clear-search-filters": "Clear search filters",
@@ -1191,6 +1193,7 @@
     "list-type-form": {
         "no": "No",
         "yes": "Yes",
+        "info": "Fill in the information for the new List Type<br />After <strong>creating</strong> a List of this Type, some settings can <strong>no</strong> longer be changed.",
         "title": "List Type",
         "form-back": "Back",
         "form-save": "Save",

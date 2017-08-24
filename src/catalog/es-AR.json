@@ -748,6 +748,7 @@
         "create-date": "Fecha de Creación",
         "purchase-id": "Id compra",
         "specific-id": "Para encontrar un Id específico, complete solamente el campo \"De\"",
+        "date-presale": "Fecha de Pre-Venta",
         "installments": "Cuotas",
         "not-in-stock": "Sin stock",
         "product-name": "Nome del producto",
@@ -761,6 +762,7 @@
         "up-to-40-items": "hasta 40 items por página",
         "voucher-status": "Status de vale",
         "purchase-status": "Status de Compra",
+        "telesales-agent": "Agente Televendas",
         "administrator-name": "Nombre del administrador",
         "id-sku-marketplace": "Id SKU (Marketplace)",
         "clear-search-filters": "Limpar filtros de búsqueda",
@@ -1191,6 +1193,7 @@
     "list-type-form": {
         "no": "No",
         "yes": "Si",
+        "info": "Rellene la información para el nuevo tipo de lista<br />Después de <strong>crear</strong> una lista de este tipo, algunas configuraciones ya <strong>no</strong> se pueden cambiar.",
         "title": "Tipo de Lista",
         "form-back": "Volver",
         "form-save": "Guardar",
