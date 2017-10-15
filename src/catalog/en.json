@@ -2134,5 +2134,28 @@
         "table-cell-active": "Active",
         "table-link-remove": "Remove",
         "table-cell-inactive": "Inactive"
+    },
+    "voucher-statement": {
+        "no": "no",
+        "yes": "yes",
+        "back": "Back",
+        "date": "Date",
+        "type": "Type",
+        "debit": "Debit",
+        "title": "Voucher Statement",
+        "value": "Total",
+        "credit": "Credit",
+        "status": "Status",
+        "system": "Sytem",
+        "expires": "Expiration Date",
+        "admin-id": "Admin: ",
+        "reusable": "Reusable",
+        "restricted": "Doc Restricted",
+        "description": "Description",
+        "responsible": "Responsible",
+        "rechargeable": "Rechargeable",
+        "not-specified": "Not specified",
+        "total-balance": "Balance",
+        "view-purchase": "Go to Order"
     }
 }

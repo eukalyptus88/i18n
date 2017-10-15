@@ -2134,5 +2134,28 @@
         "table-cell-active": "Activo",
         "table-link-remove": "Excluir",
         "table-cell-inactive": "Inactivo"
+    },
+    "voucher-statement": {
+        "no": "não",
+        "yes": "sim",
+        "back": "Voltar",
+        "date": "Data",
+        "type": "Tipo",
+        "debit": "Débito",
+        "title": "Extrato do Vale: ",
+        "value": "Valor",
+        "credit": "Crédito",
+        "status": "Status",
+        "system": "Sistema",
+        "expires": "Valido até",
+        "admin-id": "Administrador: ",
+        "reusable": "Reutilizável",
+        "restricted": "Restrito",
+        "description": "Descrição",
+        "responsible": "Responsável",
+        "rechargeable": "Recarregável",
+        "not-specified": "Não especificado",
+        "total-balance": "Saldo Total",
+        "view-purchase": "Visualizar compra"
     }
 }
