@@ -1031,7 +1031,7 @@
                 "0": "Attention! Your store is registered in Lomadee with the code ",
                 "1": " And the campaign of Lomadee is active on VTEX, even is the field is not filled, the product will be sold using the regular campaign "
             },
-            "releaseDate": "Market Lunch date ",
+            "releaseDate": "Market Launch date ",
             "activateSKUs": "Activate all product SKUs ",
             "referenceCode": " Product Reference Code",
             "textLink-info": "(Used to build the Url Product) <strong> Do not use accents nor spaces! </ Strong>",
