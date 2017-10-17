@@ -97,7 +97,8 @@
             "requiredField": "<li class=\"error\">Required Field </li>",
             "clearSelection": "Clear selection",
             "selectCategory": "Select Category",
-            "search-category": "Search category"
+            "search-category": "Search category",
+            "selectGlobalCategory": "Select Vtex Global Category"
         },
         "txtGeral": {
             "message-requiered": "Required"
@@ -562,6 +563,7 @@
         "name": "Name",
         "delete": "Delete",
         "actions": "Actions",
+        "category": "Category",
         "position": "Position",
         "button-save": "Save",
         "top-warning": "Fill the category information",
@@ -2142,7 +2144,7 @@
         "date": "Date",
         "type": "Type",
         "debit": "Debit",
-        "title": "Voucher Statement",
+        "title": "Voucher Statement: ",
         "value": "Total",
         "credit": "Credit",
         "status": "Status",

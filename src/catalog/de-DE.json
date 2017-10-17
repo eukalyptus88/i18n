@@ -385,6 +385,7 @@
         "name": "Name",
         "delete": "Löschen",
         "actions": "Aktionen",
+        "category": "Kategorie",
         "position": "Position",
         "button-save": "Speichern",
         "top-warning": "Füllen Sie die Kategorie Informationen",

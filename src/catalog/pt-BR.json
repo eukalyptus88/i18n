@@ -97,7 +97,8 @@
             "requiredField": "<li class=\"erro\">Campo Obrigatório</li>",
             "clearSelection": "Limpar seleção",
             "selectCategory": "Selecionar Categoria",
-            "search-category": "Pesquisar categoria"
+            "search-category": "Pesquisar categoria",
+            "selectGlobalCategory": "Selecionar Categoria Global Vtex"
         },
         "txtGeral": {
             "message-requiered": "Obrigatório"
@@ -562,6 +563,7 @@
         "name": "Nome",
         "delete": "Excluir",
         "actions": "Ações",
+        "category": "Categoria",
         "examples": "Exemplos:",
         "position": "Posição",
         "button-save": "Salvar",
