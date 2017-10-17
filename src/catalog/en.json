@@ -967,6 +967,7 @@
         "add-category": "Add Category",
         "add-provider": "Add Provider",
         "edit-voucher": "Edit Voucher",
+        "field-values": "Field Values",
         "image-export": "Image Export",
         "price-ranges": "Price Ranges",
         "add-list-type": "Add List Type",
@@ -2161,5 +2162,23 @@
         "not-specified": "Not specified",
         "total-balance": "Balance",
         "view-purchase": "Go to Order"
+    },
+    "field-value": {
+        "no": "No",
+        "yes": "Yes",
+        "edit": "Edit",
+        "name": "Name",
+        "alter": "Alter",
+        "error": "<p class='alertmsg'>Warning: This value could not be deleted. Probably it is already associated with some product or sku.</p>",
+        "title": "Field - Field Values Admin",
+        "active": "Active",
+        "exclude": "Exclude",
+        "no-items": "There are no registered Values for this Field",
+        "position": "Position",
+        "new-value": "New valuue",
+        "order-abc": "Sort Alphabetically",
+        "back-to-list": "Back to field listing",
+        "change-position-tip1": "To change the position click the icon ",
+        "change-position-tip2": " and drag to the desired position."
     }
 }

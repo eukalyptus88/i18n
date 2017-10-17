@@ -967,6 +967,7 @@
         "add-category": "Agregar Categoría",
         "add-provider": "Agregar Proveedor",
         "edit-voucher": "Editar Vale",
+        "field-values": "Valores de Campo",
         "image-export": "Exportación de Imágenes",
         "price-ranges": "Rango de Precio",
         "add-list-type": "Agregar Tipo de Lista",
@@ -2161,5 +2162,23 @@
         "not-specified": "Não especificado",
         "total-balance": "Saldo Total",
         "view-purchase": "Visualizar compra"
+    },
+    "field-value": {
+        "no": "No",
+        "yes": "Si",
+        "edit": "Editar",
+        "name": "Nombre",
+        "alter": "Cambiar",
+        "error": "<p class='alertmsg'>Atención: No se pudo eliminar este valor. Probablemente ya está asociado a algún producto o sku.</p>",
+        "title": "Campo - Administración de Valores de Campo",
+        "active": "Activo",
+        "exclude": "Eliminar",
+        "no-items": "No hay Valores registrados para este Campo",
+        "position": "Posición",
+        "new-value": "Nuevo valor",
+        "order-abc": "Ordenar Alfabético",
+        "back-to-list": "Volver al listado de campos",
+        "change-position-tip1": "Para cambiar la posición, haga click en el icono ",
+        "change-position-tip2": " y arrastrehasta la posición deseada."
     }
 }
