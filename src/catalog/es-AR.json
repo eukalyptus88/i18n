@@ -1013,6 +1013,7 @@
     "productForm": {
         "message": "Es necesario hacer click en el botón Guardar para que los cambios tengan efecto.",
         "product": {
+            "yes": " Si",
             "info": "Complete las informaciones referentes al Producto.",
             "name": "Nombre",
             "save": "Guardar",

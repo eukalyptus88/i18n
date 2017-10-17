@@ -1013,6 +1013,7 @@
     "productForm": {
         "message": " You must click the save button for the changes to take effect.",
         "product": {
+            "yes": " Yes",
             "info": "Fill with product information",
             "name": "Name",
             "save": "Save",
@@ -1022,7 +1023,7 @@
             "active": "Product active",
             "return": "Return",
             "stores": "resellers:",
-            "taxcode": "Fiscal Code",
+            "taxcode": "Tax Code",
             "category": "Category",
             "editDate": "Last update ",
             "provider": "Provider",
