@@ -36,6 +36,9 @@
     "checkoutFailure": "Ocorreu um erro na geração do pedido recorrente",
     "lackStock": "Pedido recorrente não gerado por indisponibilidade de item(ns)"
   },
+  "googleshopping": {
+    "authorizationRequired": "Autorizar a integração do google shopping no bridge"
+  },
   "logistics":{
     "lowStock": "SKU com baixa disponibilidade."
   }
